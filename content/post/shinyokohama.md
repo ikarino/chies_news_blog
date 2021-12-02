@@ -1,0 +1,61 @@
++++
+author = "Lettuce Master"
+title = "新横浜のアジアンエステ嬢情報"
+date = "2020-1-1"
+description = "新横浜の最新アジアンエステ嬢情報です。"
+tags = [
+]
+categories = [
+    "地域別情報",
+]
+series = ["地域別情報"]
+aliases = ["migrate-from-jekyl"]
++++
+
+## [誘惑](http://h.hccg.work/)
+## [Dream Spa](http://dream.relaxnabi.com/)
+- (D)
+- (F)
+- B86
+- B87
+- B91
+## [ピュアガール](http://pure.relaxnabi.com/)
+- (D)
+- 胸
+- B86
+- B89
+## [アロマフラワーサロン](http://flower-esthe.xyz/)
+- セクシー
+- B86
+## [マイーマリヤ](http://r-relax.info/)
+- (C)
+- (D)
+- (E)
+- B83
+- B85
+- B86
+- B88
+- B89
+## [IRIS](http://xn--cckubj6bwie8h7e.net/)
+- セクシー
+## [悠楽](http://www.awaspa-est.net/)
+## [風情](http://fuzei.xyz/)
+- (C)
+## [SRP](https://s-r-p.jp/)
+[twitter](ttps://twitter.com/shiyokohama?ref_src=twsrc%5Etf)
+- (C)
+- (D)
+- 胸
+- セクシー
+- B85
+- B86
+- B87
+## [Rose Color ローズカラー](https://rosecolor.jp/)
+[twitter](ttps://twitter.com/rosecolorjp?ref_src=twsrc%5Etf)
+- (C)
+- (D)
+- 胸
+- セクシー
+- B85
+- B86
+- B87

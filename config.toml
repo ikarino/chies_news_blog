@@ -1,0 +1,27 @@
+baseURL = 'https://kyonyu-chies.work/'
+disablePathToLower = true
+languageCode = 'ja-jp'
+title = 'Chies News Blog'
+theme = "docter"
+
+[params]
+  # the name of your project and a link back to the home page
+  home = "最新アジアンエステ嬢"
+  # A small snippet of text above the sidebar:
+  # subtitle = ""
+  author = "@master_lettuce"
+  author_url= "https://twitter.com/master_lettuce"
+  # Point readers to your repo and invite them to edit pages 
+  # repo_host = "Gitlab"
+  # repo = "https://gitlab.com/edavidaja/docter"
+  # Add a reference to a logo, which will appear in the top right
+  # logourl = ""
+  # logoalt = ""
+  # Mention your hosting provider 
+  hosted_on = "netlify"
+  hosted_on_url= "https://www.netlify.com/"
+  # main sections
+  # change the main section to set the directory where the top articles are sourced
+  mainSections = ["post"]
+  # brand color
+  brand_color = "#7300ac"
