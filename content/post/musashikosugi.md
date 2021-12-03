@@ -16,6 +16,12 @@ aliases = ["migrate-from-jekyl"]
 ## [アーモンド](http://almond.est.cm/)
 ## [ナンバーワン](http://www.number-one.work/)
 - (C)
+## [蛍 ホタル](https://hotaru.ests.jp/)
+- (D)
+- (E)
+- B85
+- B87
+- B92
 ## [恋愛学園](https://koigakuin.estjp.info/)
 - (C)
 - (D)
@@ -35,12 +41,6 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
-## [蛍 ホタル](https://hotaru.ests.jp/)
-- (D)
-- (E)
-- B85
-- B87
-- B92
 ## [Dear](http://dear.qws.esute-jp.com/)
 - (C)
 - (D)
@@ -51,6 +51,7 @@ aliases = ["migrate-from-jekyl"]
 ## [悠](http://www.yu202.com/)
 - B83
 - B86
+## [エンジョイ](http://www.enjoy-es.info/)
 ## [The One](http://yumesen.work/)
 - (C)
 - (D)
@@ -61,7 +62,6 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
-## [エンジョイ](http://www.enjoy-es.info/)
 ## [Pink Cocoro](http://familiar.este88.com/)
 - (C)
 - (D)
@@ -72,13 +72,6 @@ aliases = ["migrate-from-jekyl"]
 - B80
 - B83
 - B85
-## [海のランド](https://uminorand.xyz.mn/)
-- (D)
-- (E)
-- B86
-- B87
-- B88
-- B90
 ## [花魁](http://www.kangobisyojo.esturl.com/)
 - (C)
 - (D)

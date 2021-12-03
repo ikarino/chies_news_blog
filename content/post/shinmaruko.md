@@ -12,6 +12,16 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+## [Alice アリス](http://alice-est.tokyo/)
+- (C)
+- (D)
+- (F)
+## [星空](https://hoshizora.iest.info/)
+- (D)
+- B83
+- B85
+- B86
+- B87
 ## [ほっこり](http://hokkori.iest.info/)
 - (C)
 - (D)
@@ -23,17 +33,10 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B89
-## [Alice アリス](http://alice-est.tokyo/)
-- (C)
-- (D)
-- (F)
 ## [夢の庭](http://es-come.net/yumeniwa/)
-## [星空](https://hoshizora.iest.info/)
-- (D)
-- B83
-- B85
-- B86
-- B87
+## [Baby ベビー](http://es-heal.com/)
+- (C)
+- Eカップ
 ## [キュアレ](https://cure-re.xyz.mn/)
 - (D)
 - (E)
@@ -41,6 +44,3 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B86
 - B87
-## [Baby ベビー](http://es-heal.com/)
-- (C)
-- Eカップ

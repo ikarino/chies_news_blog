@@ -19,9 +19,6 @@ aliases = ["migrate-from-jekyl"]
 - (F)
 - 胸
 - セクシー
-## [Miss You ミスユー](http://missyou.me-es.com/)
-- (C)
-- セクシー
 ## [Sunny サニー](https://sunny.xyz.mn/)
 [twitter](ttps://twitter.com/amy19970912?ref_src=twsrc%5Etf)
 - (C)
@@ -30,13 +27,6 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B86
 - B87
-## [紫月](https://sunflower.jp.net/)
-- (C)
-- セクシー
-- B88
-- B89
-- B90
-- B96
 ## [Dear](https://dear.xyz.mn/)
 - (C)
 - (D)
@@ -44,11 +34,9 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 ## [スマイル](https://candygm.xyz/)
-## [しるし](http://shirushi.me-es.com/)
-- (D)
-- B85
-- B86
-- B89
+## [Miss You ミスユー](http://missyou.me-es.com/)
+- (C)
+- セクシー
 ## [古田](http://furuta-massage.work/)
 - (C)
 - (D)
@@ -59,4 +47,16 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
+- B89
+## [紫月](https://sunflower.jp.net/)
+- (C)
+- セクシー
+- B88
+- B89
+- B90
+- B96
+## [しるし](http://shirushi.me-es.com/)
+- (D)
+- B85
+- B86
 - B89

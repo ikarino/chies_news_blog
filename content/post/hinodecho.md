@@ -16,13 +16,13 @@ aliases = ["migrate-from-jekyl"]
 ## [流馨園](http://ee-relax.com/ryuukeien/)
 ## [癒](http://www.est-baby.work/)
 ## [沙霧 さぎり](http://sg.msji.work/)
+## [縁](http://miyabi.jpest.net/)
+- B99
 ## [Luckys ラッキーズ](http://esthe-aroma.info/)
 - (D)
 - (E)
 - 胸
 - B86
-## [縁](http://miyabi.jpest.net/)
-- B99
 ## [Nana ナナ](http://relax-massage.blue/)
 - (C)
 - (D)
