@@ -12,15 +12,12 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [夢苑](http://yumeen.jpest.net/)
-- (C)
 ## [憩い](http://massage-esthe.tokyo/)
 - (D)
 - (E)
 - 胸
 ## [紅楼夢](https://kou-rou-mu.sweet-relaxation.com/)
 [twitter](ttps://twitter.com/sgnm_kouroum)
-## [縁](http://lavender.este88.com/)
 ## [天使](https://tenshi.jpn.vin/)
 - (C)
 - (D)
@@ -28,6 +25,9 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B87
 - B89
+## [縁](http://lavender.este88.com/)
+## [夢苑](http://yumeen.jpest.net/)
+- (C)
 ## [楽らく](http://rkrk.info/)
 - (D)
 - Cカップ

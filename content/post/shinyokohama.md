@@ -19,11 +19,16 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B91
+## [恋の夜](http://hi-msg.com/koinoyoru/)
+- Dカップ
 ## [ピュアガール](http://pure.relaxnabi.com/)
 - (D)
 - 胸
 - B86
 - B89
+## [アロマフラワーサロン](http://flower-esthe.xyz/)
+- セクシー
+- B86
 ## [マイーマリヤ](http://r-relax.info/)
 - (C)
 - (D)
@@ -33,16 +38,13 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B88
 - B89
-## [アロマフラワーサロン](http://flower-esthe.xyz/)
-- セクシー
-- B86
 ## [IRIS](http://xn--cckubj6bwie8h7e.net/)
 - セクシー
-## [悠楽](http://www.awaspa-est.net/)
 ## [風情](http://fuzei.xyz/)
 - (C)
-## [Rose Color ローズカラー](https://rosecolor.jp/)
-[twitter](ttps://twitter.com/rosecolorjp?ref_src=twsrc%5Etf)
+## [悠楽](http://www.awaspa-est.net/)
+## [SRP](https://s-r-p.jp/)
+[twitter](ttps://twitter.com/shiyokohama?ref_src=twsrc%5Etf)
 - (C)
 - (D)
 - 胸
@@ -50,8 +52,8 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B86
 - B87
-## [SRP](https://s-r-p.jp/)
-[twitter](ttps://twitter.com/shiyokohama?ref_src=twsrc%5Etf)
+## [Rose Color ローズカラー](https://rosecolor.jp/)
+[twitter](ttps://twitter.com/rosecolorjp?ref_src=twsrc%5Etf)
 - (C)
 - (D)
 - 胸
