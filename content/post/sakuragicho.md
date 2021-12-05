@@ -20,11 +20,6 @@ aliases = ["migrate-from-jekyl"]
 - セクシー
 - B85
 - B86
-## [新台北](https://www.shin-taipei-massage.com/)
-[twitter](ttps://twitter.com/Ki2Si0ieREogOR)
-- (C)
-- (G)
-- (I)
 ## [花水木](http://relaxation.pink/)
 - (D)
 - (E)
@@ -40,3 +35,8 @@ aliases = ["migrate-from-jekyl"]
 - (F)
 - B86
 - B88
+## [新台北](https://www.shin-taipei-massage.com/)
+[twitter](https://twitter.com/Ki2Si0ieREogORz)
+- (C)
+- (G)
+- (I)

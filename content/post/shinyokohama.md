@@ -13,12 +13,6 @@ aliases = ["migrate-from-jekyl"]
 +++
 
 ## [誘惑](http://h.hccg.work/)
-## [Dream Spa](http://dream.relaxnabi.com/)
-- (D)
-- (F)
-- B86
-- B87
-- B91
 ## [恋の夜](http://hi-msg.com/koinoyoru/)
 - Dカップ
 ## [ピュアガール](http://pure.relaxnabi.com/)
@@ -26,6 +20,12 @@ aliases = ["migrate-from-jekyl"]
 - 胸
 - B86
 - B89
+## [Dream Spa](http://dream.relaxnabi.com/)
+- (D)
+- (F)
+- B86
+- B87
+- B91
 ## [アロマフラワーサロン](http://flower-esthe.xyz/)
 - セクシー
 - B86
@@ -40,11 +40,11 @@ aliases = ["migrate-from-jekyl"]
 - B89
 ## [IRIS](http://xn--cckubj6bwie8h7e.net/)
 - セクシー
+## [悠楽](http://www.awaspa-est.net/)
 ## [風情](http://fuzei.xyz/)
 - (C)
-## [悠楽](http://www.awaspa-est.net/)
 ## [SRP](https://s-r-p.jp/)
-[twitter](ttps://twitter.com/shiyokohama?ref_src=twsrc%5Etf)
+[twitter](https://twitter.com/shiyokohama?ref_src=twsrc%5Etfw)
 - (C)
 - (D)
 - 胸
@@ -53,7 +53,7 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 ## [Rose Color ローズカラー](https://rosecolor.jp/)
-[twitter](ttps://twitter.com/rosecolorjp?ref_src=twsrc%5Etf)
+[twitter](https://twitter.com/rosecolorjp?ref_src=twsrc%5Etfw)
 - (C)
 - (D)
 - 胸

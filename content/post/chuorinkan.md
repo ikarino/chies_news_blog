@@ -29,28 +29,28 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B88
 - B89
+## [姫](http://www.hime.relaxjp.info/)
+- (D)
+- B87
+## [りんご](http://www.ringo.mensest.com/)
+- (C)
+- (D)
+- B86
+- B87
 ## [チェリー](http://www.cherry.estheshop.com/)
 - (D)
 - Dカップ
 - B85
 - B87
 - B88
-## [姫](http://www.hime.relaxjp.info/)
-- (D)
-- B87
 ## [たんぽぽ](https://tanpopopo.com/)
-[twitter](ttps://twitter.com/ogikuboesth)
+[twitter](https://twitter.com/ogikuboesthe)
 - (C)
 - (G)
 ## [プレミア](http://www.premier.esturl.com/)
 - (C)
 - (D)
 - B85
-- B86
-- B87
-## [りんご](http://www.ringo.mensest.com/)
-- (C)
-- (D)
 - B86
 - B87
 ## [Aimu アイム](http://www.aimu.iesjp.com/)

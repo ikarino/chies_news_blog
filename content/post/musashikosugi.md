@@ -14,6 +14,13 @@ aliases = ["migrate-from-jekyl"]
 
 ## [リリーフ](http://relief.ests.jp/)
 ## [アーモンド](http://almond.est.cm/)
+## [心庵(こころあん)](http://kokoroan.info/)
+- (D)
+- B84
+- B85
+- B86
+- B87
+- B88
 ## [ナンバーワン](http://www.number-one.work/)
 - (C)
 ## [蛍 ホタル](https://hotaru.ests.jp/)
@@ -22,13 +29,6 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B87
 - B92
-## [Dear](http://dear.qws.esute-jp.com/)
-- (C)
-- (D)
-- (E)
-- B84
-- B86
-- B88
 ## [恋愛学園](https://koigakuin.estjp.info/)
 - (C)
 - (D)
@@ -41,6 +41,13 @@ aliases = ["migrate-from-jekyl"]
 - B89
 - B90
 - B92
+## [Dear](http://dear.qws.esute-jp.com/)
+- (C)
+- (D)
+- (E)
+- B84
+- B86
+- B88
 ## [悠](http://www.yu202.com/)
 - B83
 - B86
@@ -54,13 +61,9 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
-## [心庵(こころあん)](http://kokoroan.info/)
+## [Pink Cocoro](http://familiar.este88.com/)
+- (C)
 - (D)
-- B84
-- B85
-- B86
-- B87
-- B88
 ## [エンジョイ](http://www.enjoy-es.info/)
 ## [せせらぎ](http://seseragi-massage.work/)
 - (C)
@@ -69,9 +72,11 @@ aliases = ["migrate-from-jekyl"]
 - B80
 - B83
 - B85
-## [Pink Cocoro](http://familiar.este88.com/)
-- (C)
+## [さくら](https://sakuraa.jps.mn/)
 - (D)
+- B83
+- B85
+- B86
 ## [花魁](http://www.kangobisyojo.esturl.com/)
 - (C)
 - (D)
@@ -79,12 +84,7 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
-## [さくら](https://sakuraa.jps.mn/)
-- (D)
-- B83
-- B85
-- B86
 ## [花の心](https://www.hananokokoro.com/)
-[twitter](ttps://twitter.com/rhanakokor)
+[twitter](https://twitter.com/rhanakokoro)
 ## [午後の茶](http://rlx-es.com/)
 - (C)
