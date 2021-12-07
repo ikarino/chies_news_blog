@@ -3,6 +3,7 @@ disablePathToLower = true
 languageCode = 'ja-jp'
 title = 'Chies News Blog'
 theme = "docter"
+googleAnalytics = "UA-155850634-1"
 
 [params]
   # the name of your project and a link back to the home page
