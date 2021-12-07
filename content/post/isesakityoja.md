@@ -29,6 +29,7 @@ aliases = ["migrate-from-jekyl"]
 - B89
 - B90
 - B96
+## [スマイル](https://candygm.xyz/)
 ## [Sunny サニー](https://sunny.xyz.mn/)
 [twitter](https://twitter.com/amy19970912?ref_src=twsrc%5Etfw)
 - (C)
@@ -37,7 +38,6 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B86
 - B87
-## [スマイル](https://candygm.xyz/)
 ## [Dear](https://dear.xyz.mn/)
 - (C)
 - (D)

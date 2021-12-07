@@ -16,9 +16,10 @@ aliases = ["migrate-from-jekyl"]
 - (D)
 - (E)
 - 胸
-## [縁](http://lavender.este88.com/)
 ## [夢苑](http://yumeen.jpest.net/)
 - (C)
+## [紅楼夢](https://kou-rou-mu.sweet-relaxation.com/)
+[twitter](https://twitter.com/sgnm_kouroumu)
 ## [天使](https://tenshi.jpn.vin/)
 - (C)
 - (D)
@@ -26,8 +27,6 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B87
 - B89
-## [紅楼夢](https://kou-rou-mu.sweet-relaxation.com/)
-[twitter](https://twitter.com/sgnm_kouroumu)
 ## [楽らく](http://rkrk.info/)
 - (D)
 - Cカップ
@@ -38,6 +37,7 @@ aliases = ["migrate-from-jekyl"]
 - Dカップ
 - B86
 - B87
+## [縁](http://lavender.este88.com/)
 ## [癒し薔薇](http://www.bara.estheshop.com/)
 - (C)
 - (D)

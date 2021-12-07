@@ -20,8 +20,9 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B87
 - B92
-## [ナンバーワン](http://www.number-one.work/)
-- (C)
+## [悠](http://www.yu202.com/)
+- B83
+- B86
 ## [恋愛学園](https://koigakuin.estjp.info/)
 - (C)
 - (D)
@@ -34,22 +35,14 @@ aliases = ["migrate-from-jekyl"]
 - B89
 - B90
 - B92
-## [悠](http://www.yu202.com/)
-- B83
-- B86
+## [ナンバーワン](http://www.number-one.work/)
+- (C)
 ## [Dear](http://dear.qws.esute-jp.com/)
 - (C)
 - (D)
 - (E)
 - B84
 - B86
-- B88
-## [心庵(こころあん)](http://kokoroan.info/)
-- (D)
-- B84
-- B85
-- B86
-- B87
 - B88
 ## [エンジョイ](http://www.enjoy-es.info/)
 ## [花魁](http://www.kangobisyojo.esturl.com/)
@@ -62,6 +55,13 @@ aliases = ["migrate-from-jekyl"]
 ## [Pink Cocoro](http://familiar.este88.com/)
 - (C)
 - (D)
+## [心庵(こころあん)](http://kokoroan.info/)
+- (D)
+- B84
+- B85
+- B86
+- B87
+- B88
 ## [The One](http://yumesen.work/)
 - (C)
 - (D)

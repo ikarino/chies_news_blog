@@ -38,9 +38,9 @@ aliases = ["migrate-from-jekyl"]
 ## [アロマフラワーサロン](http://flower-esthe.xyz/)
 - セクシー
 - B86
-## [悠楽](http://www.awaspa-est.net/)
 ## [IRIS](http://xn--cckubj6bwie8h7e.net/)
 - セクシー
+## [悠楽](http://www.awaspa-est.net/)
 ## [風情](http://fuzei.xyz/)
 - (C)
 ## [SRP](https://s-r-p.jp/)
