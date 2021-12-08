@@ -12,9 +12,6 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [Venus ビーナス](http://www.ovenus.work/)
-[twitter](https://twitter.com/venus77116830?ref_src=twsrc%5Etfw)
-- 胸
 ## [桜](http://www.est-sakura.work/)
 ## [with you](http://with-you.iest.info/)
 - (D)
@@ -22,10 +19,9 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
-## [ピンクgirl](http://girl.menzue.com/)
-- (D)
-- セクシー
-- B86
+## [Venus ビーナス](http://www.ovenus.work/)
+[twitter](https://twitter.com/venus77116830?ref_src=twsrc%5Etfw)
+- 胸
 ## [愛](https://nekonoheya.ests.jp/)
 - (C)
 - (D)
@@ -41,14 +37,12 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B86
 - B87
+## [ピンクgirl](http://girl.menzue.com/)
+- (D)
+- セクシー
+- B86
 ## [メルティシュガー](http://www3.spa-omori.com/)
 - セクシー
-## [オアシス](http://www.oasis.maesjp.com/)
-- (C)
-- (D)
-- B83
-- B85
-- B86
 ## [癒し美少女](http://www.bishoujo.esthejp.com/)
 - (C)
 - (D)
@@ -65,6 +59,12 @@ aliases = ["migrate-from-jekyl"]
 ## [縁](https://en.jpn.vin/)
 - (C)
 - (D)
+- B85
+- B86
+## [オアシス](http://www.oasis.maesjp.com/)
+- (C)
+- (D)
+- B83
 - B85
 - B86
 ## [Sexy Girl](http://www.sexygirl.estjpn.com/)
