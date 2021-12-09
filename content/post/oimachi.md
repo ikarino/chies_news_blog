@@ -50,17 +50,17 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
+## [縁](https://en.jpn.vin/)
+- (C)
+- (D)
+- B85
+- B86
 ## [つぼみ](http://rin-rinpa.info/)
 [twitter](https://twitter.com/ogikuboesthe)
 - (C)
 - (D)
 - (E)
 - (F)
-## [縁](https://en.jpn.vin/)
-- (C)
-- (D)
-- B85
-- B86
 ## [オアシス](http://www.oasis.maesjp.com/)
 - (C)
 - (D)
