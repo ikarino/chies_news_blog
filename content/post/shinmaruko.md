@@ -34,6 +34,10 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 ## [夢の庭](http://es-come.net/yumeniwa/)
+## [春屋](http://www.haruya.esturl.com/)
+- (C)
+- (D)
+- B87
 ## [キュアレ](https://cure-re.xyz.mn/)
 - (D)
 - (E)
@@ -44,7 +48,3 @@ aliases = ["migrate-from-jekyl"]
 ## [Baby ベビー](http://es-heal.com/)
 - (C)
 - Eカップ
-## [春屋](http://www.haruya.esturl.com/)
-- (C)
-- (D)
-- B87

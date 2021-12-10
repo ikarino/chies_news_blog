@@ -12,19 +12,11 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [YoYo20](http://massage-est.com/)
-- (C)
-- (D)
-- (E)
-- (F)
-- 胸
-- セクシー
 ## [Miss You ミスユー](http://missyou.me-es.com/)
 - (C)
 - セクシー
 ## [紫月](https://sunflower.jp.net/)
 - (C)
-- セクシー
 - B88
 - B89
 - B90
