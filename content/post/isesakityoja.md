@@ -36,6 +36,7 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B86
 - B87
+## [怡友 いゆう](https://www.iyuu.work/)
 ## [古田](http://furuta-massage.work/)
 - (C)
 - (D)

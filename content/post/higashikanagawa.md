@@ -12,12 +12,11 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [LIFE STYLE](http://akibnd.xyz/)
 ## [恋姫 こいき](http://sidertn.xyz/)
-## [癒しの楽園](http://www.ipuyvyta.xyz/)
 ## [みさき](http://ciliasa.xyz/)
+## [LIFE STYLE](http://akibnd.xyz/)
+## [癒しの楽園](http://www.ipuyvyta.xyz/)
 ## [楽々ヴィーナス](http://www.rakuraku-venus.xyz/)
-## [花水木](http://est-hanamizuki.com/)
 ## [雅美](http://sivertsa.xyz/)
 - (D)
 - 胸
@@ -29,6 +28,12 @@ aliases = ["migrate-from-jekyl"]
 - B84
 - B86
 - B87
+## [花水木](http://est-hanamizuki.com/)
+## [泡姫](http://pao.vdeg.xyz/)
+[twitter](https://twitter.com/lmq102?ref_src=twsrc%5Etfw)
+- (C)
+- (D)
+- B85
 ## [縁結び](http://higashikanagawamenest.xyz/)
 - 胸
 ## [アジール](https://aslie.ests.jp/)
@@ -42,17 +47,17 @@ aliases = ["migrate-from-jekyl"]
 - B88
 ## [レインボー虹](http://www.sh-riraku113.xyz/)
 - (C)
-## [スタイリー](https://styley.oks.bz/)
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
 ## [恋の夜](http://www.mizusakura.esthejp.com/)
 - (C)
 - (D)
 - (E)
+- B83
+- B85
+- B86
+- B87
+## [スタイリー](https://styley.oks.bz/)
+- (C)
+- (D)
 - B83
 - B85
 - B86
@@ -65,17 +70,17 @@ aliases = ["migrate-from-jekyl"]
 - セクシー
 - B86
 - B87
+## [ハッピー](http://www.lavender.esjoho.com/)
+- (D)
+- (F)
+- B86
+- B87
+- B88
 ## [Call me](https://callme.iest.info/)
 - (C)
 - (D)
 - (E)
 - B85
-- B86
-- B87
-- B88
-## [ハッピー](http://www.lavender.esjoho.com/)
-- (D)
-- (F)
 - B86
 - B87
 - B88

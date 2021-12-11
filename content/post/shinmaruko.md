@@ -38,6 +38,8 @@ aliases = ["migrate-from-jekyl"]
 - (C)
 - (D)
 - B87
+## [夜の優しい](http://relax-sln.com/)
+- (C)
 ## [キュアレ](https://cure-re.xyz.mn/)
 - (D)
 - (E)
