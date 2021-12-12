@@ -32,10 +32,6 @@ aliases = ["migrate-from-jekyl"]
 ## [姫](http://www.hime.relaxjp.info/)
 - (D)
 - B87
-## [たんぽぽ](https://tanpopopo.com/)
-[twitter](https://twitter.com/ogikuboesthe)
-- (C)
-- (G)
 ## [チェリー](http://www.cherry.estheshop.com/)
 - (C)
 - (D)
@@ -44,19 +40,23 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B87
 - B88
-## [プレミア](http://www.premier.esturl.com/)
+## [たんぽぽ](https://tanpopopo.com/)
+[twitter](https://twitter.com/ogikuboesthe)
+- (C)
+- (G)
+## [りんご](http://www.ringo.mensest.com/)
 - (C)
 - (D)
-- B83
-- B85
+- B86
 - B87
 ## [Aimu アイム](http://www.aimu.iesjp.com/)
 - (C)
 - (D)
 - B86
 - B87
-## [りんご](http://www.ringo.mensest.com/)
+## [プレミア](http://www.premier.esturl.com/)
 - (C)
 - (D)
-- B86
+- B83
+- B85
 - B87

@@ -12,9 +12,6 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [Miss You ミスユー](http://missyou.me-es.com/)
-- (C)
-- セクシー
 ## [紫月](https://sunflower.jp.net/)
 - (C)
 - B88
@@ -36,7 +33,6 @@ aliases = ["migrate-from-jekyl"]
 - B85
 - B86
 - B87
-## [怡友 いゆう](https://www.iyuu.work/)
 ## [古田](http://furuta-massage.work/)
 - (C)
 - (D)
@@ -48,6 +44,7 @@ aliases = ["migrate-from-jekyl"]
 - B87
 - B88
 - B89
+## [怡友 いゆう](https://www.iyuu.work/)
 ## [しるし](http://shirushi.me-es.com/)
 - (D)
 - B85
