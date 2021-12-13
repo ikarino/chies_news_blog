@@ -12,8 +12,8 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [隠れ家](https://jasmine-mizonokuti.xyz/)
 ## [ラブリーハート](http://biraku.este88.com/)
+## [隠れ家](https://jasmine-mizonokuti.xyz/)
 ## [桜美](http://summer-n.com/rrr/)
 - (D)
 - (E)
@@ -39,4 +39,32 @@ aliases = ["migrate-from-jekyl"]
 - (E)
 - (F)
 - B86
+- B88
+## [ラブリーハート](http://biraku.este88.com/)
+## [隠れ家](https://jasmine-mizonokuti.xyz/)
+## [新台北](https://www.shin-taipei-massage.com/)
+[twitter](https://twitter.com/Ki2Si0ieREogORz)
+- (C)
+- (G)
+- (I)
+## [桜美](http://summer-n.com/rrr/)
+- (D)
+- (E)
+- セクシー
+- B85
+- B86
+## [Dream ドリーム](http://www.dream.esjp.info/)
+- (D)
+- (E)
+- (F)
+- B86
+- B88
+## [花水木](http://relaxation.pink/)
+- (D)
+- (E)
+- (F)
+- 胸
+- セクシー
+- B86
+- B87
 - B88

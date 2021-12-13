@@ -12,8 +12,8 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [楽々](http://rakurakuest.xyz/)
 ## [blue ブルー](http://tamaplazarelax.fun/)
+## [楽々](http://rakurakuest.xyz/)
 ## [健康サロン](http://esthe-relax.pink/)
 - (D)
 - (E)
@@ -31,16 +31,61 @@ aliases = ["migrate-from-jekyl"]
 - セクシー
 - B86
 - B87
+## [桃色](http://www.momoiro.mensest.com/)
+- (C)
+- (D)
+- B86
+- B87
 ## [Pink](http://www.pink.estjpn.com/)
 - (C)
 - (D)
 - B85
 - B87
 - B88
+## [アネックス](http://www.annex.aromanv.com/)
+- (C)
+- (D)
+- B85
+- B86
+- B87
+- B88
 ## [Angel](http://www.angel.relaxmens.com/)
 - (C)
 - (D)
 - B83
+- B86
+- B87
+## [艶](https://r-kashiwa.biz/)
+- (D)
+- (E)
+## [楽々](http://rakurakuest.xyz/)
+## [blue ブルー](http://tamaplazarelax.fun/)
+## [客来春](http://kixyakuraicixyun.este88.com/)
+## [健康サロン](http://esthe-relax.pink/)
+- (D)
+- (E)
+- B86
+## [爽健](http://relax-esthe.biz/)
+- セクシー
+- B86
+- B87
+## [白い恋人](http://koibito.mznab.com/)
+- (C)
+- (D)
+- Dカップ
+- B84
+- B85
+- B86
+- B92
+## [Pink](http://www.pink.estjpn.com/)
+- (C)
+- (D)
+- B85
+- B87
+- B88
+## [桃色](http://www.momoiro.mensest.com/)
+- (C)
+- (D)
 - B86
 - B87
 ## [アネックス](http://www.annex.aromanv.com/)
@@ -50,9 +95,10 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
-## [桃色](http://www.momoiro.mensest.com/)
+## [Angel](http://www.angel.relaxmens.com/)
 - (C)
 - (D)
+- B83
 - B86
 - B87
 ## [艶](https://r-kashiwa.biz/)
