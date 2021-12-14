@@ -14,6 +14,7 @@ weight = 1
 - [相模原](/post/sagamihara/)
 - [大船](/post/ofuna/)
 - [南林間](/post/minamirinkan/)
+- [登戸](/post/noborito/)
 - [新横浜](/post/shinyokohama/)
 - [新丸子](/post/shinmaruko/)
 - [三軒茶屋](/post/sangenchaya/)

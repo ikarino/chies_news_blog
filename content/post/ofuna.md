@@ -17,3 +17,8 @@ aliases = ["migrate-from-jekyl"]
 ## [悠楽](http://yu-raku.info/)
 - Dカップ
 - Eカップ
+## [YURA香](http://hoguraku.info/)
+## [康美](http://haruk.work/)
+## [悠楽](http://yu-raku.info/)
+- Dカップ
+- Eカップ

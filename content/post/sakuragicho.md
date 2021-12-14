@@ -14,8 +14,38 @@ aliases = ["migrate-from-jekyl"]
 
 ## [隠れ家](https://jasmine-mizonokuti.xyz/)
 ## [ラブリーハート](http://biraku.este88.com/)
+## [桜美](http://summer-n.com/rrr/)
+- (D)
+- (E)
+- セクシー
+- B85
+- B86
 ## [新台北](https://www.shin-taipei-massage.com/)
-[twitter](https://twitter.com/Ki2Si0ieREogORz)
+
+{{< twitter Ki2Si0ieREogORz >}}
+- (C)
+- (G)
+- (I)
+## [花水木](http://relaxation.pink/)
+- (D)
+- (E)
+- (F)
+- 胸
+- セクシー
+- B86
+- B87
+- B88
+## [Dream ドリーム](http://www.dream.esjp.info/)
+- (D)
+- (E)
+- (F)
+- B86
+- B88
+## [隠れ家](https://jasmine-mizonokuti.xyz/)
+## [ラブリーハート](http://biraku.este88.com/)
+## [新台北](https://www.shin-taipei-massage.com/)
+
+{{< twitter Ki2Si0ieREogORz >}}
 - (C)
 - (G)
 - (I)
@@ -25,6 +55,35 @@ aliases = ["migrate-from-jekyl"]
 - セクシー
 - B85
 - B86
+## [花水木](http://relaxation.pink/)
+- (D)
+- (E)
+- (F)
+- 胸
+- セクシー
+- B86
+- B87
+- B88
+## [Dream ドリーム](http://www.dream.esjp.info/)
+- (D)
+- (E)
+- (F)
+- B86
+- B88
+## [隠れ家](https://jasmine-mizonokuti.xyz/)
+## [ラブリーハート](http://biraku.este88.com/)
+## [桜美](http://summer-n.com/rrr/)
+- (D)
+- (E)
+- セクシー
+- B85
+- B86
+## [新台北](https://www.shin-taipei-massage.com/)
+
+{{< twitter Ki2Si0ieREogORz >}}
+- (C)
+- (G)
+- (I)
 ## [花水木](http://relaxation.pink/)
 - (D)
 - (E)

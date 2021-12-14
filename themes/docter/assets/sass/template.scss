@@ -528,4 +528,11 @@ Mobile Styles
 
 }
 
+// my css
 img[alt=new_girl] { width: 200px; }
+span.btn--red.btn--border-outset {
+    border: 6px outset #b9000e !important ;
+    color: #ffffff;
+    background-color: #ff0000;
+    padding: 0.1rem 1rem;
+}
