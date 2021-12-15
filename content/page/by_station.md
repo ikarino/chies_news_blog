@@ -10,6 +10,7 @@ weight = 1
 - [武蔵小杉](/post/musashikosugi/)
 - [大森](/post/omori/)
 - [蒲田](/post/kamata/)
+- [本厚木](/post/honatsugi/)
 - [伊勢佐木長者町](/post/isesakityoja/)
 - [相模原](/post/sagamihara/)
 - [大船](/post/ofuna/)
