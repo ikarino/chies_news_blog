@@ -33,6 +33,8 @@ aliases = ["migrate-from-jekyl"]
 - セクシー
 - B85
 - B86
+## [てんし](http://xn--ccker1snci.jp.net/)
+- B86
 ## [アカシヤ](http://akashiya-massage.com/)
 - (C)
 - (D)
@@ -41,8 +43,6 @@ aliases = ["migrate-from-jekyl"]
 - B86
 - B87
 - B88
-## [てんし](http://xn--ccker1snci.jp.net/)
-- B86
 ## [美蝶](http://bityou.jpest.net/)
 - (C)
 ## [JiJi](http://viyuiop.xyz/)

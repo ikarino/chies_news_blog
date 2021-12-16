@@ -33,7 +33,6 @@ aliases = ["migrate-from-jekyl"]
 - (C)
 - (D)
 - B85
-## [Himawari ひまわり](http://esthe-relax.info/)
 ## [すぱげってぃ](https://spaghetti.est.cm/)
 - (C)
 - (D)
@@ -50,6 +49,7 @@ aliases = ["migrate-from-jekyl"]
 - B92
 - B94
 - B95
+## [Himawari ひまわり](http://esthe-relax.info/)
 ## [ふれあい](http://a-relax.info/)
 - (C)
 - (D)
@@ -67,10 +67,6 @@ aliases = ["migrate-from-jekyl"]
 ## [サクラ](http://sakura-relax.work/)
 - (C)
 ## [癒しの森](http://relax-free.info/iyashinomori/)
-## [Rose ローズ](https://rose.xyz.mn/)
-- (C)
-- (D)
-- B85
 ## [すぱげってぃ](https://spaghetti.est.cm/)
 - (C)
 - (D)
@@ -87,4 +83,8 @@ aliases = ["migrate-from-jekyl"]
 - B92
 - B94
 - B95
+## [Rose ローズ](https://rose.xyz.mn/)
+- (C)
+- (D)
+- B85
 ## [Himawari ひまわり](http://esthe-relax.info/)
