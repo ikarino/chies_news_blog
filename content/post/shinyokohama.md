@@ -166,7 +166,6 @@ aliases = ["migrate-from-jekyl"]
 - B87
 ## [SRP](https://s-r-p.jp/)
 
-{{< twitter hashtag/%E6%96%B0%E6%A8%AA%E6%B5%9C%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%AD%E3%83%B3 >}}
 - (C)
 - (D)
 - 胸
