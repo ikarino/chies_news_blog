@@ -10,3 +10,5 @@ aliases = ["migrate-from-jekyl"]
 +++
 
 {{< twitter master_lettuce >}}
+
+{{< keyword Gカップ "https://google.co.jp" >}} {{< keyword Fカップ >}}
