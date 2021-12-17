@@ -12,10 +12,6 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [チェリー](http://www.cherry.estheshop.com/)
-## [プレミア](http://www.premier.esturl.com/)
-## [りんご](http://www.ringo.mensest.com/)
-## [ジェシカ](http://x.dffr.work/)
 ## [ジェシカ](http://x.dffr.work/)
 - (D)
 - B86
@@ -61,4 +57,53 @@ aliases = ["migrate-from-jekyl"]
 - (D)
 - B83
 - B85
+- B87
+## [ハッピー](http://www.cianbea.xyz/)
+## [Miss You](http://missyou.rankuens.com/)
+- (D)
+- B87
+- B89
+## [ジェシカ](http://x.dffr.work/)
+- (D)
+- B86
+- B88
+## [ゆかリラクゼーション](http://sh-yuka.work/)
+- (C)
+- (D)
+- B80
+- B85
+- B86
+- B88
+- B89
+## [姫](http://www.hime.relaxjp.info/)
+- (D)
+- B87
+## [たんぽぽ](https://tanpopopo.com/)
+
+{{< twitter ogikuboesthe >}}
+- (C)
+- (G)
+## [チェリー](http://www.cherry.estheshop.com/)
+- (C)
+- (D)
+- (E)
+- Dカップ
+- B85
+- B87
+- B88
+## [プレミア](http://www.premier.esturl.com/)
+- (C)
+- (D)
+- B83
+- B85
+- B87
+## [Aimu アイム](http://www.aimu.iesjp.com/)
+- (C)
+- (D)
+- B86
+- B87
+## [りんご](http://www.ringo.mensest.com/)
+- (C)
+- (D)
+- B86
 - B87

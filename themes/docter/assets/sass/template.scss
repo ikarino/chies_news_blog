@@ -529,8 +529,12 @@ Mobile Styles
 }
 
 // my css
-img[alt=new_girl] { width: 200px; }
-
+@media (max-width: 400px) {
+    img[alt=new_girl] { width: 43%; }
+}
+@media (min-width: 400px) {
+    img[alt=new_girl] { width: 200px; }
+}
 .sankou-badge, .link-badge {
     padding: 3px 6px;
     margin-right: 8px;
