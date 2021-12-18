@@ -12,117 +12,19 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+{{< keyword "Googleで新丸子までの経路を検索する！" "https://www.google.com/search?q=現在地から新丸子駅まで" >}}
+
 ## [Alice アリス](http://alice-est.tokyo/)
-- (C)
-- (D)
-- (F)
-## [夜の優しい](http://relax-sln.com/)
-- (C)
-## [ほっこり](http://hokkori.iest.info/)
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B84
-- B85
-- B86
-- B87
-- B89
-## [夢の庭](http://es-come.net/yumeniwa/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(F)" >}} 
 ## [星空](https://hoshizora.iest.info/)
-- (D)
-- B83
-- B85
-- B86
-- B87
-## [Baby ベビー](http://es-heal.com/)
-- (C)
-- Eカップ
-## [キュアレ](https://cure-re.xyz.mn/)
-- (D)
-- (E)
-- B83
-- B85
-- B86
-- B87
-## [春屋](http://www.haruya.esturl.com/)
-- (C)
-- (D)
-- B87
-## [夜の優しい](http://relax-sln.com/)
-- (C)
-## [Alice アリス](http://alice-est.tokyo/)
-- (C)
-- (D)
-- (F)
-## [ほっこり](http://hokkori.iest.info/)
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B84
-- B85
-- B86
-- B87
-- B89
-## [星空](https://hoshizora.iest.info/)
-- (D)
-- B83
-- B85
-- B86
-- B87
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Ahoshizora.iest.info+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ahoshizora.iest.info+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahoshizora.iest.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahoshizora.iest.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ahoshizora.iest.info+B87" >}} 
 ## [夢の庭](http://es-come.net/yumeniwa/)
+
+## [Baby ベビー](http://es-heal.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-heal.com+(C)" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aes-heal.com+Eカップ" >}} 
 ## [春屋](http://www.haruya.esturl.com/)
-- (C)
-- (D)
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.haruya.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.haruya.esturl.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.haruya.esturl.com+B87" >}} 
 ## [キュアレ](https://cure-re.xyz.mn/)
-- (D)
-- (E)
-- B83
-- B85
-- B86
-- B87
-## [Baby ベビー](http://es-heal.com/)
-- (C)
-- Eカップ
-## [Alice アリス](http://alice-est.tokyo/)
-- (C)
-- (D)
-- (F)
-## [ほっこり](http://hokkori.iest.info/)
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B84
-- B85
-- B86
-- B87
-- B89
-## [星空](https://hoshizora.iest.info/)
-- (D)
-- B83
-- B85
-- B86
-- B87
-## [夢の庭](http://es-come.net/yumeniwa/)
-## [Baby ベビー](http://es-heal.com/)
-- (C)
-- Eカップ
-## [春屋](http://www.haruya.esturl.com/)
-- (C)
-- (D)
-- B87
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B87" >}} 
 ## [夜の優しい](http://relax-sln.com/)
-- (C)
-## [キュアレ](https://cure-re.xyz.mn/)
-- (D)
-- (E)
-- B83
-- B85
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Arelax-sln.com+(C)" >}} 

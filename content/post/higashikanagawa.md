@@ -12,213 +12,37 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [LIFE STYLE](http://akibnd.xyz/)
-## [雅美](http://sivertsa.xyz/)
-## [みさき](http://ciliasa.xyz/)
-## [恋姫 こいき](http://sidertn.xyz/)
-## [癒しの楽園](http://www.ipuyvyta.xyz/)
+{{< keyword "Googleで東神奈川までの経路を検索する！" "https://www.google.com/search?q=現在地から東神奈川駅まで" >}}
+
 ## [楽々ヴィーナス](http://www.rakuraku-venus.xyz/)
+
 ## [花水木](http://est-hanamizuki.com/)
-## [縁結び](http://higashikanagawamenest.xyz/)
-- 胸
+
 ## [来夢 ライム](http://raimu.ests.jp/)
-- (D)
-- B84
-- B86
-- B87
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Araimu.ests.jp+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Araimu.ests.jp+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Araimu.ests.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Araimu.ests.jp+B87" >}} 
 ## [泡姫](http://pao.vdeg.xyz/)
 
-{{< twitter lmq102 >}}
-- (C)
-- (D)
-- B85
-## [レインボー虹](http://www.sh-riraku113.xyz/)
-- (C)
-## [アジール](https://aslie.ests.jp/)
-- (C)
-- (D)
-- (E)
-- B83
-- B84
-- B85
-- B87
-- B88
-## [スタイリー](https://styley.oks.bz/)
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
-## [恋姫](https://koiki.re-laxation.com/)
-## [少女学園](http://www.shoujo.estjpn.com/)
-- (C)
-- (D)
-- セクシー
-- B86
-- B87
-## [恋の夜](http://www.mizusakura.esthejp.com/)
-- (C)
-- (D)
-- (E)
-- B83
-- B85
-- B86
-- B87
-## [ハッピー](http://www.lavender.esjoho.com/)
-- (D)
-- (F)
-- B86
-- B87
-- B88
-## [Call me](https://callme.iest.info/)
-- (C)
-- (D)
-- (E)
-- B85
-- B86
-- B87
-- B88
-## [檸檬 レモン](http://es-sln.com/)
-- (C)
-- B80
-## [みさき](http://ciliasa.xyz/)
-## [LIFE STYLE](http://akibnd.xyz/)
-## [癒しの楽園](http://www.ipuyvyta.xyz/)
-## [恋姫 こいき](http://sidertn.xyz/)
-## [雅美](http://sivertsa.xyz/)
-## [楽々ヴィーナス](http://www.rakuraku-venus.xyz/)
-## [花水木](http://est-hanamizuki.com/)
-## [縁結び](http://higashikanagawamenest.xyz/)
-- 胸
-## [泡姫](http://pao.vdeg.xyz/)
 
 {{< twitter lmq102 >}}
-- (C)
-- (D)
-- B85
-## [来夢 ライム](http://raimu.ests.jp/)
-- (D)
-- B84
-- B86
-- B87
-## [アジール](https://aslie.ests.jp/)
-- (C)
-- (D)
-- (E)
-- B83
-- B84
-- B85
-- B87
-- B88
-## [レインボー虹](http://www.sh-riraku113.xyz/)
-- (C)
-## [スタイリー](https://styley.oks.bz/)
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
-## [恋の夜](http://www.mizusakura.esthejp.com/)
-- (C)
-- (D)
-- (E)
-- B83
-- B85
-- B86
-- B87
-## [恋姫](https://koiki.re-laxation.com/)
-## [少女学園](http://www.shoujo.estjpn.com/)
-- (C)
-- (D)
-- セクシー
-- B86
-- B87
-## [ハッピー](http://www.lavender.esjoho.com/)
-- (D)
-- (F)
-- B86
-- B87
-- B88
-## [Call me](https://callme.iest.info/)
-- (C)
-- (D)
-- (E)
-- B85
-- B86
-- B87
-- B88
-## [檸檬 レモン](http://es-sln.com/)
-- (C)
-- B80
-## [恋姫 こいき](http://sidertn.xyz/)
-## [癒しの楽園](http://www.ipuyvyta.xyz/)
-## [雅美](http://sivertsa.xyz/)
-## [LIFE STYLE](http://akibnd.xyz/)
-## [みさき](http://ciliasa.xyz/)
-## [楽々ヴィーナス](http://www.rakuraku-venus.xyz/)
-## [花水木](http://est-hanamizuki.com/)
-## [泡姫](http://pao.vdeg.xyz/)
 
-{{< twitter lmq102 >}}
-- (C)
-- (D)
-- B85
-## [来夢 ライム](http://raimu.ests.jp/)
-- (D)
-- B84
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Apao.vdeg.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Apao.vdeg.xyz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Apao.vdeg.xyz+B85" >}} 
 ## [縁結び](http://higashikanagawamenest.xyz/)
-- 胸
-## [アジール](https://aslie.ests.jp/)
-- (C)
-- (D)
-- (E)
-- B83
-- B84
-- B85
-- B87
-- B88
+{{< keyword "胸" "https://www.google.com/search?q=site%3Ahigashikanagawamenest.xyz+胸" >}} 
 ## [レインボー虹](http://www.sh-riraku113.xyz/)
-- (C)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.sh-riraku113.xyz+(C)" >}} 
 ## [スタイリー](https://styley.oks.bz/)
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Astyley.oks.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Astyley.oks.bz+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Astyley.oks.bz+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Astyley.oks.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Astyley.oks.bz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Astyley.oks.bz+B87" >}} 
 ## [恋の夜](http://www.mizusakura.esthejp.com/)
-- (C)
-- (D)
-- (E)
-- B83
-- B85
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.mizusakura.esthejp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.mizusakura.esthejp.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.mizusakura.esthejp.com+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Awww.mizusakura.esthejp.com+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.mizusakura.esthejp.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.mizusakura.esthejp.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.mizusakura.esthejp.com+B87" >}} 
 ## [恋姫](https://koiki.re-laxation.com/)
-## [Call me](https://callme.iest.info/)
-- (C)
-- (D)
-- (E)
-- B85
-- B86
-- B87
-- B88
+
+## [アジール](https://aslie.ests.jp/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aaslie.ests.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aaslie.ests.jp+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aaslie.ests.jp+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aaslie.ests.jp+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Aaslie.ests.jp+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aaslie.ests.jp+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aaslie.ests.jp+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aaslie.ests.jp+B88" >}} 
 ## [少女学園](http://www.shoujo.estjpn.com/)
-- (C)
-- (D)
-- セクシー
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.shoujo.estjpn.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.shoujo.estjpn.com+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.shoujo.estjpn.com+セクシー" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.shoujo.estjpn.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.shoujo.estjpn.com+B87" >}} 
 ## [ハッピー](http://www.lavender.esjoho.com/)
-- (D)
-- (F)
-- B86
-- B87
-- B88
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.lavender.esjoho.com+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Awww.lavender.esjoho.com+(F)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.lavender.esjoho.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.lavender.esjoho.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.lavender.esjoho.com+B88" >}} 
+## [Call me](https://callme.iest.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Acallme.iest.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Acallme.iest.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acallme.iest.info+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acallme.iest.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acallme.iest.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acallme.iest.info+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Acallme.iest.info+B88" >}} 
 ## [檸檬 レモン](http://es-sln.com/)
-- (C)
-- B80
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-sln.com+(C)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Aes-sln.com+B80" >}} 

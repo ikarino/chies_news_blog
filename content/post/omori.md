@@ -12,54 +12,39 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+{{< keyword "Googleで大森までの経路を検索する！" "https://www.google.com/search?q=現在地から大森駅まで" >}}
+
 ## [Only one](http://on.mznab.com/)
-## [エンジェル](http://angel777.esjp.xyz/)
-## [Only one](http://on.mznab.com/)
-## [エンジェル](http://angel777.esjp.xyz/)
-## [アリス](http://rilakusi.xyz/)
-## [桜閣](http://www.hthrhy.xyz/)
-## [真心](http://k-rlx.info/)
-- (C)
-- (D)
-- B85
-- B86
-- B88
-- B90
-- B92
-## [ハッピーライフ](http://rueiant.xyz/)
-- (C)
-- (D)
-- B82
-- B86
-- B88
-## [憩](http://ikoi.xyz.mn/)
-- (D)
-- B85
-- B87
-## [Loveゆゆ](http://beauty-est.xyz/)
-- B85
-- B86
-## [癒癒堂](http://yuyudou.com/)
-## [Only one](http://on.mznab.com/)
+
 ## [夢の部屋](http://www.sh-himenoyw.work/)
-- (C)
-- (D)
-- B84
-- B86
-- B89
-## [マジックラブリー](http://www1.spa-omori.com/)
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B89" >}} 
+## [ハッピーライフ](http://rueiant.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Arueiant.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arueiant.xyz+(D)" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Arueiant.xyz+B82" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arueiant.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Arueiant.xyz+B88" >}} 
+## [憩](http://ikoi.xyz.mn/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
+## [癒癒堂](http://yuyudou.com/)
+
+## [ロイヤル](http://es-kosumosu.com/)
+
 ## [リファイン](http://es-refine.xyz/)
-- (C)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
+## [マジックラブリー](http://www1.spa-omori.com/)
+{{< keyword "B87" "https://www.google.com/search?q=site%3Awww1.spa-omori.com+B87" >}} 
 ## [Sweet Time](http://heal-msg.com/)
 
+
 {{< twitter Sweetstime3 >}}
-## [エンジェル](http://angel777.esjp.xyz/)
+
+
 ## [コスモス](http://www.cosmos.relaxjp.info/)
-- (C)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
+## [エンジェル](http://angel777.esjp.xyz/)
+
 ## [森の家](https://omori-mensesthe.com/)
 
+
 {{< twitter omori_mensesthe >}}
-## [ロイヤル](http://es-kosumosu.com/)
+
+
 ## [シークレットファンタジー](http://spa-omori.com/)
-- セクシー
+{{< keyword "セクシー" "https://www.google.com/search?q=site%3Aspa-omori.com+セクシー" >}} 

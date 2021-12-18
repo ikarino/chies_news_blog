@@ -12,180 +12,29 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [アリス](http://www.tukinohikai.xyz/)
-## [スミレ](http://simiru.work/)
-## [小魔女](http://www.milion.xyz/)
-## [サウスガーデン](http://sg.est70.jp/)
-## [スイートタイムズ](http://est70.jp/st/)
-## [Lom](http://est70.jp/lom/)
-## [バニラビーチ](http://est70.jp/vb/)
-## [Only you オンリーユー](http://est70.jp/oy/)
-## [ちょっと清純派](http://est70.jp/cs/)
-## [開心](http://est70.jp/kx/)
-## [DASH NOBORITO](http://esthegt.xyz/dsh/)
-## [染井吉野](http://est70.jp/sy/)
-## [テレス](http://esthegt.xyz/tls/)
-## [Ruby ルビー](http://ruby.iest.info/)
-- (C)
-- (D)
-- B85
-- B86
-## [Nチェリー](http://est70.jp/nch/)
+{{< keyword "Googleで登戸までの経路を検索する！" "https://www.google.com/search?q=現在地から登戸駅まで" >}}
+
+## [癒](/page/bouncy.php?&bpae=GbhOtzknokx%2FttthSTymMrcd3dRxpY9bHF5TyilrGuPC5Q%2FuM5tDop15f8fqnp3E%2F1VIZADpTPxw49GpYpUK6jZCHLS5JHpEWYF6X%2F9lXeXtIw9YHTUhFE9j%2BX8EEKr0zCiTdumG3DY8cjquD7y105Q4lY8KuKpV3w2qEBbcXSLP1T8i%2FKah%2F3jHcMMmfYH7aogj5xkaLFjns8coW0qI4N6TKqBQYH0Ty1m7pdvXNjkYpDNp6tnpMuveCOZCuUrzdEUsAntSIVu4FsjetFKZY5mk7YKv%2B0oILYaNh6GISHqcX3o1qUUK0RVstNVByGWBpyBY45KC765r%2BZUihrGtDN7T3hMeDv1bkZQnLHIolazFIO8vTFckg5GXcf%2B9yykx%2BLspFTqdVzSPtD0%3D&redirectType=meta)
+
 ## [Cion 紫音](http://est70.jp/ci/)
-## [ピンクローゼス](http://est70.jp/pk/)
-## [U & Me](http://mondemina.oks.bz/)
-- (C)
-- (D)
-- (E)
-- (F)
-- B83
-- B85
-- B86
-- B88
-## [Melty Love メルティーラヴ](http://es-come.net/meltylove/)
-- (C)
-- (D)
-- B84
-- B86
-- B87
-- B88
-## [フェアリーウイングス](http://est70.jp/fwg/)
-## [アリエス](http://gdgw5.xyz/)
-- (C)
-- (D)
-- B84
-## [Stylish スタイリッシュ](http://www.goldsea.work/)
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
-- B88
-## [オンリーユー](http://www.aiuntyuiop.xyz/)
-## [Kawaii](http://massage-japan.work/kawaii/)
-- 胸
-## [癒](http://www.gokuyu.work/)
-## [月下美人](http://www.gekabijin.estjpn.com/)
-- (C)
-- (D)
-- B86
-- B87
-## [スミレ](http://simiru.work/)
-## [アリス](http://www.tukinohikai.xyz/)
-## [小魔女](http://www.milion.xyz/)
-## [スイートタイムズ](http://est70.jp/st/)
-## [サウスガーデン](http://sg.est70.jp/)
-## [Lom](http://est70.jp/lom/)
-## [開心](http://est70.jp/kx/)
-## [バニラビーチ](http://est70.jp/vb/)
-## [Only you オンリーユー](http://est70.jp/oy/)
-## [ちょっと清純派](http://est70.jp/cs/)
-## [DASH NOBORITO](http://esthegt.xyz/dsh/)
+
 ## [テレス](http://esthegt.xyz/tls/)
-## [Nチェリー](http://est70.jp/nch/)
-## [Ruby ルビー](http://ruby.iest.info/)
-- (C)
-- (D)
-- B85
-- B86
+
 ## [フェアリーウイングス](http://est70.jp/fwg/)
-## [ピンクローゼス](http://est70.jp/pk/)
-## [Stylish スタイリッシュ](http://www.goldsea.work/)
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
-- B88
-## [U & Me](http://mondemina.oks.bz/)
-- (C)
-- (D)
-- (E)
-- (F)
-- B83
-- B85
-- B86
-- B88
-## [Cion 紫音](http://est70.jp/ci/)
-## [Melty Love メルティーラヴ](http://es-come.net/meltylove/)
-- (C)
-- (D)
-- B84
-- B86
-- B87
-- B88
-## [染井吉野](http://est70.jp/sy/)
-## [Kawaii](http://massage-japan.work/kawaii/)
-- 胸
-## [アリエス](http://gdgw5.xyz/)
-- (C)
-- (D)
-- B84
-## [オンリーユー](http://www.aiuntyuiop.xyz/)
-## [月下美人](http://www.gekabijin.estjpn.com/)
-- (C)
-- (D)
-- B86
-- B87
-## [癒](http://www.gokuyu.work/)
-## [スミレ](http://simiru.work/)
-## [アリス](http://www.tukinohikai.xyz/)
-## [小魔女](http://www.milion.xyz/)
-## [Lom](http://est70.jp/lom/)
-## [バニラビーチ](http://est70.jp/vb/)
-## [サウスガーデン](http://sg.est70.jp/)
-## [Only you オンリーユー](http://est70.jp/oy/)
-## [開心](http://est70.jp/kx/)
-## [ちょっと清純派](http://est70.jp/cs/)
-## [スイートタイムズ](http://est70.jp/st/)
-## [テレス](http://esthegt.xyz/tls/)
-## [DASH NOBORITO](http://esthegt.xyz/dsh/)
-## [フェアリーウイングス](http://est70.jp/fwg/)
+
 ## [Nチェリー](http://est70.jp/nch/)
-## [ピンクローゼス](http://est70.jp/pk/)
+
 ## [染井吉野](http://est70.jp/sy/)
-## [Cion 紫音](http://est70.jp/ci/)
-## [Ruby ルビー](http://ruby.iest.info/)
-- (C)
-- (D)
-- B85
-- B86
-## [Stylish スタイリッシュ](http://www.goldsea.work/)
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
-- B88
-## [U & Me](http://mondemina.oks.bz/)
-- (C)
-- (D)
-- (E)
-- (F)
-- B83
-- B85
-- B86
-- B88
+
 ## [Melty Love メルティーラヴ](http://es-come.net/meltylove/)
-- (C)
-- (D)
-- B84
-- B86
-- B87
-- B88
-## [アリエス](http://gdgw5.xyz/)
-- (C)
-- (D)
-- B84
-## [オンリーユー](http://www.aiuntyuiop.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-come.net+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aes-come.net+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Aes-come.net+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aes-come.net+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aes-come.net+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aes-come.net+B88" >}} 
+## [Ruby ルビー](http://ruby.iest.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aruby.iest.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aruby.iest.info+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aruby.iest.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aruby.iest.info+B86" >}} 
 ## [Kawaii](http://massage-japan.work/kawaii/)
-- 胸
-## [癒](http://www.gokuyu.work/)
+{{< keyword "胸" "https://www.google.com/search?q=site%3Amassage-japan.work+胸" >}} 
+## [オンリーユー](http://www.aiuntyuiop.xyz/)
+
+## [アリエス](http://gdgw5.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Agdgw5.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Agdgw5.xyz+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Agdgw5.xyz+B84" >}} 
 ## [月下美人](http://www.gekabijin.estjpn.com/)
-- (C)
-- (D)
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.gekabijin.estjpn.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.gekabijin.estjpn.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.gekabijin.estjpn.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.gekabijin.estjpn.com+B87" >}} 

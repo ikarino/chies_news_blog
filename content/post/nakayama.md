@@ -12,102 +12,19 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [JiJi](http://viyuiop.xyz/)
+{{< keyword "Googleで中山までの経路を検索する！" "https://www.google.com/search?q=現在地から中山駅まで" >}}
+
 ## [夜花火](http://yohanabi.msa.jp/)
-- (C)
-- (D)
-- (F)
-- B85
-- B86
-- B88
-- B90
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ayohanabi.msa.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayohanabi.msa.jp+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Ayohanabi.msa.jp+(F)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayohanabi.msa.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayohanabi.msa.jp+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ayohanabi.msa.jp+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ayohanabi.msa.jp+B90" >}} 
 ## [夜来香](http://yeraisyan.iyasi.me/)
-- B84
-- B85
-- B87
+{{< keyword "B84" "https://www.google.com/search?q=site%3Ayeraisyan.iyasi.me+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayeraisyan.iyasi.me+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ayeraisyan.iyasi.me+B87" >}} 
 ## [Meet](http://meet.agomaj.com/)
+
 ## [麗 れい](http://xn--vckg5a5c7c8c1czd.xyz/)
-- (C)
-- (D)
-- (E)
-- セクシー
-- B85
-- B86
-## [てんし](http://xn--ccker1snci.jp.net/)
-- B86
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.xyz+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.xyz+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.xyz+B86" >}} 
 ## [アカシヤ](http://akashiya-massage.com/)
-- (C)
-- (D)
-- (E)
-- B84
-- B86
-- B87
-- B88
-## [美蝶](http://bityou.jpest.net/)
-- (C)
-## [JiJi](http://viyuiop.xyz/)
-## [夜花火](http://yohanabi.msa.jp/)
-- (C)
-- (D)
-- (F)
-- B85
-- B86
-- B88
-- B90
-## [夜来香](http://yeraisyan.iyasi.me/)
-- B84
-- B85
-- B87
-## [Meet](http://meet.agomaj.com/)
-## [麗 れい](http://xn--vckg5a5c7c8c1czd.xyz/)
-- (C)
-- (D)
-- (E)
-- セクシー
-- B85
-- B86
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aakashiya-massage.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aakashiya-massage.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aakashiya-massage.com+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Aakashiya-massage.com+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aakashiya-massage.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aakashiya-massage.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aakashiya-massage.com+B88" >}} 
 ## [てんし](http://xn--ccker1snci.jp.net/)
-- B86
-## [アカシヤ](http://akashiya-massage.com/)
-- (C)
-- (D)
-- (E)
-- B84
-- B86
-- B87
-- B88
+{{< keyword "B86" "https://www.google.com/search?q=site%3Axn--ccker1snci.jp.net+B86" >}} 
 ## [美蝶](http://bityou.jpest.net/)
-- (C)
-## [JiJi](http://viyuiop.xyz/)
-## [夜来香](http://yeraisyan.iyasi.me/)
-- B84
-- B85
-- B87
-## [夜花火](http://yohanabi.msa.jp/)
-- (C)
-- (D)
-- (F)
-- B85
-- B86
-- B88
-- B90
-## [Meet](http://meet.agomaj.com/)
-## [麗 れい](http://xn--vckg5a5c7c8c1czd.xyz/)
-- (C)
-- (D)
-- (E)
-- セクシー
-- B85
-- B86
-## [アカシヤ](http://akashiya-massage.com/)
-- (C)
-- (D)
-- (E)
-- B84
-- B86
-- B87
-- B88
-## [てんし](http://xn--ccker1snci.jp.net/)
-- B86
-## [美蝶](http://bityou.jpest.net/)
-- (C)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Abityou.jpest.net+(C)" >}} 

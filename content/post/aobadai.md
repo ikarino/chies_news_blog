@@ -12,162 +12,27 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+{{< keyword "Googleで青葉台までの経路を検索する！" "https://www.google.com/search?q=現在地から青葉台駅まで" >}}
+
 ## [Only you オンリーユー](http://esthegt.xyz/oya/)
-## [セニョリータ](http://est70.xyz/srt/)
-## [U & ME](http://202.z.sanheanli.com/)
-- (D)
-- (E)
-- B86
-- B89
+
 ## [Shirley](http://koukoku.xyz/shirley/)
-- (D)
-- (E)
-- B88
-- B89
-## [シーブリーズ](http://est70.jp/sea/)
-## [やすらぎ](http://est70.jp/yas/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Akoukoku.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Akoukoku.xyz+(E)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Akoukoku.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Akoukoku.xyz+B89" >}} 
 ## [癒しの森](http://iyashinomori.ests.co/)
-- (D)
-- B86
-- B87
-## [スマイル](http://massage-est.pink/)
-- おっぱい
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashinomori.ests.co+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashinomori.ests.co+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aiyashinomori.ests.co+B87" >}} 
+## [U & ME](http://202.z.sanheanli.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3A202.z.sanheanli.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3A202.z.sanheanli.com+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3A202.z.sanheanli.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3A202.z.sanheanli.com+B89" >}} 
 ## [夜桜](https://yozakura.ests.jp/)
-- (D)
-- (E)
-- B85
-- B89
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Ayozakura.ests.jp+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ayozakura.ests.jp+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayozakura.ests.jp+B85" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ayozakura.ests.jp+B89" >}} 
 ## [Reset リセット](http://crescent.tyo.ac/)
-- (C)
-- (D)
-- (E)
-- (F)
-- (G)
-- 胸
-- B81
-- B82
-- B83
-- B85
-- B86
-- B88
-- B90
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+(G)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+胸" >}} {{< keyword "B81" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+B81" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+B82" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Acrescent.tyo.ac+B90" >}} 
+## [スマイル](http://massage-est.pink/)
+{{< keyword "おっぱい" "https://www.google.com/search?q=site%3Amassage-est.pink+おっぱい" >}} 
 ## [花の雪](http://www.es-angela.link/)
 
-{{< twitter hananoyuki6688 >}}
-- Eカップ
-- 胸
-## [ドキドキ](http://www.dokidoki.esturl.com/)
-- (C)
-- (D)
-- セクシー
-- B82
-- B83
-- B84
-- B86
-- B87
-## [Only you オンリーユー](http://esthegt.xyz/oya/)
-## [Shirley](http://koukoku.xyz/shirley/)
-- (D)
-- (E)
-- B88
-- B89
-## [U & ME](http://202.z.sanheanli.com/)
-- (D)
-- (E)
-- B86
-- B89
-## [セニョリータ](http://est70.xyz/srt/)
-## [やすらぎ](http://est70.jp/yas/)
-## [癒しの森](http://iyashinomori.ests.co/)
-- (D)
-- B86
-- B87
-## [シーブリーズ](http://est70.jp/sea/)
-## [夜桜](https://yozakura.ests.jp/)
-- (D)
-- (E)
-- B85
-- B89
-## [花の雪](http://www.es-angela.link/)
 
 {{< twitter hananoyuki6688 >}}
-- Eカップ
-- 胸
-## [Reset リセット](http://crescent.tyo.ac/)
-- (C)
-- (D)
-- (E)
-- (F)
-- (G)
-- 胸
-- B81
-- B82
-- B83
-- B85
-- B86
-- B88
-- B90
-## [スマイル](http://massage-est.pink/)
-- おっぱい
-## [ドキドキ](http://www.dokidoki.esturl.com/)
-- (C)
-- (D)
-- セクシー
-- B82
-- B83
-- B84
-- B86
-- B87
-## [Only you オンリーユー](http://esthegt.xyz/oya/)
-## [やすらぎ](http://est70.jp/yas/)
-## [Shirley](http://koukoku.xyz/shirley/)
-- (D)
-- (E)
-- B88
-- B89
-## [セニョリータ](http://est70.xyz/srt/)
-## [U & ME](http://202.z.sanheanli.com/)
-- (D)
-- (E)
-- B86
-- B89
-## [シーブリーズ](http://est70.jp/sea/)
-## [夜桜](https://yozakura.ests.jp/)
-- (D)
-- (E)
-- B85
-- B89
-## [癒しの森](http://iyashinomori.ests.co/)
-- (D)
-- B86
-- B87
-## [Reset リセット](http://crescent.tyo.ac/)
-- (C)
-- (D)
-- (E)
-- (F)
-- (G)
-- 胸
-- B81
-- B82
-- B83
-- B85
-- B86
-- B88
-- B90
-## [スマイル](http://massage-est.pink/)
-- おっぱい
-## [花の雪](http://www.es-angela.link/)
 
-{{< twitter hananoyuki6688 >}}
-- Eカップ
-- 胸
+{{< keyword "Eカップ" "https://www.google.com/search?q=site%3Awww.es-angela.link+Eカップ" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Awww.es-angela.link+胸" >}} 
 ## [ドキドキ](http://www.dokidoki.esturl.com/)
-- (C)
-- (D)
-- セクシー
-- B82
-- B83
-- B84
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.dokidoki.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.dokidoki.esturl.com+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.dokidoki.esturl.com+セクシー" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Awww.dokidoki.esturl.com+B82" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Awww.dokidoki.esturl.com+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.dokidoki.esturl.com+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.dokidoki.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.dokidoki.esturl.com+B87" >}} 

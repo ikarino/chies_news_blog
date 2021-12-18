@@ -12,54 +12,25 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [ハナビ](http://es-hanabi.xyz/)
-- (C)
+{{< keyword "Googleで平塚までの経路を検索する！" "https://www.google.com/search?q=現在地から平塚駅まで" >}}
+
 ## [随縁](http://sui-en.work/)
+
 ## [ふよう](http://www.huyo.work/)
-## [妹](http://www.imouto-esute2866.com/)
-- (C)
+
+## [ハナビ](http://es-hanabi.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-hanabi.xyz+(C)" >}} 
 ## [ひまわり](https://himawari.jps.mn/)
-- (C)
-- (D)
-- B86
-- B87
-## [桃香](http://esthe-massage.pw/)
-- (D)
-- セクシー
-- B85
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahimawari.jps.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahimawari.jps.mn+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahimawari.jps.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ahimawari.jps.mn+B87" >}} 
 ## [さわやか](http://hiratsuka-est.com/)
-- B99
+{{< keyword "B99" "https://www.google.com/search?q=site%3Ahiratsuka-est.com+B99" >}} 
+## [桃香](http://esthe-massage.pw/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aesthe-massage.pw+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aesthe-massage.pw+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aesthe-massage.pw+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aesthe-massage.pw+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aesthe-massage.pw+B87" >}} 
 ## [椿](http://a-est.com/tsubaki/)
-- (C)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aa-est.com+(C)" >}} 
 ## [ちゃちゃちゃ](https://cyacyacya.grupo.jp/)
-- (C)
-## [恋人](http://www.koibito.masg.info/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Acyacyacya.grupo.jp+(C)" >}} 
 ## [ベストラブ](http://www.bestlove.iesjp.com/)
-- (C)
-- (D)
-- B82
-- B83
-- B84
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com+(D)" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com+B82" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com+B84" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com+B87" >}} 
 ## [スマイル](http://es-hiratsuka.biz/)
-- (C)
-- (D)
-- B84
-- B85
-- B87
-## [癒し姫](http://es-hiratsuka.info/)
-- (C)
-- (D)
-- (E)
-- B80
-- B84
-- B85
-- B87
-- B88
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-hiratsuka.biz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aes-hiratsuka.biz+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Aes-hiratsuka.biz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aes-hiratsuka.biz+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aes-hiratsuka.biz+B87" >}} 

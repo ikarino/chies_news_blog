@@ -12,117 +12,17 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+{{< keyword "Googleで南林間までの経路を検索する！" "https://www.google.com/search?q=現在地から南林間駅まで" >}}
+
 ## [ふれあい](http://a-relax.info/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B80
-- B85
-- B86
-- B87
-- B88
-- B89
-- B90
-- B92
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aa-relax.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aa-relax.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aa-relax.info+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aa-relax.info+(F)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aa-relax.info+セクシー" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Aa-relax.info+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aa-relax.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aa-relax.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aa-relax.info+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aa-relax.info+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Aa-relax.info+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aa-relax.info+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aa-relax.info+B92" >}} 
 ## [サクラ](http://sakura-relax.work/)
-- (C)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asakura-relax.work+(C)" >}} 
 ## [癒しの森](http://relax-free.info/iyashinomori/)
+
 ## [Rose ローズ](https://rose.xyz.mn/)
-- (C)
-- (D)
-- B85
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Arose.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arose.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arose.xyz.mn+B85" >}} 
 ## [すぱげってぃ](https://spaghetti.est.cm/)
-- (C)
-- (D)
-- (E)
-- (F)
-- (G)
-- (H)
-- Eカップ
-- 胸
-- B87
-- B88
-- B89
-- B90
-- B92
-- B94
-- B95
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(G)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(H)" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+Eカップ" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+胸" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B92" >}} {{< keyword "B94" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B94" >}} {{< keyword "B95" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B95" >}} 
 ## [Himawari ひまわり](http://esthe-relax.info/)
-## [ふれあい](http://a-relax.info/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B80
-- B85
-- B86
-- B87
-- B88
-- B89
-- B90
-- B92
-## [サクラ](http://sakura-relax.work/)
-- (C)
-## [癒しの森](http://relax-free.info/iyashinomori/)
-## [すぱげってぃ](https://spaghetti.est.cm/)
-- (C)
-- (D)
-- (E)
-- (F)
-- (G)
-- (H)
-- Eカップ
-- 胸
-- B87
-- B88
-- B89
-- B90
-- B92
-- B94
-- B95
-## [Rose ローズ](https://rose.xyz.mn/)
-- (C)
-- (D)
-- B85
-## [Himawari ひまわり](http://esthe-relax.info/)
-## [ふれあい](http://a-relax.info/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B80
-- B85
-- B86
-- B87
-- B88
-- B89
-- B90
-- B92
-## [サクラ](http://sakura-relax.work/)
-- (C)
-## [癒しの森](http://relax-free.info/iyashinomori/)
-## [Rose ローズ](https://rose.xyz.mn/)
-- (C)
-- (D)
-- B85
-## [すぱげってぃ](https://spaghetti.est.cm/)
-- (C)
-- (D)
-- (E)
-- (F)
-- (G)
-- (H)
-- Eカップ
-- 胸
-- B87
-- B88
-- B89
-- B90
-- B92
-- B94
-- B95
-## [Himawari ひまわり](http://esthe-relax.info/)
+

@@ -12,159 +12,47 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [ONLY オンリー](http://only.agomaj.com/)
-## [せせらぎ](https://www.seseragi.work/)
-- (C)
-- (D)
-- セクシー
-## [ゆうゆう](http://yuuyuu.est-u.com/)
-- B99
-## [運命の夜](http://mirai.n-fg.com/)
+{{< keyword "Googleで溝の口までの経路を検索する！" "https://www.google.com/search?q=現在地から溝の口駅まで" >}}
 
-{{< twitter happykinshicho >}}
-## [Eris エリス](http://www.eris.estheshop.com/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
-- B88
-## [いこい](http://ikoi.jpest.net/)
-- (C)
-- Dカップ
-- Eカップ
-## [夜生活](http://esthe-ms.com/)
-- (C)
-- B80
-## [生ビール](http://es-aroma.com/)
-- (C)
-- B80
-## [ONLY オンリー](http://only.agomaj.com/)
-## [せせらぎ](https://www.seseragi.work/)
-- (C)
-- (D)
-- セクシー
 ## [ゆうゆう](http://yuuyuu.est-u.com/)
-- B99
-## [運命の夜](http://mirai.n-fg.com/)
-
-{{< twitter happykinshicho >}}
-## [Eris エリス](http://www.eris.estheshop.com/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
-- B88
-## [いこい](http://ikoi.jpest.net/)
-- (C)
-- Dカップ
-- Eカップ
-## [生ビール](http://es-aroma.com/)
-- (C)
-- B80
-## [夜生活](http://esthe-ms.com/)
-- (C)
-- B80
-## [ONLY オンリー](http://only.agomaj.com/)
-## [せせらぎ](https://www.seseragi.work/)
-- (C)
-- (D)
-- セクシー
-## [Melissa](http://melissa.estheya.com/)
-- (D)
-- セクシー
-- B89
+{{< keyword "B99" "https://www.google.com/search?q=site%3Ayuuyuu.est-u.com+B99" >}} 
 ## [きらら](http://kirara.est-u.com/)
+
 ## [Coco19](http://coco19.rankuens.com/)
-- (D)
-- (E)
-- (F)
-- 胸
-- B86
-- B89
-- B92
-- B98
-## [ゆうゆう](http://yuuyuu.est-u.com/)
-- B99
-## [めぐ](http://ayiyu.work/)
-## [月下美人](http://www.o-jp.com/hurawa/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Acoco19.rankuens.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acoco19.rankuens.com+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Acoco19.rankuens.com+(F)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Acoco19.rankuens.com+胸" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acoco19.rankuens.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Acoco19.rankuens.com+B89" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Acoco19.rankuens.com+B92" >}} {{< keyword "B98" "https://www.google.com/search?q=site%3Acoco19.rankuens.com+B98" >}} 
+## [せせらぎ](https://www.seseragi.work/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.seseragi.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.seseragi.work+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.seseragi.work+セクシー" >}} 
 ## [Rita リタ](http://koukoku.xyz/rita/)
-- (C)
-- (D)
-- (E)
-- Dカップ
-- B89
-- B92
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Akoukoku.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Akoukoku.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Akoukoku.xyz+(E)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Akoukoku.xyz+Dカップ" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Akoukoku.xyz+B89" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Akoukoku.xyz+B92" >}} 
+## [月下美人](http://www.o-jp.com/hurawa/)
+
+## [Melissa](http://melissa.estheya.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Amelissa.estheya.com+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Amelissa.estheya.com+セクシー" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Amelissa.estheya.com+B89" >}} 
 ## [運命の夜](http://mirai.n-fg.com/)
 
+
 {{< twitter happykinshicho >}}
-## [アイスクリーム](http://salon-est.com/)
-## [葉桜](http://m-sakura.work/)
-- (C)
-- (D)
-- (E)
-- 胸
-- セクシー
-## [優愛](http://sentai-esthe.net/)
-## [芙蓉](http://kourakusyo-est.tokyo/)
-- (C)
-- (D)
-- (F)
-## [ふれあい](http://fureai.xyz.mn/)
-- (C)
-- (D)
-- (E)
-- B83
-- B84
-- B85
-- B86
-- B87
-- B88
-## [美人茶屋](http://www.bijinchaya.mensest.com/)
-- (C)
-- (D)
-- (E)
-- B85
-- B86
-- B88
-- B91
-## [Eris エリス](http://www.eris.estheshop.com/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
-- B88
-## [ゆめえん](http://yume-en.xyz/)
-- (C)
-- (D)
-- (E)
-- (F)
-- B85
-- B86
-- B87
-- B88
-- B89
+
+
 ## [夜の色気](http://est-msg.com/)
-- (C)
-## [森の泉](http://www.es-morinoizumi.com/)
-- (C)
-- (D)
-- セクシー
-- B85
-- B86
-- B87
-- B88
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aest-msg.com+(C)" >}} 
+## [芙蓉](http://kourakusyo-est.tokyo/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Akourakusyo-est.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Akourakusyo-est.tokyo+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Akourakusyo-est.tokyo+(F)" >}} 
+## [ふれあい](http://fureai.xyz.mn/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Afureai.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Afureai.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Afureai.xyz.mn+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Afureai.xyz.mn+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Afureai.xyz.mn+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Afureai.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afureai.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Afureai.xyz.mn+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Afureai.xyz.mn+B88" >}} 
+## [美人茶屋](http://www.bijinchaya.mensest.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.bijinchaya.mensest.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.bijinchaya.mensest.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.bijinchaya.mensest.com+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.bijinchaya.mensest.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.bijinchaya.mensest.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.bijinchaya.mensest.com+B88" >}} {{< keyword "B91" "https://www.google.com/search?q=site%3Awww.bijinchaya.mensest.com+B91" >}} 
+## [優愛](http://sentai-esthe.net/)
+
+## [Eris エリス](http://www.eris.estheshop.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.eris.estheshop.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.eris.estheshop.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.eris.estheshop.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.eris.estheshop.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.eris.estheshop.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.eris.estheshop.com+B88" >}} 
+## [アイスクリーム](http://salon-est.com/)
+
 ## [可愛い蝶](http://es-healing.com/)
-## [学園アリス](http://ms-arm.com/)
+
 ## [いこい](http://ikoi.jpest.net/)
-- (C)
-- Dカップ
-- Eカップ
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aikoi.jpest.net+(C)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Aikoi.jpest.net+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aikoi.jpest.net+Eカップ" >}} 
 ## [生ビール](http://es-aroma.com/)
-- (C)
-- B80
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-aroma.com+(C)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Aes-aroma.com+B80" >}} 
 ## [夜生活](http://esthe-ms.com/)
-- (C)
-- B80
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aesthe-ms.com+(C)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Aesthe-ms.com+B80" >}} 

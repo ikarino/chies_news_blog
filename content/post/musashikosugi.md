@@ -12,203 +12,29 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-## [アーモンド](http://almond.est.cm/)
-## [蛍 ホタル](https://hotaru.ests.jp/)
-- (D)
-- (E)
-- B85
-- B87
-- B92
-## [悠](http://www.yu202.com/)
-- B83
-- B86
-## [ナンバーワン](http://www.number-one.work/)
-- (C)
-## [恋愛学園](https://koigakuin.estjp.info/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B86
-- B87
-- B88
-- B89
-- B90
-- B92
-## [Dear](http://dear.qws.esute-jp.com/)
-- (C)
-- (D)
-- (E)
-- B84
-- B86
-- B88
-## [心庵(こころあん)](http://kokoroan.info/)
-- (D)
-- B84
-- B85
-- B86
-- B87
-- B88
-## [エンジョイ](http://www.enjoy-es.info/)
-## [Pink Cocoro](http://familiar.este88.com/)
-- (C)
-- (D)
-## [The One](http://yumesen.work/)
-- (C)
-- (D)
-- (F)
-- B84
-- B86
-- B88
-## [花魁](http://www.kangobisyojo.esturl.com/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
-- B88
-## [せせらぎ](http://seseragi-massage.work/)
-- (C)
-- (D)
-- (E)
-- B80
-- B83
-- B85
-## [花の心](https://www.hananokokoro.com/)
+{{< keyword "Googleで武蔵小杉までの経路を検索する！" "https://www.google.com/search?q=現在地から武蔵小杉駅まで" >}}
 
-{{< twitter rhanakokoro >}}
-## [午後の茶](http://rlx-es.com/)
-- (C)
-## [アーモンド](http://almond.est.cm/)
-## [蛍 ホタル](https://hotaru.ests.jp/)
-- (D)
-- (E)
-- B85
-- B87
-- B92
-## [Dear](http://dear.qws.esute-jp.com/)
-- (C)
-- (D)
-- (E)
-- B84
-- B86
-- B88
-## [ナンバーワン](http://www.number-one.work/)
-- (C)
-- セクシー
-## [悠](http://www.yu202.com/)
-- B83
-- B86
-## [恋愛学園](https://koigakuin.estjp.info/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B86
-- B87
-- B88
-- B89
-- B90
-- B92
-## [花魁](http://www.kangobisyojo.esturl.com/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
-- B88
-## [心庵(こころあん)](http://kokoroan.info/)
-- (D)
-- B84
-- B85
-- B86
-- B87
-- B88
-## [エンジョイ](http://www.enjoy-es.info/)
-## [Pink Cocoro](http://familiar.este88.com/)
-- (C)
-- (D)
-## [The One](http://yumesen.work/)
-- (C)
-- (D)
-- (F)
-- B84
-- B86
-- B88
-## [せせらぎ](http://seseragi-massage.work/)
-- (C)
-- (D)
-- (E)
-- B80
-- B83
-- B85
-## [花の心](https://www.hananokokoro.com/)
-
-{{< twitter rhanakokoro >}}
-## [午後の茶](http://rlx-es.com/)
-- (C)
 ## [リリーフ](http://relief.ests.jp/)
+
 ## [アーモンド](http://almond.est.cm/)
+
 ## [恋愛学園](https://koigakuin.estjp.info/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B86
-- B87
-- B88
-- B89
-- B90
-- B92
-## [ナンバーワン](http://www.number-one.work/)
-- (C)
-- セクシー
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+(F)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+セクシー" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Akoigakuin.estjp.info+B92" >}} 
 ## [蛍 ホタル](https://hotaru.ests.jp/)
-- (D)
-- (E)
-- B85
-- B87
-- B92
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Ahotaru.ests.jp+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahotaru.ests.jp+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahotaru.ests.jp+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ahotaru.ests.jp+B87" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Ahotaru.ests.jp+B92" >}} 
 ## [悠](http://www.yu202.com/)
-- B83
-- B86
-## [Dear](http://dear.qws.esute-jp.com/)
-- (C)
-- (D)
-- (E)
-- B84
-- B86
-- B88
-## [エンジョイ](http://www.enjoy-es.info/)
-## [心庵(こころあん)](http://kokoroan.info/)
-- (D)
-- B84
-- B85
-- B86
-- B87
-- B88
+{{< keyword "B83" "https://www.google.com/search?q=site%3Awww.yu202.com+B83" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.yu202.com+B86" >}} 
 ## [Pink Cocoro](http://familiar.este88.com/)
-- (C)
-- (D)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Afamiliar.este88.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Afamiliar.este88.com+(D)" >}} 
 ## [花魁](http://www.kangobisyojo.esturl.com/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
-- B88
-## [せせらぎ](http://seseragi-massage.work/)
-- (C)
-- (D)
-- (E)
-- B80
-- B83
-- B85
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.kangobisyojo.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.kangobisyojo.esturl.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.kangobisyojo.esturl.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.kangobisyojo.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.kangobisyojo.esturl.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.kangobisyojo.esturl.com+B88" >}} 
+## [エンジョイ](http://www.enjoy-es.info/)
+
 ## [花の心](https://www.hananokokoro.com/)
 
+
 {{< twitter rhanakokoro >}}
+
+
 ## [午後の茶](http://rlx-es.com/)
-- (C)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Arlx-es.com+(C)" >}} 

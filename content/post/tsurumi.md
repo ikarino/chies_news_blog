@@ -12,441 +12,91 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+{{< keyword "Googleで鶴見までの経路を検索する！" "https://www.google.com/search?q=現在地から鶴見駅まで" >}}
+
 ## [美琉琉](http://h-yousei.xyz/)
-- (C)
-## [Yumi香](http://relax-aroma.xyz/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B86
-## [Smile スマイル](http://tsurumi-est.xyz/)
-- (C)
-- Cカップ
-- Dカップ
-- Eカップ
-## [人魚の恋](http://genkimori.ests.jp/)
-
-{{< twitter MomimomiTsurumi >}}
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B84
-- B85
-- B86
-- B87
-## [バブりん娘](http://baburin.iest.info/)
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B85
-- B86
-- B87
-- B88
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ah-yousei.xyz+(C)" >}} 
 ## [初恋](http://c.mdm.esute-jp.com/)
-## [花バラ](http://ba.menzue.com/)
 
-{{< twitter Hana32325763 >}}
 ## [Rose](http://raindays.xyz/)
 
+
 {{< twitter tsurumirose >}}
-- 胸
-- B86
-- B87
-- B89
-## [一目惚れ](https://hitomebore.tokyo/)
-## [朝露](http://asatsuyu-es.com/)
-- (C)
-- (D)
-- B86
-- B87
-## [スイートピー](http://sweetpea.este88.com/)
-- (C)
-- (D)
-- (F)
-- (I)
-- B80
-- B83
-- B86
-- B88
-- B91
-## [上善若水](http://relaxia.work/)
 
-{{< twitter zyouzen_turumi >}}
-- 胸
-## [新康院](http://newkang.work/)
-
-{{< twitter COCO63799651 >}}
-- 胸
-## [アンジェラ](http://est-massage.biz/)
-- (D)
-- B85
-- B86
-## [鶴見リラクゼーション](https://relaxation.jpn.cm/)
-- (D)
-- (E)
-- B85
-- B86
-## [優楽](https://tksakura.xyz/)
-- (D)
-- (E)
-- B85
-- B86
-- B87
-## [GOOD!](http://good.abnavi.info/)
-- (C)
-- (D)
-- (E)
-- B84
-- B85
-- B86
-- B88
-## [G-Cute](http://g.agomaj.com/)
-
-{{< twitter tsurumigcute >}}
-- (C)
-- (D)
-- B84
-- B85
-- B86
-- B87
-## [初恋](https://hatsukoi.est.cm/)
-- (C)
-- (D)
-- (E)
-- B83
-- B84
-- B85
-- B86
-- B87
-- B88
-## [Yulala ユララ](http://esthe-heal.com/)
-- (C)
-## [福縁](https://www.fukuen.in/)
-
-{{< twitter fukuenTsurumi >}}
-- (F)
-- (G)
-- (I)
-- 胸
-- セクシー
-## [月下美人](https://moon-beauty.jp/)
-
-{{< twitter moonbeauty_nana >}}
-- (C)
-- (D)
-- セクシー
-- B85
-- B86
-- B87
-- B88
-- B89
-## [パルスパ](https://www.pal-spa.com/)
-
-{{< twitter pal_spa >}}
-- セクシー
-- B100
-## [クラウン](http://www.crownman.tank.jp/)
-- Gカップ
-## [らく健康センター](https://seitai-massage.net/)
-
-{{< twitter massage_tsurumi >}}
-## [美琉琉](http://h-yousei.xyz/)
-- (C)
-## [Yumi香](http://relax-aroma.xyz/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B86
-## [花バラ](http://ba.menzue.com/)
-
-{{< twitter Hana32325763 >}}
-## [Smile スマイル](http://tsurumi-est.xyz/)
-- (C)
-- Cカップ
-- Dカップ
-- Eカップ
-## [バブりん娘](http://baburin.iest.info/)
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B85
-- B86
-- B87
-- B88
-## [初恋](http://c.mdm.esute-jp.com/)
+{{< keyword "胸" "https://www.google.com/search?q=site%3Araindays.xyz+胸" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Araindays.xyz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Araindays.xyz+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Araindays.xyz+B89" >}} 
 ## [人魚の恋](http://genkimori.ests.jp/)
 
+
 {{< twitter MomimomiTsurumi >}}
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B84
-- B85
-- B86
-- B87
-## [Rose](http://raindays.xyz/)
 
-{{< twitter tsurumirose >}}
-- 胸
-- B86
-- B87
-- B89
-## [一目惚れ](https://hitomebore.tokyo/)
-## [新康院](http://newkang.work/)
-
-{{< twitter COCO63799651 >}}
-- 胸
-## [鶴見リラクゼーション](https://relaxation.jpn.cm/)
-- (D)
-- (E)
-- B85
-- B86
-## [スイートピー](http://sweetpea.este88.com/)
-- (C)
-- (D)
-- (F)
-- (I)
-- B80
-- B83
-- B86
-- B88
-- B91
-## [朝露](http://asatsuyu-es.com/)
-- (C)
-- (D)
-- B86
-- B87
-## [上善若水](http://relaxia.work/)
-
-{{< twitter zyouzen_turumi >}}
-- 胸
-## [アンジェラ](http://est-massage.biz/)
-- (D)
-- B85
-- B86
-## [優楽](https://tksakura.xyz/)
-- (D)
-- (E)
-- B85
-- B86
-- B87
-## [GOOD!](http://good.abnavi.info/)
-- (C)
-- (D)
-- (E)
-- B84
-- B85
-- B86
-- B88
-## [G-Cute](http://g.agomaj.com/)
-
-{{< twitter tsurumigcute >}}
-- (C)
-- (D)
-- B84
-- B85
-- B86
-- B87
-## [初恋](https://hatsukoi.est.cm/)
-- (C)
-- (D)
-- (E)
-- B83
-- B84
-- B85
-- B86
-- B87
-- B88
-## [Yulala ユララ](http://esthe-heal.com/)
-- (C)
-## [福縁](https://www.fukuen.in/)
-
-{{< twitter fukuenTsurumi >}}
-- (F)
-- (G)
-- (I)
-- 胸
-- セクシー
-## [月下美人](https://moon-beauty.jp/)
-
-{{< twitter moonbeauty_nana >}}
-- (C)
-- (D)
-- セクシー
-- B85
-- B86
-- B87
-- B88
-- B89
-## [パルスパ](https://www.pal-spa.com/)
-
-{{< twitter pal_spa >}}
-- セクシー
-- B100
-## [クラウン](http://www.crownman.tank.jp/)
-- Gカップ
-## [らく健康センター](https://seitai-massage.net/)
-
-{{< twitter massage_tsurumi >}}
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+(E)" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+B82" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Agenkimori.ests.jp+B87" >}} 
+## [バブりん娘](http://baburin.iest.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ababurin.iest.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ababurin.iest.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ababurin.iest.info+(E)" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Ababurin.iest.info+B82" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ababurin.iest.info+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ababurin.iest.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ababurin.iest.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ababurin.iest.info+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ababurin.iest.info+B88" >}} 
 ## [花バラ](http://ba.menzue.com/)
 
+
 {{< twitter Hana32325763 >}}
+
+
 ## [Smile スマイル](http://tsurumi-est.xyz/)
-- (C)
-- Cカップ
-- Dカップ
-- Eカップ
-## [Yumi香](http://relax-aroma.xyz/)
-- (C)
-- (D)
-- (E)
-- (F)
-- セクシー
-- B86
-## [人魚の恋](http://genkimori.ests.jp/)
-
-{{< twitter MomimomiTsurumi >}}
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B84
-- B85
-- B86
-- B87
-## [Rose](http://raindays.xyz/)
-
-{{< twitter tsurumirose >}}
-- 胸
-- B86
-- B87
-- B89
-## [美琉琉](http://h-yousei.xyz/)
-- (C)
-## [一目惚れ](https://hitomebore.tokyo/)
-## [バブりん娘](http://baburin.iest.info/)
-- (C)
-- (D)
-- (E)
-- B82
-- B83
-- B85
-- B86
-- B87
-- B88
-## [初恋](http://c.mdm.esute-jp.com/)
-## [鶴見リラクゼーション](https://relaxation.jpn.cm/)
-- (D)
-- (E)
-- B85
-- B86
-## [新康院](http://newkang.work/)
-
-{{< twitter COCO63799651 >}}
-- 胸
-## [アンジェラ](http://est-massage.biz/)
-- (D)
-- B85
-- B86
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Atsurumi-est.xyz+(C)" >}} {{< keyword "Cカップ" "https://www.google.com/search?q=site%3Atsurumi-est.xyz+Cカップ" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Atsurumi-est.xyz+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Atsurumi-est.xyz+Eカップ" >}} 
 ## [上善若水](http://relaxia.work/)
 
+
 {{< twitter zyouzen_turumi >}}
-- 胸
+
+{{< keyword "胸" "https://www.google.com/search?q=site%3Arelaxia.work+胸" >}} 
+## [新康院](http://newkang.work/)
+
+
+{{< twitter COCO63799651 >}}
+
+{{< keyword "胸" "https://www.google.com/search?q=site%3Anewkang.work+胸" >}} 
+## [鶴見リラクゼーション](https://relaxation.jpn.cm/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Arelaxation.jpn.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Arelaxation.jpn.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arelaxation.jpn.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arelaxation.jpn.cm+B86" >}} 
 ## [朝露](http://asatsuyu-es.com/)
-- (C)
-- (D)
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aasatsuyu-es.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aasatsuyu-es.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aasatsuyu-es.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aasatsuyu-es.com+B87" >}} 
+## [アンジェラ](http://est-massage.biz/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aest-massage.biz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aest-massage.biz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aest-massage.biz+B86" >}} 
+## [一目惚れ](https://hitomebore.tokyo/)
+
 ## [スイートピー](http://sweetpea.este88.com/)
-- (C)
-- (D)
-- (F)
-- (I)
-- B80
-- B83
-- B86
-- B88
-- B91
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asweetpea.este88.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asweetpea.este88.com+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Asweetpea.este88.com+(F)" >}} {{< keyword "(I)" "https://www.google.com/search?q=site%3Asweetpea.este88.com+(I)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asweetpea.este88.com+B80" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Asweetpea.este88.com+B83" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Asweetpea.este88.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Asweetpea.este88.com+B88" >}} {{< keyword "B91" "https://www.google.com/search?q=site%3Asweetpea.este88.com+B91" >}} 
 ## [Cosy](https://serendipity.jpn.cm/)
-- (D)
-- Dカップ
-- B85
-- B86
-- B88
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aserendipity.jpn.cm+(D)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Aserendipity.jpn.cm+Dカップ" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aserendipity.jpn.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aserendipity.jpn.cm+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aserendipity.jpn.cm+B88" >}} 
 ## [優楽](https://tksakura.xyz/)
-- (D)
-- (E)
-- B85
-- B86
-- B87
-## [Yulala ユララ](http://esthe-heal.com/)
-- (C)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Atksakura.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Atksakura.xyz+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Atksakura.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Atksakura.xyz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Atksakura.xyz+B87" >}} 
 ## [GOOD!](http://good.abnavi.info/)
-- (C)
-- (D)
-- (E)
-- B84
-- B85
-- B86
-- B88
-## [初恋](https://hatsukoi.est.cm/)
-- (C)
-- (D)
-- (E)
-- B83
-- B84
-- B85
-- B86
-- B87
-- B88
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Agood.abnavi.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Agood.abnavi.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Agood.abnavi.info+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Agood.abnavi.info+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Agood.abnavi.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Agood.abnavi.info+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Agood.abnavi.info+B88" >}} 
 ## [G-Cute](http://g.agomaj.com/)
 
+
 {{< twitter tsurumigcute >}}
-- (C)
-- (D)
-- B84
-- B85
-- B86
-- B87
-## [クラウン](http://www.crownman.tank.jp/)
-- Gカップ
+
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ag.agomaj.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ag.agomaj.com+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Ag.agomaj.com+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ag.agomaj.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ag.agomaj.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ag.agomaj.com+B87" >}} 
+## [初恋](https://hatsukoi.est.cm/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahatsukoi.est.cm+B88" >}} 
 ## [らく健康センター](https://seitai-massage.net/)
 
+
 {{< twitter massage_tsurumi >}}
+
+
 ## [パルスパ](https://www.pal-spa.com/)
 
+
 {{< twitter pal_spa >}}
-- セクシー
-- B100
+
+{{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.pal-spa.com+セクシー" >}} {{< keyword "B100" "https://www.google.com/search?q=site%3Awww.pal-spa.com+B100" >}} 
 ## [月下美人](https://moon-beauty.jp/)
 
+
 {{< twitter moonbeauty_nana >}}
-- (C)
-- (D)
-- セクシー
-- B85
-- B86
-- B87
-- B88
-- B89
+
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Amoon-beauty.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Amoon-beauty.jp+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Amoon-beauty.jp+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Amoon-beauty.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amoon-beauty.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Amoon-beauty.jp+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Amoon-beauty.jp+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Amoon-beauty.jp+B89" >}} 
 ## [福縁](https://www.fukuen.in/)
 
+
 {{< twitter fukuenTsurumi >}}
-- (F)
-- (G)
-- (I)
-- 胸
-- セクシー
+
+{{< keyword "(F)" "https://www.google.com/search?q=site%3Awww.fukuen.in+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Awww.fukuen.in+(G)" >}} {{< keyword "(I)" "https://www.google.com/search?q=site%3Awww.fukuen.in+(I)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Awww.fukuen.in+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.fukuen.in+セクシー" >}} 

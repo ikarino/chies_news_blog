@@ -12,120 +12,17 @@ series = ["地域別情報"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+{{< keyword "Googleで伊勢佐木長者町までの経路を検索する！" "https://www.google.com/search?q=現在地から伊勢佐木長者町駅まで" >}}
+
 ## [スマイル](https://candygm.xyz/)
-## [紫月](https://sunflower.jp.net/)
-- (C)
-- B88
-- B89
-- B90
-- B96
+
 ## [Sunny サニー](https://sunny.xyz.mn/)
 
-{{< twitter amy19970912 >}}
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
-## [Dear](https://dear.xyz.mn/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
-## [古田](http://furuta-massage.work/)
-- (C)
-- (D)
-- (E)
-- (G)
-- 胸
-- B85
-- B86
-- B87
-- B88
-- B89
-## [怡友 いゆう](https://www.iyuu.work/)
-## [しるし](http://shirushi.me-es.com/)
-- (D)
-- B85
-- B86
-- B89
-## [紫月](https://sunflower.jp.net/)
-- (C)
-- B88
-- B89
-- B90
-- B96
-## [Sunny サニー](https://sunny.xyz.mn/)
 
 {{< twitter amy19970912 >}}
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
-## [スマイル](https://candygm.xyz/)
-## [古田](http://furuta-massage.work/)
-- (C)
-- (D)
-- (E)
-- (G)
-- 胸
-- B85
-- B86
-- B87
-- B88
-- B89
-## [Dear](https://dear.xyz.mn/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
-## [怡友 いゆう](https://www.iyuu.work/)
-## [しるし](http://shirushi.me-es.com/)
-- (D)
-- B85
-- B86
-- B89
-## [紫月](https://sunflower.jp.net/)
-- (C)
-- B88
-- B89
-- B90
-- B96
-## [スマイル](https://candygm.xyz/)
-## [Sunny サニー](https://sunny.xyz.mn/)
 
-{{< twitter amy19970912 >}}
-- (C)
-- (D)
-- B83
-- B85
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asunny.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asunny.xyz.mn+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Asunny.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asunny.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Asunny.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Asunny.xyz.mn+B87" >}} 
 ## [Dear](https://dear.xyz.mn/)
-- (C)
-- (D)
-- B85
-- B86
-- B87
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Adear.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Adear.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Adear.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Adear.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Adear.xyz.mn+B87" >}} 
 ## [古田](http://furuta-massage.work/)
-- (C)
-- (D)
-- (E)
-- (G)
-- 胸
-- B85
-- B86
-- B87
-- B88
-- B89
-## [怡友 いゆう](https://www.iyuu.work/)
-## [しるし](http://shirushi.me-es.com/)
-- (D)
-- B85
-- B86
-- B89
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Afuruta-massage.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Afuruta-massage.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Afuruta-massage.work+(E)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Afuruta-massage.work+(G)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Afuruta-massage.work+胸" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Afuruta-massage.work+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuruta-massage.work+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Afuruta-massage.work+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Afuruta-massage.work+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Afuruta-massage.work+B89" >}} 
