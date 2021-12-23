@@ -32,11 +32,11 @@ aliases = ["migrate-from-jekyl"]
 ## [悠楽](http://www.awaspa-est.net/)
 
 
-## [IRIS](http://xn--cckubj6bwie8h7e.net/)
-{{< keyword "セクシー" "https://www.google.com/search?q=site%3Axn--cckubj6bwie8h7e.net+セクシー" >}} 
-
 ## [風情](http://fuzei.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Afuzei.xyz+(C)" >}} 
+
+## [IRIS](http://xn--cckubj6bwie8h7e.net/)
+{{< keyword "セクシー" "https://www.google.com/search?q=site%3Axn--cckubj6bwie8h7e.net+セクシー" >}} 
 
 ## [Rose Color ローズカラー](https://rosecolor.jp/)
 
