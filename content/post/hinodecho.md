@@ -20,9 +20,3 @@ aliases = ["migrate-from-jekyl"]
 ## [沙霧 さぎり](http://sg.msji.work/)
 
 
-## [Smile スマイル](http://landh.info/)
-
-
-## [沙霧 さぎり](http://sg.msji.work/)
-
-
