@@ -17,23 +17,25 @@ aliases = ["migrate-from-jekyl"]
 ## [真心](http://k-rlx.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ak-rlx.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ak-rlx.info+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ak-rlx.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ak-rlx.info+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ak-rlx.info+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ak-rlx.info+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Ak-rlx.info+B92" >}} 
 
-## [Only one](http://on.mznab.com/)
-
-
 ## [夢の部屋](http://www.sh-himenoyw.work/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B89" >}} 
 
 - **新着情報あり@[2021-12-20](/post/2021-12-20)**
-## [癒癒堂](http://yuyudou.com/)
+## [Only one](http://on.mznab.com/)
 
+
+## [憩](http://ikoi.xyz.mn/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
 
 ## [マジックラブリー](http://www1.spa-omori.com/)
 {{< keyword "B87" "https://www.google.com/search?q=site%3Awww1.spa-omori.com+B87" >}} 
 
-## [エンジェル](http://angel777.esjp.xyz/)
+## [癒癒堂](http://yuyudou.com/)
 
 
-- **新着情報あり@[2021-12-22](/post/2021-12-22)**
+## [リファイン](http://es-refine.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
+
 ## [Sweet Time](http://heal-msg.com/)
 
 
@@ -41,15 +43,13 @@ aliases = ["migrate-from-jekyl"]
 
 
 
-## [憩](http://ikoi.xyz.mn/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
-
-## [リファイン](http://es-refine.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
-
 ## [ロイヤル](http://es-kosumosu.com/)
 
 
+## [エンジェル](http://angel777.esjp.xyz/)
+
+
+- **新着情報あり@[2021-12-22](/post/2021-12-22)**
 ## [コスモス](http://www.cosmos.relaxjp.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
 
