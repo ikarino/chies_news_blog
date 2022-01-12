@@ -14,10 +14,10 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleでたまプラーザまでの経路を検索する！" "https://www.google.com/search?q=現在地からたまプラーザ駅まで" >}}
 
-## [楽々](http://rakurakuest.xyz/)
-
-
 ## [blue ブルー](http://tamaplazarelax.fun/)
+
+
+## [楽々](http://rakurakuest.xyz/)
 
 
 ## [健康サロン](http://esthe-relax.pink/)
