@@ -14,13 +14,13 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで平塚までの経路を検索する！" "https://www.google.com/search?q=現在地から平塚駅まで" >}}
 
+## [ふよう](http://www.huyo.work/)
+
+
 ## [妹](http://www.imouto-esute2866.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.imouto-esute2866.com+(C)" >}} 
 
 ## [随縁](http://sui-en.work/)
-
-
-## [ふよう](http://www.huyo.work/)
 
 
 ## [ハナビ](http://es-hanabi.xyz/)
