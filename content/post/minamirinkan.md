@@ -24,8 +24,9 @@ aliases = ["migrate-from-jekyl"]
 
 
 ## [すぱげってぃ](https://spaghetti.est.cm/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(G)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(H)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B92" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B93" >}} {{< keyword "B95" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B95" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(E)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(G)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+(H)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+胸" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B92" >}} {{< keyword "B95" "https://www.google.com/search?q=site%3Aspaghetti.est.cm+B95" >}} 
 
+- **新着情報あり@[2022-01-15](/post/2022-01-15)**
 - **新着情報あり@[2022-01-12](/post/2022-01-12)**
 - **新着情報あり@[2022-01-10](/post/2022-01-10)**
 - **新着情報あり@[2022-01-06](/post/2022-01-06)**
