@@ -27,6 +27,7 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Apao.vdeg.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Apao.vdeg.xyz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Apao.vdeg.xyz+B85" >}} 
 
+- **新着情報あり@[2022-01-18](/post/2022-01-18)**
 - **新着情報あり@[2021-12-29](/post/2021-12-29)**
 ## [花水木](http://est-hanamizuki.com/)
 
