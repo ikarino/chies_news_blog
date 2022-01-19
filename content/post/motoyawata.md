@@ -45,8 +45,6 @@ aliases = ["migrate-from-jekyl"]
 ## [リブ](http://rib.ebb.jp/)
 
 
-{{< twitter リラクゼーション　リブ56429577 >}}
-
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Arib.ebb.jp+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Arib.ebb.jp+(E)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Arib.ebb.jp+(G)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Arib.ebb.jp+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arib.ebb.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arib.ebb.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Arib.ebb.jp+B87" >}} {{< keyword "B98" "https://www.google.com/search?q=site%3Arib.ebb.jp+B98" >}} 
 
 ## [フェアリー](http://www.club.relaxjp.info/)
