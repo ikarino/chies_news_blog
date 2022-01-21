@@ -38,7 +38,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2021-12-26](/post/2021-12-26)**
 - **新着情報あり@[2021-12-25](/post/2021-12-25)**
 - **新着情報あり@[2021-12-24](/post/2021-12-24)**
-- **新着情報あり@[2021-12-21](/post/2021-12-21)**
 ## [Rose ローズ](https://rose.xyz.mn/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Arose.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arose.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arose.xyz.mn+B85" >}} 
 
