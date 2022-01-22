@@ -28,7 +28,6 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Adear.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Adear.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Adear.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Adear.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Adear.xyz.mn+B87" >}} 
 
 - **新着情報あり@[2022-01-20](/post/2022-01-20)**
-- **新着情報あり@[2021-12-23](/post/2021-12-23)**
 ## [しるし](http://shirushi.me-es.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ashirushi.me-es.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ashirushi.me-es.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ashirushi.me-es.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ashirushi.me-es.com+B89" >}} 
 
