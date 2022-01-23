@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで仲御徒町までの経路を検索する！" "https://www.google.com/search?q=現在地から仲御徒町駅まで" >}}
 
+## [ZOEY ゾーイ](http://zoey.mssg.jp/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Azoey.mssg.jp+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Azoey.mssg.jp+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Azoey.mssg.jp+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Azoey.mssg.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Azoey.mssg.jp+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Azoey.mssg.jp+B88" >}} 
+
 ## [癒し屋](https://u-este.com/)
 
 

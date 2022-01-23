@@ -23,6 +23,9 @@ aliases = ["migrate-from-jekyl"]
 ## [看護美女](http://www.kangobijo.esturl.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.kangobijo.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.kangobijo.esturl.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.kangobijo.esturl.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.kangobijo.esturl.com+B88" >}} 
 
+## [癒しの楽園](http://www.rakuen.relaxjp.info/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+(E)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+Dカップ" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+B87" >}} 
+
 ## [カラフルリゾート](https://color.uouono.com/)
 
 
