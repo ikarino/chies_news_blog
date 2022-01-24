@@ -24,6 +24,12 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-01-11](/post/2022-01-11)**
+## [憩](http://ikoi.xyz.mn/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
+
+## [リファイン](http://es-refine.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
+
 ## [癒癒堂](http://yuyudou.com/)
 
 
@@ -34,20 +40,17 @@ aliases = ["migrate-from-jekyl"]
 ## [マジックラブリー](http://www1.spa-omori.com/)
 {{< keyword "B87" "https://www.google.com/search?q=site%3Awww1.spa-omori.com+B87" >}} 
 
-## [コスモス](http://www.cosmos.relaxjp.info/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
-
-## [リファイン](http://es-refine.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
-
-## [憩](http://ikoi.xyz.mn/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
-
 ## [Sweet Time](http://heal-msg.com/)
 
 
 {{< twitter Sweetstime3 >}}
 
+
+
+## [コスモス](http://www.cosmos.relaxjp.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
+
+## [エンジェル](http://angel777.esjp.xyz/)
 
 
 ## [ロイヤル](http://es-kosumosu.com/)
@@ -58,9 +61,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter omori_mensesthe >}}
 
-
-
-## [エンジェル](http://angel777.esjp.xyz/)
 
 
 ## [シークレットファンタジー](http://spa-omori.com/)
