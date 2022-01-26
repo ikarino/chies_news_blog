@@ -14,13 +14,10 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで津田沼までの経路を検索する！" "https://www.google.com/search?q=現在地から津田沼駅まで" >}}
 
-## [ダイヤモンド](http://n-rlx.com/)
-
-
 ## [台北楽園](http://yumera.work/)
 {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ayumera.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Ayumera.work+Eカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Ayumera.work+Fカップ" >}} {{< keyword "Gカップ" "https://www.google.com/search?q=site%3Ayumera.work+Gカップ" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Ayumera.work+胸" >}} 
 
-## [キラキラ](http://k.crff.work/)
+## [ダイヤモンド](http://n-rlx.com/)
 
 
 ## [ユートピア](http://utopia.relax-good.com/)
@@ -29,6 +26,9 @@ aliases = ["migrate-from-jekyl"]
 {{< twitter utopia_TDNM >}}
 
 {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Autopia.relax-good.com+Eカップ" >}} 
+
+## [キラキラ](http://k.crff.work/)
+
 
 ## [ふわふわ天使](http://fuwafuwa-tenshi.work/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+(F)" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+Fカップ" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Afuwafuwa-tenshi.work+B89" >}} 
