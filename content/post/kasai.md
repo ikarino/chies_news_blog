@@ -44,16 +44,16 @@ aliases = ["migrate-from-jekyl"]
 ## [ヒアラックス](http://www.healux.esturl.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.healux.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.healux.esturl.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.healux.esturl.com+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Awww.healux.esturl.com+B80" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Awww.healux.esturl.com+B82" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.healux.esturl.com+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.healux.esturl.com+B87" >}} 
 
+## [ロイヤル](http://www.mens-royal.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.mens-royal.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.mens-royal.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.mens-royal.com+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Awww.mens-royal.com+(F)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.mens-royal.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.mens-royal.com+B88" >}} 
+
+## [花水木](https://dikmrrr.wixsite.com/hanakimizu)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Adikmrrr.wixsite.com+(C)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Adikmrrr.wixsite.com+(F)" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Adikmrrr.wixsite.com+B89" >}} {{< keyword "B96" "https://www.google.com/search?q=site%3Adikmrrr.wixsite.com+B96" >}} 
+
 ## [Aegean Sea エーゲ海](http://est-lux.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aest-lux.com+(C)" >}} 
 
 - **新着情報あり@[2022-01-26](/post/2022-01-26)**
-## [ロイヤル](http://www.mens-royal.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.mens-royal.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.mens-royal.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.mens-royal.com+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Awww.mens-royal.com+(F)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.mens-royal.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.mens-royal.com+B88" >}} 
-
 ## [ラベンダー](http://lavender01.com/)
 {{< keyword "胸" "https://www.google.com/search?q=site%3Alavender01.com+胸" >}} 
-
-## [花水木](https://dikmrrr.wixsite.com/hanakimizu)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Adikmrrr.wixsite.com+(C)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Adikmrrr.wixsite.com+(F)" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Adikmrrr.wixsite.com+B89" >}} {{< keyword "B96" "https://www.google.com/search?q=site%3Adikmrrr.wixsite.com+B96" >}} 
 
