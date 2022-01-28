@@ -26,13 +26,13 @@ aliases = ["migrate-from-jekyl"]
 ## [癒しの楽園](http://www.rakuen.relaxjp.info/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+(E)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+Dカップ" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+B87" >}} 
 
+## [桜](http://salon-msg.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
+
 ## [カラフルリゾート](https://color.uouono.com/)
 
 
 {{< twitter ogikuboesthe >}}
 
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Acolor.uouono.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acolor.uouono.com+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Acolor.uouono.com+セクシー" >}} 
-
-## [桜](http://salon-msg.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
 

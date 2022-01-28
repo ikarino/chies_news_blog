@@ -32,4 +32,3 @@ aliases = ["migrate-from-jekyl"]
 ## [ピーチ](http://www.peach.esturl.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.peach.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.peach.esturl.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.peach.esturl.com+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.peach.esturl.com+B87" >}} 
 
-- **新着情報あり@[2021-12-29](/post/2021-12-29)**
