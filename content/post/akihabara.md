@@ -39,14 +39,12 @@ aliases = ["migrate-from-jekyl"]
 ## [Coco](https://coco.tyo.ac/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(F)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B87" >}} 
 
+- **新着情報あり@[2022-01-30](/post/2022-01-30)**
 - **新着情報あり@[2022-01-28](/post/2022-01-28)**
 - **新着情報あり@[2022-01-27](/post/2022-01-27)**
 - **新着情報あり@[2022-01-24](/post/2022-01-24)**
 - **新着情報あり@[2022-01-19](/post/2022-01-19)**
 - **新着情報あり@[2022-01-11](/post/2022-01-11)**
-## [クーニャン](http://esthe-aroma.net/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aesthe-aroma.net+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aesthe-aroma.net+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aesthe-aroma.net+B86" >}} 
-
 ## [隠れ家](http://jasmine-massage.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ajasmine-massage.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ajasmine-massage.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ajasmine-massage.info+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ajasmine-massage.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ajasmine-massage.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ajasmine-massage.info+B87" >}} 
 
@@ -55,6 +53,9 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-01-14](/post/2022-01-14)**
 - **新着情報あり@[2022-01-12](/post/2022-01-12)**
 - **新着情報あり@[2022-01-05](/post/2022-01-05)**
+## [クーニャン](http://esthe-aroma.net/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aesthe-aroma.net+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aesthe-aroma.net+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aesthe-aroma.net+B86" >}} 
+
 ## [ほほえみ](http://esthe-relax.tokyo/)
 {{< keyword "B86" "https://www.google.com/search?q=site%3Aesthe-relax.tokyo+B86" >}} 
 
