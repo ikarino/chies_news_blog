@@ -20,14 +20,10 @@ aliases = ["migrate-from-jekyl"]
 ## [Pandora パンドラ](http://www.es-tokyo.link/)
 {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Awww.es-tokyo.link+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Awww.es-tokyo.link+Eカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Awww.es-tokyo.link+Fカップ" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.es-tokyo.link+セクシー" >}} 
 
-## [バービー](http://www.barbie.masg.info/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.barbie.masg.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.barbie.masg.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.barbie.masg.info+(E)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Awww.barbie.masg.info+胸" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.barbie.masg.info+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.barbie.masg.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.barbie.masg.info+B87" >}} 
-
-- **新着情報あり@[2022-01-08](/post/2022-01-08)**
 ## [SERA](https://hamamatsucho-mensesthe.net/)
 
 
 {{< twitter sera_esthe >}}
 
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(E)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Eカップ" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(E)" >}} {{< keyword "Cカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Cカップ" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Eカップ" >}} 
 

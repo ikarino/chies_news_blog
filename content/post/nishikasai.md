@@ -30,15 +30,15 @@ aliases = ["migrate-from-jekyl"]
 ## [Eat Me イートミー](http://relaxation.blue/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Arelaxation.blue+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arelaxation.blue+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Arelaxation.blue+(F)" >}} {{< keyword "おっぱい" "https://www.google.com/search?q=site%3Arelaxation.blue+おっぱい" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arelaxation.blue+B86" >}} 
 
-## [台湾エステ](http://taiwanesthe.iest.jp/)
-
-
 ## [アイボリー](https://ivory-shop.tokyo/)
 
 
 {{< twitter ogikuboesthe >}}
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aivory-shop.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aivory-shop.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aivory-shop.tokyo+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aivory-shop.tokyo+セクシー" >}} 
+
+## [台湾エステ](http://taiwanesthe.iest.jp/)
+
 
 ## [Cute Girls](https://cg.uouono.com/)
 
