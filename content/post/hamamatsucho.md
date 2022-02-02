@@ -25,5 +25,5 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter sera_esthe >}}
 
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(E)" >}} {{< keyword "Cカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Cカップ" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Eカップ" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+(F)" >}} {{< keyword "Cカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Cカップ" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Eカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Ahamamatsucho-mensesthe.net+Fカップ" >}} 
 
