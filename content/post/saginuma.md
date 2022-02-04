@@ -17,9 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [憩い](http://massage-esthe.tokyo/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Amassage-esthe.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Amassage-esthe.tokyo+(E)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Amassage-esthe.tokyo+胸" >}} 
 
-## [縁](http://lavender.este88.com/)
-
-
 ## [夢苑](http://yumeen.jpest.net/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ayumeen.jpest.net+(C)" >}} 
 
@@ -28,6 +25,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter sgnm_kouroumu >}}
 
+
+
+## [縁](http://lavender.este88.com/)
 
 
 ## [天使](https://tenshi.jpn.vin/)

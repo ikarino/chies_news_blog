@@ -23,9 +23,6 @@ aliases = ["migrate-from-jekyl"]
 ## [夢の庭](http://es-come.net/yumeniwa/)
 
 
-## [Baby ベビー](http://es-heal.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-heal.com+(C)" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aes-heal.com+Eカップ" >}} 
-
 ## [夜色](https://yasyoku.xyz.mn/)
 
 
@@ -43,4 +40,8 @@ aliases = ["migrate-from-jekyl"]
 ## [春屋](http://www.haruya.esturl.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.haruya.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.haruya.esturl.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.haruya.esturl.com+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.haruya.esturl.com+B87" >}} 
 
+- **新着情報あり@[2022-02-04](/post/2022-02-04)**
 - **新着情報あり@[2022-01-18](/post/2022-01-18)**
+## [Baby ベビー](http://es-heal.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-heal.com+(C)" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aes-heal.com+Eカップ" >}} 
+
