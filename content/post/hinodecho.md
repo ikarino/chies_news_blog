@@ -20,3 +20,4 @@ aliases = ["migrate-from-jekyl"]
 ## [沙霧 さぎり](http://sg.msji.work/)
 
 
+- **新着情報あり@[2022-02-05](/post/2022-02-05)**
