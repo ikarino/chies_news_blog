@@ -38,9 +38,6 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Arib.ebb.jp+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Arib.ebb.jp+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Arib.ebb.jp+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Arib.ebb.jp+(G)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Arib.ebb.jp+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arib.ebb.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arib.ebb.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Arib.ebb.jp+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Arib.ebb.jp+B89" >}} {{< keyword "B98" "https://www.google.com/search?q=site%3Arib.ebb.jp+B98" >}} 
 
 - **新着情報あり@[2022-01-30](/post/2022-01-30)**
-## [ネプチューン](http://neptune.est.cm/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aneptune.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aneptune.est.cm+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aneptune.est.cm+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aneptune.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aneptune.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aneptune.est.cm+B87" >}} 
-
 ## [フェアリー](http://www.club.relaxjp.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.club.relaxjp.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.club.relaxjp.info+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.club.relaxjp.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.club.relaxjp.info+B87" >}} 
 
@@ -53,4 +50,7 @@ aliases = ["migrate-from-jekyl"]
 
 ## [静 しずか](http://www.shizuka.mensnv.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.shizuka.mensnv.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.shizuka.mensnv.com+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.shizuka.mensnv.com+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.shizuka.mensnv.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.shizuka.mensnv.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.shizuka.mensnv.com+B88" >}} 
+
+## [ネプチューン](http://neptune.est.cm/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aneptune.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aneptune.est.cm+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aneptune.est.cm+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aneptune.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aneptune.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aneptune.est.cm+B87" >}} 
 

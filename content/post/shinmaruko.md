@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで新丸子までの経路を検索する！" "https://www.google.com/search?q=現在地から新丸子駅まで" >}}
 
-## [夜の優しい](http://relax-sln.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Arelax-sln.com+(C)" >}} 
-
 ## [Alice アリス](http://alice-est.tokyo/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(F)" >}} 
 
@@ -38,6 +35,9 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-02-04](/post/2022-02-04)**
 - **新着情報あり@[2022-01-18](/post/2022-01-18)**
+## [夜の優しい](http://relax-sln.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Arelax-sln.com+(C)" >}} 
+
 ## [キュアレ](https://cure-re.xyz.mn/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B87" >}} 
 
