@@ -14,9 +14,10 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで藤沢までの経路を検索する！" "https://www.google.com/search?q=現在地から藤沢駅まで" >}}
 
-## [ハニーザスパ](http://hi-msg.com/honeythespa/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahi-msg.com+(C)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Ahi-msg.com+セクシー" >}} 
-
 ## [恵 めぐみ](http://megumi-est.xyz/)
 
 
+## [ハニーザスパ](http://hi-msg.com/honeythespa/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahi-msg.com+(C)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Ahi-msg.com+セクシー" >}} 
+
+- **新着情報あり@[2022-02-07](/post/2022-02-07)**

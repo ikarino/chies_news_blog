@@ -15,19 +15,5 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "Googleで横浜までの経路を検索する！" "https://www.google.com/search?q=現在地から横浜駅まで" >}}
 
 ## [キラキラ](http://kirakira.estheya.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Akirakira.estheya.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Akirakira.estheya.com+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Akirakira.estheya.com+(F)" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Akirakira.estheya.com+Fカップ" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Akirakira.estheya.com+セクシー" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Akirakira.estheya.com+B89" >}} {{< keyword "B91" "https://www.google.com/search?q=site%3Akirakira.estheya.com+B91" >}} 
+{{< keyword "Fカップ" "https://www.google.com/search?q=site%3Akirakira.estheya.com+Fカップ" >}} 
 
-## [チェリー](http://sh-riraku31.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ash-riraku31.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ash-riraku31.xyz+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Ash-riraku31.xyz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ash-riraku31.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ash-riraku31.xyz+B86" >}} 
-
-## [看護美女](http://www.kangobijo.esturl.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.kangobijo.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.kangobijo.esturl.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.kangobijo.esturl.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.kangobijo.esturl.com+B88" >}} 
-
-## [癒しの楽園](http://www.rakuen.relaxjp.info/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+(E)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+Dカップ" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.rakuen.relaxjp.info+B87" >}} 
-
-## [桜](http://salon-msg.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
-
-- **新着情報あり@[2022-02-04](/post/2022-02-04)**
-- **新着情報あり@[2022-02-03](/post/2022-02-03)**
