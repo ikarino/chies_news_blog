@@ -24,9 +24,6 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-02-08](/post/2022-02-08)**
-## [憩](http://ikoi.xyz.mn/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
-
 ## [癒癒堂](http://yuyudou.com/)
 
 
@@ -34,29 +31,11 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.sh-himenoyw.work+B89" >}} 
 
 - **新着情報あり@[2022-02-05](/post/2022-02-05)**
-- **新着情報あり@[2022-01-13](/post/2022-01-13)**
 ## [マジックラブリー](http://www1.spa-omori.com/)
 {{< keyword "B87" "https://www.google.com/search?q=site%3Awww1.spa-omori.com+B87" >}} 
 
-## [リファイン](http://es-refine.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
-
 ## [コスモス](http://www.cosmos.relaxjp.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
-
-## [ロイヤル](http://es-kosumosu.com/)
-
-
-- **新着情報あり@[2022-02-06](/post/2022-02-06)**
-## [エンジェル](http://angel777.esjp.xyz/)
-
-
-## [森の家](https://omori-mensesthe.com/)
-
-
-{{< twitter omori_mensesthe >}}
-
-
 
 ## [Sweet Time](http://heal-msg.com/)
 
@@ -65,9 +44,30 @@ aliases = ["migrate-from-jekyl"]
 
 
 
+- **新着情報あり@[2022-02-10](/post/2022-02-10)**
+## [リファイン](http://es-refine.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
+
 ## [ハッピー](http://www.happy.esthejp.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.happy.esthejp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.happy.esthejp.com+(D)" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Awww.happy.esthejp.com+B82" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.happy.esthejp.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.happy.esthejp.com+B87" >}} 
 
+## [エンジェル](http://angel777.esjp.xyz/)
+
+
+## [憩](http://ikoi.xyz.mn/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
+
+## [森の家](https://omori-mensesthe.com/)
+
+
+{{< twitter omori_mensesthe >}}
+
+
+
+## [ロイヤル](http://es-kosumosu.com/)
+
+
+- **新着情報あり@[2022-02-06](/post/2022-02-06)**
 ## [シークレットファンタジー](http://spa-omori.com/)
 {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aspa-omori.com+Eカップ" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aspa-omori.com+セクシー" >}} 
 
