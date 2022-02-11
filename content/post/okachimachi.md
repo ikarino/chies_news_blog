@@ -40,6 +40,7 @@ aliases = ["migrate-from-jekyl"]
 ## [レモン](http://ueno502.galaxy.bindcloud.jp/)
 
 
+- **新着情報あり@[2022-02-11](/post/2022-02-11)**
 - **新着情報あり@[2022-02-10](/post/2022-02-10)**
 - **新着情報あり@[2022-02-09](/post/2022-02-09)**
 - **新着情報あり@[2022-02-06](/post/2022-02-06)**
@@ -58,12 +59,11 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-01-17](/post/2022-01-17)**
 - **新着情報あり@[2022-01-16](/post/2022-01-16)**
 - **新着情報あり@[2022-01-15](/post/2022-01-15)**
-- **新着情報あり@[2022-01-14](/post/2022-01-14)**
-## [楽の縁](https://rakunoen.bex.jp/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+(C)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B90" >}} 
-
 ## [嫦娥 JOGA](https://jouga.info/)
 {{< keyword "B85" "https://www.google.com/search?q=site%3Ajouga.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ajouga.info+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ajouga.info+B88" >}} 
+
+## [楽の縁](https://rakunoen.bex.jp/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+(C)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B90" >}} 
 
 ## [月兎 ゲット](https://moon-rabbit.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Amoon-rabbit.info+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Amoon-rabbit.info+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Amoon-rabbit.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amoon-rabbit.info+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Amoon-rabbit.info+B88" >}} 
