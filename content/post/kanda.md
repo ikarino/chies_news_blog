@@ -40,9 +40,6 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Anene-kanda.net+(C)" >}} {{< keyword "Cカップ" "https://www.google.com/search?q=site%3Anene-kanda.net+Cカップ" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Anene-kanda.net+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Anene-kanda.net+Eカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Anene-kanda.net+Fカップ" >}} 
 
 - **新着情報あり@[2022-02-08](/post/2022-02-08)**
-## [Aroma Lip アロマリップ](https://aroma-lip.info/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aaroma-lip.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aaroma-lip.info+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aaroma-lip.info+(F)" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aaroma-lip.info+Eカップ" >}} 
-
 ## [Honey Angel](https://honey-angel.tyo.cm/)
 
 
@@ -54,3 +51,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-02-03](/post/2022-02-03)**
 - **新着情報あり@[2022-01-27](/post/2022-01-27)**
 - **新着情報あり@[2022-01-24](/post/2022-01-24)**
+## [Aroma Lip アロマリップ](https://aroma-lip.info/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aaroma-lip.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aaroma-lip.info+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aaroma-lip.info+(F)" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aaroma-lip.info+Eカップ" >}} 
+

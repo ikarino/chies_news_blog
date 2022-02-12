@@ -21,6 +21,9 @@ aliases = ["migrate-from-jekyl"]
 ## [楽](http://rk.hccg.work/)
 {{< keyword "胸" "https://www.google.com/search?q=site%3Ark.hccg.work+胸" >}} 
 
+## [たんぽぽ](http://hfme8.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfme8.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfme8.xyz+(D)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Ahfme8.xyz+胸" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ahfme8.xyz+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfme8.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfme8.xyz+B89" >}} 
+
 ## [春屋](https://haruya.xyz.mn/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+B88" >}} {{< keyword "B91" "https://www.google.com/search?q=site%3Aharuya.xyz.mn+B91" >}} 
 
