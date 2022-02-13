@@ -17,11 +17,11 @@ aliases = ["migrate-from-jekyl"]
 ## [Melty Love メルティーラヴ](http://es-come.net/meltylove/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-come.net+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aes-come.net+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Aes-come.net+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aes-come.net+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aes-come.net+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aes-come.net+B88" >}} 
 
-## [Ruby ルビー](http://ruby.iest.info/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aruby.iest.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aruby.iest.info+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aruby.iest.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aruby.iest.info+B86" >}} 
-
 ## [QUEEN クイーン](https://queen.estjp.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aqueen.estjp.info+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aqueen.estjp.info+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aqueen.estjp.info+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aqueen.estjp.info+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aqueen.estjp.info+B90" >}} 
+
+## [Ruby ルビー](http://ruby.iest.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aruby.iest.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aruby.iest.info+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aruby.iest.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aruby.iest.info+B86" >}} 
 
 ## [アリエス](http://gdgw5.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Agdgw5.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Agdgw5.xyz+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Agdgw5.xyz+B84" >}} 
