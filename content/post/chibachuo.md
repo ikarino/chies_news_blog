@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで千葉中央までの経路を検索する！" "https://www.google.com/search?q=現在地から千葉中央駅まで" >}}
 
-## [渚のオアシス](http://os.est-u.com/)
-
-
 ## [七彩](http://love-you.work/)
 {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Alove-you.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Alove-you.work+Eカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Alove-you.work+Fカップ" >}} {{< keyword "Gカップ" "https://www.google.com/search?q=site%3Alove-you.work+Gカップ" >}} 
 
@@ -26,4 +23,7 @@ aliases = ["migrate-from-jekyl"]
 
 ## [Best Love](http://www.bestlove.estheshop.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.bestlove.estheshop.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.bestlove.estheshop.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.bestlove.estheshop.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.bestlove.estheshop.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.bestlove.estheshop.com+B88" >}} 
+
+## [渚のオアシス](http://os.est-u.com/)
+
 
