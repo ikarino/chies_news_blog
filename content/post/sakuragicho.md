@@ -37,5 +37,5 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter Ki2Si0ieREogORz >}}
 
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.shin-taipei-massage.com+(C)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Awww.shin-taipei-massage.com+(F)" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.shin-taipei-massage.com+(C)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Awww.shin-taipei-massage.com+(F)" >}} {{< keyword "(J)" "https://www.google.com/search?q=site%3Awww.shin-taipei-massage.com+(J)" >}} 
 
