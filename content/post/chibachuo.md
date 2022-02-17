@@ -17,7 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [七彩](http://love-you.work/)
 {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Alove-you.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Alove-you.work+Eカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Alove-you.work+Fカップ" >}} {{< keyword "Gカップ" "https://www.google.com/search?q=site%3Alove-you.work+Gカップ" >}} 
 
-- **新着情報あり@[2022-01-20](/post/2022-01-20)**
 ## [渚のオアシス](http://os.est-u.com/)
 
 
