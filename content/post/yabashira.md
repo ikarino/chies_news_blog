@@ -17,17 +17,20 @@ aliases = ["migrate-from-jekyl"]
 ## [地上の星](http://yabashiraestrumu.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ayabashiraestrumu.xyz+(C)" >}} 
 
-## [お兄さん](http://www.wakava.work/)
-{{< keyword "胸" "https://www.google.com/search?q=site%3Awww.wakava.work+胸" >}} 
-
 ## [癒しの家](http://iyashi-home.work/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(E)" >}} 
 
 - **新着情報あり@[2022-01-25](/post/2022-01-25)**
+## [お兄さん](http://www.wakava.work/)
+{{< keyword "胸" "https://www.google.com/search?q=site%3Awww.wakava.work+胸" >}} 
+
 ## [ひまわり](https://himawari.jpn.cm/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahimawari.jpn.cm+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ahimawari.jpn.cm+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahimawari.jpn.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahimawari.jpn.cm+B86" >}} 
 
 - **新着情報あり@[2022-02-05](/post/2022-02-05)**
+## [Darling ダーリン](http://www.darling.eevjp.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+B87" >}} 
+
 ## [看護美人](http://www.kangobijin.estheshop.com/)
 
 
@@ -40,10 +43,6 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-02-17](/post/2022-02-17)**
 - **新着情報あり@[2022-02-14](/post/2022-02-14)**
-- **新着情報あり@[2022-01-21](/post/2022-01-21)**
-## [Darling ダーリン](http://www.darling.eevjp.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+B87" >}} 
-
 ## [ティラミス](http://tiramisu.m-es.net/)
 
 
