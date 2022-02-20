@@ -15,7 +15,7 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "Googleで行徳までの経路を検索する！" "https://www.google.com/search?q=現在地から行徳駅まで" >}}
 
 ## [癒しの天使](http://hfmb2.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B90" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B90" >}} 
 
 - **新着情報あり@[2022-02-18](/post/2022-02-18)**
 - **新着情報あり@[2022-02-02](/post/2022-02-02)**
