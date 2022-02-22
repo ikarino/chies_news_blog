@@ -63,6 +63,9 @@ aliases = ["migrate-from-jekyl"]
 ## [嫦娥 JOGA](https://jouga.info/)
 {{< keyword "B85" "https://www.google.com/search?q=site%3Ajouga.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ajouga.info+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ajouga.info+B88" >}} 
 
+## [楽の縁](https://rakunoen.bex.jp/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+(C)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B90" >}} 
+
 ## [台湾リゾート](http://taiwan-resort.com/)
 
 
@@ -71,9 +74,6 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "セクシー" "https://www.google.com/search?q=site%3Ataiwan-resort.com+セクシー" >}} 
 
 - **新着情報あり@[2022-01-25](/post/2022-01-25)**
-## [楽の縁](https://rakunoen.bex.jp/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+(C)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B90" >}} 
-
 ## [ロマンス](https://romance-salon.xyz/)
 
 
