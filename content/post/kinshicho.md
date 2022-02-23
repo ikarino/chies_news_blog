@@ -49,7 +49,6 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-02-07](/post/2022-02-07)**
-- **新着情報あり@[2022-01-25](/post/2022-01-25)**
 ## [春の花](http://harunohana.jpest.net/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aharunohana.jpest.net+(C)" >}} 
 
