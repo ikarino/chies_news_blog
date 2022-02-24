@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで我孫子までの経路を検索する！" "https://www.google.com/search?q=現在地から我孫子駅まで" >}}
 
-## [一優](http://yiyouesthe.xyz/)
-
-
 ## [フリースタイル](http://esuteabiko.xyz/)
 {{< keyword "(E)" "https://www.google.com/search?q=site%3Aesuteabiko.xyz+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aesuteabiko.xyz+B86" >}} 
 
