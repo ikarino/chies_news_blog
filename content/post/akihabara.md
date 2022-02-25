@@ -30,7 +30,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-02-03](/post/2022-02-03)**
 - **新着情報あり@[2022-01-30](/post/2022-01-30)**
 - **新着情報あり@[2022-01-28](/post/2022-01-28)**
-- **新着情報あり@[2022-01-27](/post/2022-01-27)**
 ## [ほほえみ](http://esthe-relax.tokyo/)
 {{< keyword "B86" "https://www.google.com/search?q=site%3Aesthe-relax.tokyo+B86" >}} 
 

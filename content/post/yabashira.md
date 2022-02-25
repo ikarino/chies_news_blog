@@ -30,15 +30,15 @@ aliases = ["migrate-from-jekyl"]
 ## [なでしこ](http://k-nadeshiko.work/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ak-nadeshiko.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ak-nadeshiko.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ak-nadeshiko.work+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Ak-nadeshiko.work+セクシー" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ak-nadeshiko.work+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ak-nadeshiko.work+B88" >}} 
 
-## [Darling ダーリン](http://www.darling.eevjp.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+B87" >}} 
-
 ## [看護美人](http://www.kangobijin.estheshop.com/)
 
 
 {{< twitter Yunna_9 >}}
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+B87" >}} 
+
+## [Darling ダーリン](http://www.darling.eevjp.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+B87" >}} 
 
 ## [フォーユー](http://www.tsukinofune.estheshop.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.tsukinofune.estheshop.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.tsukinofune.estheshop.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.tsukinofune.estheshop.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.tsukinofune.estheshop.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.tsukinofune.estheshop.com+B87" >}} 
