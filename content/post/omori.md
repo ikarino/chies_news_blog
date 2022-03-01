@@ -17,13 +17,13 @@ aliases = ["migrate-from-jekyl"]
 ## [ハッピーライフ](http://rueiant.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Arueiant.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arueiant.xyz+(D)" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Arueiant.xyz+B82" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arueiant.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Arueiant.xyz+B88" >}} 
 
-## [真心](http://k-rlx.info/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ak-rlx.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ak-rlx.info+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ak-rlx.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ak-rlx.info+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ak-rlx.info+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ak-rlx.info+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Ak-rlx.info+B92" >}} 
-
 ## [Only one](http://on.mznab.com/)
 
 
 - **新着情報あり@[2022-02-08](/post/2022-02-08)**
+## [真心](http://k-rlx.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ak-rlx.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ak-rlx.info+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ak-rlx.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ak-rlx.info+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ak-rlx.info+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ak-rlx.info+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Ak-rlx.info+B92" >}} 
+
 ## [癒癒堂](http://yuyudou.com/)
 
 
@@ -35,14 +35,11 @@ aliases = ["migrate-from-jekyl"]
 ## [マジックラブリー](http://www1.spa-omori.com/)
 {{< keyword "B87" "https://www.google.com/search?q=site%3Awww1.spa-omori.com+B87" >}} 
 
-## [憩](http://ikoi.xyz.mn/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
-
 ## [リファイン](http://es-refine.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
 
-## [コスモス](http://www.cosmos.relaxjp.info/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
+## [憩](http://ikoi.xyz.mn/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
 
 ## [Sweet Time](http://heal-msg.com/)
 
@@ -52,6 +49,9 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-02-10](/post/2022-02-10)**
+## [コスモス](http://www.cosmos.relaxjp.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
+
 ## [森の家](https://omori-mensesthe.com/)
 
 

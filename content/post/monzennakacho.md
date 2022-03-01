@@ -28,6 +28,3 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayoruchou-koihana.oks.bz+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ayoruchou-koihana.oks.bz+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayoruchou-koihana.oks.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayoruchou-koihana.oks.bz+B86" >}} 
 
 - **新着情報あり@[2022-02-04](/post/2022-02-04)**
-## [夢](http://www.yume.estheshop.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.yume.estheshop.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.yume.estheshop.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.yume.estheshop.com+B87" >}} 
-
