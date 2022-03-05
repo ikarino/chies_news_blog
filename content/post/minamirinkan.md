@@ -14,18 +14,3 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで南林間までの経路を検索する！" "https://www.google.com/search?q=現在地から南林間駅まで" >}}
 
-## [ふれあい](http://a-relax.info/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aa-relax.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aa-relax.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aa-relax.info+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aa-relax.info+(F)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aa-relax.info+セクシー" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Aa-relax.info+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aa-relax.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aa-relax.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aa-relax.info+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aa-relax.info+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Aa-relax.info+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aa-relax.info+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aa-relax.info+B92" >}} 
-
-## [サクラ](http://sakura-relax.work/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Asakura-relax.work+(C)" >}} 
-
-## [癒しの森](http://relax-free.info/iyashinomori/)
-
-
-## [Rose ローズ](https://rose.xyz.mn/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Arose.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arose.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arose.xyz.mn+B85" >}} 
-
-## [Himawari ひまわり](http://esthe-relax.info/)
-
-
