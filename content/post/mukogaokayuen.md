@@ -17,6 +17,3 @@ aliases = ["migrate-from-jekyl"]
 ## [Smile スマイル](http://heart-throbs.net/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aheart-throbs.net+(C)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aheart-throbs.net+B86" >}} 
 
-## [ピーチ](http://www.peach.esturl.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.peach.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.peach.esturl.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.peach.esturl.com+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.peach.esturl.com+B87" >}} 
-
