@@ -22,5 +22,5 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-03-03](/post/2022-03-03)**
 ## [Lucky ラッキー](https://luckyrelax.jimdofree.com/)
-{{< keyword "B95" "https://www.google.com/search?q=site%3Aluckyrelax.jimdofree.com+B95" >}} 
+
 
