@@ -17,6 +17,9 @@ aliases = ["migrate-from-jekyl"]
 ## [Alice アリス](http://alice-est.tokyo/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(F)" >}} 
 
+## [キュアレ](https://cure-re.xyz.mn/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B87" >}} 
+
 ## [夜色](https://yasyoku.xyz.mn/)
 
 
@@ -26,6 +29,3 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-02-23](/post/2022-02-23)**
 - **新着情報あり@[2022-02-19](/post/2022-02-19)**
-## [キュアレ](https://cure-re.xyz.mn/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acure-re.xyz.mn+B87" >}} 
-

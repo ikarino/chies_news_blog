@@ -17,6 +17,3 @@ aliases = ["migrate-from-jekyl"]
 ## [もも](http://momo.es-relax.info/)
 {{< keyword "セクシー" "https://www.google.com/search?q=site%3Amomo.es-relax.info+セクシー" >}} 
 
-## [春屋](http://www.haruya.relaxmens.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.haruya.relaxmens.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.haruya.relaxmens.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.haruya.relaxmens.com+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.haruya.relaxmens.com+B87" >}} 
-
