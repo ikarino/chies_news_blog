@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [レモン](http://ueno502.galaxy.bindcloud.jp/)
 
 
+- **新着情報あり@[2022-03-11](/post/2022-03-11)**
 - **新着情報あり@[2022-03-10](/post/2022-03-10)**
 - **新着情報あり@[2022-03-09](/post/2022-03-09)**
 - **新着情報あり@[2022-03-06](/post/2022-03-06)**
@@ -33,7 +34,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-02-12](/post/2022-02-12)**
 - **新着情報あり@[2022-02-11](/post/2022-02-11)**
 - **新着情報あり@[2022-02-10](/post/2022-02-10)**
-- **新着情報あり@[2022-02-09](/post/2022-02-09)**
 ## [楽の縁](https://rakunoen.bex.jp/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+(C)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B90" >}} 
 
