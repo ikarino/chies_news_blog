@@ -32,8 +32,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-02-19](/post/2022-02-19)**
 - **新着情報あり@[2022-02-15](/post/2022-02-15)**
 - **新着情報あり@[2022-02-12](/post/2022-02-12)**
-- **新着情報あり@[2022-02-11](/post/2022-02-11)**
-- **新着情報あり@[2022-02-10](/post/2022-02-10)**
 ## [楽の縁](https://rakunoen.bex.jp/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+(C)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B90" >}} 
 

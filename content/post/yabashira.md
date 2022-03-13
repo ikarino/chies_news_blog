@@ -17,20 +17,13 @@ aliases = ["migrate-from-jekyl"]
 ## [地上の星](http://yabashiraestrumu.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ayabashiraestrumu.xyz+(C)" >}} 
 
-## [さくら](http://momoka.work/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Amomoka.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Amomoka.work+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amomoka.work+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Amomoka.work+B89" >}} 
+## [癒しの家](http://iyashi-home.work/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(E)" >}} 
 
 ## [Calm カーム](http://www.ktfg6.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.ktfg6.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.ktfg6.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.ktfg6.xyz+(E)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Awww.ktfg6.xyz+胸" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.ktfg6.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.ktfg6.xyz+B88" >}} 
 
 - **新着情報あり@[2022-03-10](/post/2022-03-10)**
-## [癒しの家](http://iyashi-home.work/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aiyashi-home.work+(E)" >}} 
-
-## [ひまわり](https://himawari.jpn.cm/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Ahimawari.jpn.cm+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ahimawari.jpn.cm+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahimawari.jpn.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahimawari.jpn.cm+B86" >}} 
-
-- **新着情報あり@[2022-03-09](/post/2022-03-09)**
 ## [ウェヌス](https://ovenus.work/)
 {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Aovenus.work+Dカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Aovenus.work+Fカップ" >}} 
 
