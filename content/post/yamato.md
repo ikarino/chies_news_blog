@@ -14,14 +14,13 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで大和までの経路を検索する！" "https://www.google.com/search?q=現在地から大和駅まで" >}}
 
-## [優](http://www.est-yu.work/)
-
-
 ## [ラッキーウイング](http://yiyashi.work/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ayiyashi.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayiyashi.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ayiyashi.work+(E)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Ayiyashi.work+胸" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayiyashi.work+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayiyashi.work+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ayiyashi.work+B87" >}} 
 
 - **新着情報あり@[2022-03-13](/post/2022-03-13)**
-- **新着情報あり@[2022-02-12](/post/2022-02-12)**
+## [優](http://www.est-yu.work/)
+
+
 ## [dorami ドラミ](http://hfmi2.xyz/)
 {{< keyword "胸" "https://www.google.com/search?q=site%3Ahfmi2.xyz+胸" >}} 
 
