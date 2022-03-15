@@ -33,7 +33,7 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B87" >}} 
 
 ## [王様の郷](http://hfmg3.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmg3.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmg3.xyz+(D)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Ahfmg3.xyz+胸" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B88" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmg3.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmg3.xyz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B88" >}} 
 
 ## [来夢](http://www.raimu.esraku.com/)
 

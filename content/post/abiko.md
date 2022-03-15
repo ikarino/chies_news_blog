@@ -31,6 +31,7 @@ aliases = ["migrate-from-jekyl"]
 ## [コスモス](http://cosmos.msa.jp/)
 
 
+- **新着情報あり@[2022-03-15](/post/2022-03-15)**
 ## [グレイスパ](https://grayspa.relaxesute.com/)
 
 

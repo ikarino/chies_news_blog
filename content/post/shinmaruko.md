@@ -22,8 +22,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter tokyoJewel1 >}}
 
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B86" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B86" >}} 
 
+- **新着情報あり@[2022-03-15](/post/2022-03-15)**
 - **新着情報あり@[2022-02-23](/post/2022-02-23)**
 - **新着情報あり@[2022-02-19](/post/2022-02-19)**
 ## [キュアレ](https://cure-re.xyz.mn/)

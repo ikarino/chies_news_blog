@@ -37,6 +37,7 @@ aliases = ["migrate-from-jekyl"]
 ## [KARA カラ](https://es-kara.tokyo/)
 {{< keyword "Cカップ" "https://www.google.com/search?q=site%3Aes-kara.tokyo+Cカップ" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Aes-kara.tokyo+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aes-kara.tokyo+Eカップ" >}} {{< keyword "Gカップ" "https://www.google.com/search?q=site%3Aes-kara.tokyo+Gカップ" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aes-kara.tokyo+セクシー" >}} 
 
+- **新着情報あり@[2022-03-15](/post/2022-03-15)**
 - **新着情報あり@[2022-03-03](/post/2022-03-03)**
 - **新着情報あり@[2022-03-01](/post/2022-03-01)**
 - **新着情報あり@[2022-02-14](/post/2022-02-14)**
