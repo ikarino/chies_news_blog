@@ -40,7 +40,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-03-15](/post/2022-03-15)**
 - **新着情報あり@[2022-03-03](/post/2022-03-03)**
 - **新着情報あり@[2022-03-01](/post/2022-03-01)**
-- **新着情報あり@[2022-02-14](/post/2022-02-14)**
 ## [千千屋](http://sensenya.jpest.net/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asensenya.jpest.net+(C)" >}} 
 

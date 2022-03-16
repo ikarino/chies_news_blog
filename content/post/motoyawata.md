@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [楽園](http://www.rakuen.esturl.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+セクシー" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B87" >}} 
 
+- **新着情報あり@[2022-03-16](/post/2022-03-16)**
 ## [咲く](http://est-room.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aest-room.com+(C)" >}} 
 

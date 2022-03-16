@@ -20,9 +20,9 @@ aliases = ["migrate-from-jekyl"]
 ## [優姿 ゆうしい](http://es-koibito.work/)
 
 
-## [スマイル](http://smile.esjp.xyz/)
-
-
 ## [雅spa](https://babyheart.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ababyheart.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ababyheart.info+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Ababyheart.info+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ababyheart.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ababyheart.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ababyheart.info+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ababyheart.info+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ababyheart.info+B90" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Ababyheart.info+B93" >}} {{< keyword "B97" "https://www.google.com/search?q=site%3Ababyheart.info+B97" >}} 
+
+## [スマイル](http://smile.esjp.xyz/)
+
 

@@ -27,15 +27,17 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-03-14](/post/2022-03-14)**
 - **新着情報あり@[2022-03-10](/post/2022-03-10)**
 ## [ウェヌス](https://ovenus.work/)
-{{< keyword "Dカップ" "https://www.google.com/search?q=site%3Aovenus.work+Dカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Aovenus.work+Fカップ" >}} 
+{{< keyword "Dカップ" "https://www.google.com/search?q=site%3Aovenus.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aovenus.work+Eカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Aovenus.work+Fカップ" >}} 
 
+- **新着情報あり@[2022-03-16](/post/2022-03-16)**
 ## [看護美人](http://www.kangobijin.estheshop.com/)
 
 
 {{< twitter Yunna_9 >}}
 
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+B87" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.kangobijin.estheshop.com+B87" >}} 
 
+- **新着情報あり@[2022-03-16](/post/2022-03-16)**
 ## [Darling ダーリン](http://www.darling.eevjp.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+B87" >}} 
 
@@ -44,7 +46,6 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-02-26](/post/2022-02-26)**
 - **新着情報あり@[2022-02-17](/post/2022-02-17)**
-- **新着情報あり@[2022-02-14](/post/2022-02-14)**
 ## [ティラミス](http://tiramisu.m-es.net/)
 
 

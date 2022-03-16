@@ -22,6 +22,7 @@ aliases = ["migrate-from-jekyl"]
 ## [癒しの森](http://healing-forest.work/)
 
 
+- **新着情報あり@[2022-03-16](/post/2022-03-16)**
 ## [隠れ家](https://jasmine-mizonokuti.xyz/)
 
 
