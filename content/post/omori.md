@@ -26,17 +26,14 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-03-14](/post/2022-03-14)**
 - **新着情報あり@[2022-03-07](/post/2022-03-07)**
 - **新着情報あり@[2022-02-19](/post/2022-02-19)**
+## [癒癒堂](http://yuyudou.com/)
+
+
 ## [リファイン](http://es-refine.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-refine.xyz+(C)" >}} 
 
 ## [憩](http://ikoi.xyz.mn/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aikoi.xyz.mn+B87" >}} 
-
-## [癒癒堂](http://yuyudou.com/)
-
-
-## [コスモス](http://www.cosmos.relaxjp.info/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
 
 ## [Sweet Time](http://heal-msg.com/)
 
@@ -49,6 +46,9 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-02-23](/post/2022-02-23)**
+## [コスモス](http://www.cosmos.relaxjp.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.cosmos.relaxjp.info+(C)" >}} 
+
 ## [ほほえみ](http://angel777.esjp.xyz/)
 
 

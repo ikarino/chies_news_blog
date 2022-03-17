@@ -24,4 +24,3 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
 
 - **新着情報あり@[2022-02-16](/post/2022-02-16)**
-- **新着情報あり@[2022-02-15](/post/2022-02-15)**
