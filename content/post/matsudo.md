@@ -17,3 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [Sakura](https://sakuranokoi.jpn.vin/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asakuranokoi.jpn.vin+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asakuranokoi.jpn.vin+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asakuranokoi.jpn.vin+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Asakuranokoi.jpn.vin+B86" >}} 
 
+## [楽々ちゃん](http://raku-raku.work/)
+
+

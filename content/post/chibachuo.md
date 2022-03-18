@@ -23,3 +23,6 @@ aliases = ["migrate-from-jekyl"]
 ## [ドキドキハニー](http://www.dokidoki.estheshop.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.dokidoki.estheshop.com+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Awww.dokidoki.estheshop.com+B83" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.dokidoki.estheshop.com+B87" >}} 
 
+## [ふわふわ](https://fuwafuwa.ies.bz/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Afuwafuwa.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Afuwafuwa.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuwafuwa.ies.bz+B86" >}} 
+
