@@ -44,11 +44,11 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Acrestage.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Acrestage.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acrestage.est.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acrestage.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acrestage.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acrestage.est.cm+B87" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Acrestage.est.cm+B90" >}} 
 
 - **新着情報あり@[2022-03-11](/post/2022-03-11)**
-## [B-RIGHT ブライト](http://www.bright-massage.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.bright-massage.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.bright-massage.com+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.bright-massage.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.bright-massage.com+B87" >}} 
-
 ## [Meltina めるてぃな](http://www.meltina.esturl.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.meltina.esturl.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.meltina.esturl.com+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.meltina.esturl.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.meltina.esturl.com+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.meltina.esturl.com+B89" >}} 
+
+## [B-RIGHT ブライト](http://www.bright-massage.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.bright-massage.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.bright-massage.com+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.bright-massage.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.bright-massage.com+B87" >}} 
 
 ## [Spring](http://chun.relaxjp.com/)
 
