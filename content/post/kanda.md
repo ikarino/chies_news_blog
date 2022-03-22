@@ -15,7 +15,7 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "Googleで神田までの経路を検索する！" "https://www.google.com/search?q=現在地から神田駅まで" >}}
 
 ## [キュートガール](http://loman.ies.fun/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aloman.ies.fun+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aloman.ies.fun+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aloman.ies.fun+B87" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Aloman.ies.fun+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aloman.ies.fun+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aloman.ies.fun+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aloman.ies.fun+B87" >}} 
 
 - **新着情報あり@[2022-03-19](/post/2022-03-19)**
 - **新着情報あり@[2022-03-16](/post/2022-03-16)**
@@ -37,3 +37,4 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.pistache.estyojp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.pistache.estyojp.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.pistache.estyojp.com+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Awww.pistache.estyojp.com+(F)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.pistache.estyojp.com+B87" >}} 
 
+- **新着情報あり@[2022-03-22](/post/2022-03-22)**
