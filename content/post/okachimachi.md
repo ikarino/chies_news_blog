@@ -19,8 +19,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter okachimachi88 >}}
 
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B89" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+(E)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+(G)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B90" >}} {{< keyword "B94" "https://www.google.com/search?q=site%3Amontblanc.relax88.com+B94" >}} 
 
+- **新着情報あり@[2022-03-24](/post/2022-03-24)**
 ## [レモン](http://ueno502.galaxy.bindcloud.jp/)
 
 

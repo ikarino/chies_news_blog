@@ -21,3 +21,4 @@ aliases = ["migrate-from-jekyl"]
 ## [咲く](http://est-room.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aest-room.com+(C)" >}} 
 
+- **新着情報あり@[2022-03-24](/post/2022-03-24)**
