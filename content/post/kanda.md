@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [キュートガール](http://loman.ies.fun/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Aloman.ies.fun+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aloman.ies.fun+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aloman.ies.fun+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aloman.ies.fun+B87" >}} 
 
+- **新着情報あり@[2022-03-26](/post/2022-03-26)**
 - **新着情報あり@[2022-03-24](/post/2022-03-24)**
 - **新着情報あり@[2022-03-19](/post/2022-03-19)**
 - **新着情報あり@[2022-03-16](/post/2022-03-16)**
