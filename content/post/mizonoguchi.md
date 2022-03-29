@@ -14,6 +14,3 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで溝の口までの経路を検索する！" "https://www.google.com/search?q=現在地から溝の口駅まで" >}}
 
-## [セクシーガール](http://www.sexygirl.relaxmens.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.sexygirl.relaxmens.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.sexygirl.relaxmens.com+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.sexygirl.relaxmens.com+セクシー" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.sexygirl.relaxmens.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.sexygirl.relaxmens.com+B87" >}} 
-

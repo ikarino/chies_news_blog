@@ -14,9 +14,3 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで登戸までの経路を検索する！" "https://www.google.com/search?q=現在地から登戸駅まで" >}}
 
-## [Melty Love メルティーラヴ](http://es-come.net/meltylove/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-come.net+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aes-come.net+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Aes-come.net+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aes-come.net+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aes-come.net+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aes-come.net+B88" >}} 
-
-## [アリエス](http://gdgw5.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Agdgw5.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Agdgw5.xyz+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Agdgw5.xyz+B84" >}} 
-

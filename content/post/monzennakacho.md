@@ -14,26 +14,3 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで門前仲町までの経路を検索する！" "https://www.google.com/search?q=現在地から門前仲町駅まで" >}}
 
-## [Dear](http://d.gdfe.xyz/)
-
-
-{{< twitter Sweet84830145 >}}
-
-
-
-## [オリエンタル](http://hfmf9.xyz/)
-{{< keyword "胸" "https://www.google.com/search?q=site%3Ahfmf9.xyz+胸" >}} 
-
-## [猫](http://neko.hccg.work/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aneko.hccg.work+(C)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Aneko.hccg.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Aneko.hccg.work+Eカップ" >}} 
-
-## [夜蝶恋花](https://yoruchou-koihana.oks.bz/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Ayoruchou-koihana.oks.bz+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ayoruchou-koihana.oks.bz+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayoruchou-koihana.oks.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayoruchou-koihana.oks.bz+B86" >}} 
-
-## [Girls ガールズ](https://cocosia.work/)
-
-
-{{< twitter desire_salon >}}
-
-{{< keyword "Dカップ" "https://www.google.com/search?q=site%3Acocosia.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Acocosia.work+Eカップ" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Acocosia.work+Fカップ" >}} {{< keyword "Gカップ" "https://www.google.com/search?q=site%3Acocosia.work+Gカップ" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Acocosia.work+胸" >}} 
-
