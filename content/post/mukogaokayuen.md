@@ -14,3 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで向ヶ丘遊園までの経路を検索する！" "https://www.google.com/search?q=現在地から向ヶ丘遊園駅まで" >}}
 
+## [Smile スマイル](http://heart-throbs.net/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aheart-throbs.net+(C)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aheart-throbs.net+B86" >}} 
+

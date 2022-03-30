@@ -22,6 +22,10 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-03-20](/post/2022-03-20)**
 - **新着情報あり@[2022-03-13](/post/2022-03-13)**
+## [健康サロン](http://aphrodite-est.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aaphrodite-est.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aaphrodite-est.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aaphrodite-est.com+B86" >}} 
+
+- **新着情報あり@[2022-03-03](/post/2022-03-03)**
 ## [dorami ドラミ](http://hfmi2.xyz/)
 {{< keyword "胸" "https://www.google.com/search?q=site%3Ahfmi2.xyz+胸" >}} 
 
@@ -30,10 +34,6 @@ aliases = ["migrate-from-jekyl"]
 ## [アロマモア](https://aroma-more.jpn.cm/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B87" >}} 
 
-## [健康サロン](http://aphrodite-est.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aaphrodite-est.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aaphrodite-est.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aaphrodite-est.com+B86" >}} 
-
-- **新着情報あり@[2022-03-03](/post/2022-03-03)**
 ## [王様の郷](http://hfmg3.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmg3.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmg3.xyz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmg3.xyz+B88" >}} 
 
@@ -46,7 +46,6 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-03-25](/post/2022-03-25)**
 - **新着情報あり@[2022-03-01](/post/2022-03-01)**
-- **新着情報あり@[2022-02-28](/post/2022-02-28)**
 ## [麗 れい](http://e-rei.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ae-rei.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ae-rei.info+(D)" >}} 
 

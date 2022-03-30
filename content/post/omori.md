@@ -14,3 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで大森までの経路を検索する！" "https://www.google.com/search?q=現在地から大森駅まで" >}}
 
+## [Only one](http://on.mznab.com/)
+
+
