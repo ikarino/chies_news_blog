@@ -18,10 +18,6 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-03-18](/post/2022-03-18)**
-## [桜](http://salon-msg.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
-
-- **新着情報あり@[2022-03-30](/post/2022-03-30)**
 ## [スマイル](https://smile.estjp.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asmile.estjp.info+B85" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Asmile.estjp.info+B89" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Asmile.estjp.info+B92" >}} 
 
@@ -36,3 +32,7 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayokohama-esthe.xyz+(D)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Ayokohama-esthe.xyz+(G)" >}} 
 
+## [桜](http://salon-msg.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
+
+- **新着情報あり@[2022-03-30](/post/2022-03-30)**
