@@ -17,6 +17,9 @@ aliases = ["migrate-from-jekyl"]
 ## [With You ウィズユー](http://with.est888.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awith.est888.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awith.est888.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awith.est888.com+B89" >}} 
 
+## [せせらぎ](https://seseragi.est.cm/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aseseragi.est.cm+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aseseragi.est.cm+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aseseragi.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aseseragi.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aseseragi.est.cm+B87" >}} 
+
 ## [More モア](https://more.ies.bz/)
 
 

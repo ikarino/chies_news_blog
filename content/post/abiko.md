@@ -27,7 +27,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-03-24](/post/2022-03-24)**
 - **新着情報あり@[2022-03-23](/post/2022-03-23)**
 - **新着情報あり@[2022-03-12](/post/2022-03-12)**
-- **新着情報あり@[2022-03-05](/post/2022-03-05)**
 ## [フリースタイル](http://esuteabiko.xyz/)
 {{< keyword "(E)" "https://www.google.com/search?q=site%3Aesuteabiko.xyz+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aesuteabiko.xyz+B86" >}} 
 

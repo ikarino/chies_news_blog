@@ -17,3 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [メロメロ](http://on.mznab.com/)
 
 
+## [Kannma](http://www.hfmk16.xyz/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.hfmk16.xyz+(D)" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.hfmk16.xyz+B89" >}} 
+
