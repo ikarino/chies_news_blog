@@ -26,6 +26,7 @@ aliases = ["migrate-from-jekyl"]
 ## [癒しの森](http://healing-forest.work/)
 
 
+- **新着情報あり@[2022-04-06](/post/2022-04-06)**
 - **新着情報あり@[2022-03-19](/post/2022-03-19)**
 - **新着情報あり@[2022-03-16](/post/2022-03-16)**
 ## [花姫](https://okaeribaby.xyz/)
