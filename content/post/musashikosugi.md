@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで武蔵小杉までの経路を検索する！" "https://www.google.com/search?q=現在地から武蔵小杉駅まで" >}}
 
-## [With You ウィズユー](http://with.est888.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awith.est888.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awith.est888.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awith.est888.com+B89" >}} 
-
 ## [せせらぎ](https://seseragi.est.cm/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aseseragi.est.cm+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aseseragi.est.cm+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aseseragi.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aseseragi.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aseseragi.est.cm+B87" >}} 
 
@@ -34,4 +31,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-03-18](/post/2022-03-18)**
 - **新着情報あり@[2022-03-16](/post/2022-03-16)**
 - **新着情報あり@[2022-03-15](/post/2022-03-15)**
-- **新着情報あり@[2022-03-09](/post/2022-03-09)**
+## [With You ウィズユー](http://with.est888.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awith.est888.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awith.est888.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awith.est888.com+B89" >}} 
+
