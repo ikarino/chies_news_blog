@@ -23,13 +23,6 @@ aliases = ["migrate-from-jekyl"]
 ## [姫](http://www.hime.relaxjp.info/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.hime.relaxjp.info+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.hime.relaxjp.info+B87" >}} 
 
-## [りんご](http://www.ringo.mensest.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.ringo.mensest.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.ringo.mensest.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.ringo.mensest.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.ringo.mensest.com+B87" >}} 
-
 ## [さくら](http://sakura.jps.cm/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asakura.jps.cm+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asakura.jps.cm+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asakura.jps.cm+B80" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Asakura.jps.cm+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asakura.jps.cm+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Asakura.jps.cm+B88" >}} 
 
-## [プレミア](http://www.premier.esturl.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.premier.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.premier.esturl.com+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Awww.premier.esturl.com+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.premier.esturl.com+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.premier.esturl.com+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.premier.esturl.com+B87" >}} 
-
-- **新着情報あり@[2022-03-15](/post/2022-03-15)**
