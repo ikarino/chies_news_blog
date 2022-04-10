@@ -24,12 +24,6 @@ aliases = ["migrate-from-jekyl"]
 ## [Eat Me イートミー](http://relaxation.blue/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Arelaxation.blue+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arelaxation.blue+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Arelaxation.blue+(F)" >}} {{< keyword "おっぱい" "https://www.google.com/search?q=site%3Arelaxation.blue+おっぱい" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arelaxation.blue+B86" >}} 
 
-## [スーパークレイジー](https://deep-purple.jpn.vin/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(C)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(G)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(H)" >}} {{< keyword "Hカップ" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+Hカップ" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+セクシー" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B92" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B93" >}} {{< keyword "B94" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B94" >}} {{< keyword "B95" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B95" >}} 
-
-- **新着情報あり@[2022-04-09](/post/2022-04-09)**
-- **新着情報あり@[2022-04-06](/post/2022-04-06)**
-- **新着情報あり@[2022-04-05](/post/2022-04-05)**
 ## [ゆらり](https://nishikasai-esthe.xyz/)
 
 
@@ -37,3 +31,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+セクシー" >}} 
 
+## [スーパークレイジー](https://deep-purple.jpn.vin/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(C)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(G)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(H)" >}} {{< keyword "Hカップ" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+Hカップ" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+セクシー" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B92" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B93" >}} {{< keyword "B94" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B94" >}} {{< keyword "B95" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B95" >}} 
+
+- **新着情報あり@[2022-04-09](/post/2022-04-09)**
+- **新着情報あり@[2022-04-06](/post/2022-04-06)**
+- **新着情報あり@[2022-04-05](/post/2022-04-05)**
