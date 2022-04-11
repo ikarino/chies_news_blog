@@ -48,6 +48,9 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-04-06](/post/2022-04-06)**
 - **新着情報あり@[2022-03-16](/post/2022-03-16)**
+## [Darling ダーリン](http://www.darling.eevjp.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+B87" >}} 
+
 ## [看護美人](http://www.kangobijin.estheshop.com/)
 
 
@@ -57,9 +60,6 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-03-25](/post/2022-03-25)**
 - **新着情報あり@[2022-03-16](/post/2022-03-16)**
-## [Darling ダーリン](http://www.darling.eevjp.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.darling.eevjp.com+B87" >}} 
-
 ## [ティラミス](http://tiramisu.m-es.net/)
 
 
