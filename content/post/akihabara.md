@@ -21,10 +21,10 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aforyou-hp.este.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aforyou-hp.este.work+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aforyou-hp.este.work+(E)" >}} 
 
+## [ほほえみ](http://esthe-relax.tokyo/)
+{{< keyword "B86" "https://www.google.com/search?q=site%3Aesthe-relax.tokyo+B86" >}} 
+
 ## [Coco](https://coco.tyo.ac/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(F)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B88" >}} 
 
 - **新着情報あり@[2022-03-21](/post/2022-03-21)**
-## [ほほえみ](http://esthe-relax.tokyo/)
-{{< keyword "B86" "https://www.google.com/search?q=site%3Aesthe-relax.tokyo+B86" >}} 
-

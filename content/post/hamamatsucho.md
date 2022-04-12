@@ -17,3 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [夢の郷](http://yumesato.est888.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ayumesato.est888.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayumesato.est888.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ayumesato.est888.com+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ayumesato.est888.com+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ayumesato.est888.com+B89" >}} 
 
+## [フェアリー](http://www.fairy.esjp.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.fairy.esjp.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.fairy.esjp.info+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Awww.fairy.esjp.info+B83" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.fairy.esjp.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.fairy.esjp.info+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.fairy.esjp.info+B88" >}} 
+

@@ -29,14 +29,14 @@ aliases = ["migrate-from-jekyl"]
 ## [フリースタイル](http://esuteabiko.xyz/)
 {{< keyword "(E)" "https://www.google.com/search?q=site%3Aesuteabiko.xyz+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aesuteabiko.xyz+B86" >}} 
 
-## [コスモス](http://cosmos.msa.jp/)
-
-
-- **新着情報あり@[2022-03-15](/post/2022-03-15)**
 ## [リラシア](http://www.relashia.mensest.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+(E)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+セクシー" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+B89" >}} 
 
 - **新着情報あり@[2022-04-02](/post/2022-04-02)**
+## [コスモス](http://cosmos.msa.jp/)
+
+
+- **新着情報あり@[2022-03-15](/post/2022-03-15)**
 ## [グレイスパ](https://grayspa.relaxesute.com/)
 
 

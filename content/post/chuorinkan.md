@@ -20,6 +20,9 @@ aliases = ["migrate-from-jekyl"]
 ## [ゆかリラクゼーション](http://sh-yuka.work/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ash-yuka.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ash-yuka.work+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Ash-yuka.work+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ash-yuka.work+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ash-yuka.work+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ash-yuka.work+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ash-yuka.work+B89" >}} 
 
+## [かわいい恋人](http://www.kawaii.maesjp.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.kawaii.maesjp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.kawaii.maesjp.com+(D)" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Awww.kawaii.maesjp.com+B82" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.kawaii.maesjp.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.kawaii.maesjp.com+B87" >}} 
+
 ## [姫](http://www.hime.relaxjp.info/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.hime.relaxjp.info+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.hime.relaxjp.info+B87" >}} 
 
