@@ -14,11 +14,3 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで大森までの経路を検索する！" "https://www.google.com/search?q=現在地から大森駅まで" >}}
 
-## [メロメロ](http://on.mznab.com/)
-
-
-## [Kannma](http://www.hfmk16.xyz/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.hfmk16.xyz+(D)" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.hfmk16.xyz+B89" >}} 
-
-- **新着情報あり@[2022-04-07](/post/2022-04-07)**
-- **新着情報あり@[2022-04-05](/post/2022-04-05)**

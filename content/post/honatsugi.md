@@ -14,9 +14,3 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで本厚木までの経路を検索する！" "https://www.google.com/search?q=現在地から本厚木駅まで" >}}
 
-## [もも](http://momo.es-relax.info/)
-{{< keyword "セクシー" "https://www.google.com/search?q=site%3Amomo.es-relax.info+セクシー" >}} 
-
-## [花の夢](http://flowerdream.este.work/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aflowerdream.este.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aflowerdream.este.work+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aflowerdream.este.work+B83" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aflowerdream.este.work+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aflowerdream.este.work+B87" >}} 
-

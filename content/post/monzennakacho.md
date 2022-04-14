@@ -19,13 +19,3 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-04-09](/post/2022-04-09)**
 - **新着情報あり@[2022-04-05](/post/2022-04-05)**
-## [エナ](http://hfmj11.xyz/)
-
-
-{{< twitter lmq102 >}}
-
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmj11.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmj11.xyz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmj11.xyz+B85" >}} 
-
-## [四叶草 クローバー](https://kagaminohana.ests.jp/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Akagaminohana.ests.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Akagaminohana.ests.jp+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Akagaminohana.ests.jp+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Akagaminohana.ests.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Akagaminohana.ests.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Akagaminohana.ests.jp+B87" >}} 
-
