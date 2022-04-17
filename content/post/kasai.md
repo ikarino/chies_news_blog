@@ -14,11 +14,11 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで葛西までの経路を検索する！" "https://www.google.com/search?q=現在地から葛西駅まで" >}}
 
-## [ダーリン](http://www16.webjck.jp/)
-{{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww16.webjck.jp+セクシー" >}} 
-
 ## [花海](http://ran.xyz.mn/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aran.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aran.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aran.xyz.mn+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aran.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aran.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aran.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aran.xyz.mn+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Aran.xyz.mn+B89" >}} 
+
+## [ダーリン](http://www16.webjck.jp/)
+{{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww16.webjck.jp+セクシー" >}} 
 
 ## [ラベンダー](http://lavender01.com/)
 {{< keyword "胸" "https://www.google.com/search?q=site%3Alavender01.com+胸" >}} 

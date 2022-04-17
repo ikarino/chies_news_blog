@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [水木花](http://hfmj15.xyz/)
 
 
+- **新着情報あり@[2022-04-17](/post/2022-04-17)**
 ## [楽園](http://www.rakuen.esturl.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B87" >}} 
 
