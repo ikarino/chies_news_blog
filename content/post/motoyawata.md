@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで本八幡までの経路を検索する！" "https://www.google.com/search?q=現在地から本八幡駅まで" >}}
 
+## [アロマカフェ](https://iyashi-room.ies.bz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
+
 ## [水木花](http://hfmj15.xyz/)
 
 

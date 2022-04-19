@@ -14,11 +14,15 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで大森までの経路を検索する！" "https://www.google.com/search?q=現在地から大森駅まで" >}}
 
+## [スマイル](https://smiles.est.cm/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asmiles.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Asmiles.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Asmiles.est.cm+B87" >}} 
+
 ## [メロメロ](http://on.mznab.com/)
 
 
 ## [Kannma](http://www.hfmk16.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.hfmk16.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.hfmk16.xyz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.hfmk16.xyz+B85" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.hfmk16.xyz+B89" >}} 
 
+- **新着情報あり@[2022-04-19](/post/2022-04-19)**
 - **新着情報あり@[2022-04-07](/post/2022-04-07)**
 - **新着情報あり@[2022-04-05](/post/2022-04-05)**
