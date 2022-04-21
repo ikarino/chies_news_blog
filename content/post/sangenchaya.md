@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [ハニーズサロン](http://hfmk8.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmk8.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmk8.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmk8.xyz+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmk8.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmk8.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmk8.xyz+B88" >}} 
 
+- **新着情報あり@[2022-04-21](/post/2022-04-21)**
 - **新着情報あり@[2022-04-07](/post/2022-04-07)**
 ## [風鈴](http://fuurin.bex.jp/)
 
