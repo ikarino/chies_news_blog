@@ -24,6 +24,7 @@ aliases = ["migrate-from-jekyl"]
 ## [スーパークレイジー](https://deep-purple.jpn.vin/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(C)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(G)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(H)" >}} {{< keyword "(J)" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+(J)" >}} {{< keyword "Hカップ" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+Hカップ" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+セクシー" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B90" >}} {{< keyword "B91" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B91" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B92" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B93" >}} {{< keyword "B94" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B94" >}} {{< keyword "B95" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B95" >}} {{< keyword "B97" "https://www.google.com/search?q=site%3Adeep-purple.jpn.vin+B97" >}} 
 
+- **新着情報あり@[2022-04-24](/post/2022-04-24)**
 - **新着情報あり@[2022-04-23](/post/2022-04-23)**
 - **新着情報あり@[2022-04-22](/post/2022-04-22)**
 - **新着情報あり@[2022-04-17](/post/2022-04-17)**
