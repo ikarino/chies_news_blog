@@ -17,6 +17,12 @@ aliases = ["migrate-from-jekyl"]
 ## [Alice アリス](http://alice-est.tokyo/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(F)" >}} 
 
+## [スイカ](https://suica.ies.bz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asuica.ies.bz+B80" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Asuica.ies.bz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asuica.ies.bz+B85" >}} 
+
+- **新着情報あり@[2022-04-24](/post/2022-04-24)**
+- **新着情報あり@[2022-04-11](/post/2022-04-11)**
+- **新着情報あり@[2022-04-05](/post/2022-04-05)**
 ## [夜色](https://yasyoku.xyz.mn/)
 
 
@@ -25,9 +31,3 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B86" >}} 
 
 - **新着情報あり@[2022-04-24](/post/2022-04-24)**
-## [スイカ](https://suica.ies.bz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asuica.ies.bz+B80" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Asuica.ies.bz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asuica.ies.bz+B85" >}} 
-
-- **新着情報あり@[2022-04-24](/post/2022-04-24)**
-- **新着情報あり@[2022-04-11](/post/2022-04-11)**
-- **新着情報あり@[2022-04-05](/post/2022-04-05)**
