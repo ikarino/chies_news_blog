@@ -15,8 +15,9 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "Googleで八柱までの経路を検索する！" "https://www.google.com/search?q=現在地から八柱駅まで" >}}
 
 ## [Love](http://hi-msg.com/love999/)
+{{< keyword "胸" "https://www.google.com/search?q=site%3Ahi-msg.com+胸" >}} 
 
-
+- **新着情報あり@[2022-04-26](/post/2022-04-26)**
 - **新着情報あり@[2022-04-22](/post/2022-04-22)**
 - **新着情報あり@[2022-04-09](/post/2022-04-09)**
 - **新着情報あり@[2022-04-07](/post/2022-04-07)**
