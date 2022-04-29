@@ -29,3 +29,4 @@ aliases = ["migrate-from-jekyl"]
 ## [ドルチェ](https://dolce.oks.bz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Adolce.oks.bz+(C)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Adolce.oks.bz+セクシー" >}} {{< keyword "B81" "https://www.google.com/search?q=site%3Adolce.oks.bz+B81" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Adolce.oks.bz+B85" >}} 
 
+- **新着情報あり@[2022-04-29](/post/2022-04-29)**

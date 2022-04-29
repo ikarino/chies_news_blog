@@ -14,11 +14,12 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで横浜までの経路を検索する！" "https://www.google.com/search?q=現在地から横浜駅まで" >}}
 
+## [スマイル](https://smile.estjp.info/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asmile.estjp.info+B85" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Asmile.estjp.info+B89" >}} {{< keyword "B91" "https://www.google.com/search?q=site%3Asmile.estjp.info+B91" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Asmile.estjp.info+B92" >}} 
+
+- **新着情報あり@[2022-04-29](/post/2022-04-29)**
+- **新着情報あり@[2022-04-01](/post/2022-04-01)**
 ## [桜](http://salon-msg.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
 
 - **新着情報あり@[2022-03-30](/post/2022-03-30)**
-## [スマイル](https://smile.estjp.info/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asmile.estjp.info+B85" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Asmile.estjp.info+B89" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Asmile.estjp.info+B92" >}} 
-
-- **新着情報あり@[2022-04-01](/post/2022-04-01)**
