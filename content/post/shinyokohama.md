@@ -30,7 +30,7 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Afuzei.xyz+(C)" >}} 
 
 ## [SRP](https://s-r-p.jp/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3As-r-p.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3As-r-p.jp+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3As-r-p.jp+(F)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3As-r-p.jp+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3As-r-p.jp+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3As-r-p.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3As-r-p.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3As-r-p.jp+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3As-r-p.jp+B88" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3As-r-p.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3As-r-p.jp+(D)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3As-r-p.jp+胸" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3As-r-p.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3As-r-p.jp+B86" >}} 
 
 ## [Rose Color ローズカラー](https://rosecolor.jp/)
 

@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [ラブリー](http://www.olth8.xyz/)
 
 
+- **新着情報あり@[2022-04-30](/post/2022-04-30)**
 ## [桜桃 さくらんぼ](http://www.sakuranbo.esturl.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.sakuranbo.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.sakuranbo.esturl.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.sakuranbo.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.sakuranbo.esturl.com+B87" >}} 
 

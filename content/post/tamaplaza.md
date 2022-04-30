@@ -15,5 +15,5 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "Googleでたまプラーザまでの経路を検索する！" "https://www.google.com/search?q=現在地からたまプラーザ駅まで" >}}
 
 ## [さくらちゃん](http://hfmi8.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmi8.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmi8.xyz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmi8.xyz+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmi8.xyz+B88" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmi8.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmi8.xyz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmi8.xyz+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ahfmi8.xyz+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmi8.xyz+B88" >}} 
 

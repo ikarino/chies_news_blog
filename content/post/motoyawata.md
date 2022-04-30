@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで本八幡までの経路を検索する！" "https://www.google.com/search?q=現在地から本八幡駅まで" >}}
 
-## [アロマカフェ](https://iyashi-room.ies.bz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
-
 ## [水木花](http://hfmj15.xyz/)
 
 
@@ -28,6 +25,9 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-04-22](/post/2022-04-22)**
 - **新着情報あり@[2022-04-12](/post/2022-04-12)**
 - **新着情報あり@[2022-04-10](/post/2022-04-10)**
+## [アロマカフェ](https://iyashi-room.ies.bz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
+
 ## [咲く](http://est-room.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aest-room.com+(C)" >}} 
 
