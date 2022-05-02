@@ -14,13 +14,7 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで関内までの経路を検索する！" "https://www.google.com/search?q=現在地から関内駅まで" >}}
 
-## [優姿 ゆうしい](http://es-koibito.work/)
-
-
 ## [ソレイユ](http://soleil.msa.jp/)
-
-
-## [スマイル](http://smile.esjp.xyz/)
 
 
 ## [雅spa](https://babyheart.info/)
@@ -28,3 +22,6 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-04-21](/post/2022-04-21)**
 - **新着情報あり@[2022-04-07](/post/2022-04-07)**
+## [スマイル](http://smile.esjp.xyz/)
+
+

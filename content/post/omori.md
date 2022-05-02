@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [メロメロ](http://on.mznab.com/)
 
 
+- **新着情報あり@[2022-05-02](/post/2022-05-02)**
 ## [スマイル](https://smiles.est.cm/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asmiles.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Asmiles.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Asmiles.est.cm+B87" >}} 
 
