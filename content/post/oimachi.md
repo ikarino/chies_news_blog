@@ -48,18 +48,15 @@ aliases = ["migrate-from-jekyl"]
 ## [カトレア](https://cattlea.xyz.mn/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Acattlea.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Acattlea.xyz.mn+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acattlea.xyz.mn+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acattlea.xyz.mn+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acattlea.xyz.mn+B87" >}} 
 
-## [時代ノ恋](https://koi.jpn.vin/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Akoi.jpn.vin+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Akoi.jpn.vin+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Akoi.jpn.vin+B80" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Akoi.jpn.vin+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Akoi.jpn.vin+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Akoi.jpn.vin+B86" >}} 
-
-## [縁](https://en.jpn.vin/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aen.jpn.vin+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aen.jpn.vin+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aen.jpn.vin+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aen.jpn.vin+B86" >}} 
-
 ## [愛](https://nekonoheya.ests.jp/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Anekonoheya.ests.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Anekonoheya.ests.jp+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Anekonoheya.ests.jp+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Anekonoheya.ests.jp+B80" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Anekonoheya.ests.jp+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Anekonoheya.ests.jp+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Anekonoheya.ests.jp+B87" >}} 
 
 - **新着情報あり@[2022-04-25](/post/2022-04-25)**
 - **新着情報あり@[2022-04-14](/post/2022-04-14)**
 - **新着情報あり@[2022-04-08](/post/2022-04-08)**
+## [縁](https://en.jpn.vin/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aen.jpn.vin+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aen.jpn.vin+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aen.jpn.vin+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aen.jpn.vin+B86" >}} 
+
 ## [オアシス](http://www.oasis.maesjp.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.oasis.maesjp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.oasis.maesjp.com+(D)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Awww.oasis.maesjp.com+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.oasis.maesjp.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.oasis.maesjp.com+B86" >}} 
 
