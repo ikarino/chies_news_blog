@@ -14,14 +14,14 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで本八幡までの経路を検索する！" "https://www.google.com/search?q=現在地から本八幡駅まで" >}}
 
-## [アロマカフェ](https://iyashi-room.ies.bz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
-
 ## [水木花](http://hfmj15.xyz/)
 
 
 - **新着情報あり@[2022-04-22](/post/2022-04-22)**
 - **新着情報あり@[2022-04-17](/post/2022-04-17)**
+## [アロマカフェ](https://iyashi-room.ies.bz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
+
 ## [楽園](http://www.rakuen.esturl.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B87" >}} 
 

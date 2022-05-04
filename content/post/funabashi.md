@@ -18,6 +18,9 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Asakura.estheya.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asakura.estheya.com+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Asakura.estheya.com+(F)" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Asakura.estheya.com+Fカップ" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Asakura.estheya.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Asakura.estheya.com+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Asakura.estheya.com+B90" >}} 
 
 - **新着情報あり@[2022-04-20](/post/2022-04-20)**
+## [ふわふわ](https://fuwafuwa.est.cm/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B86" >}} 
+
 ## [我が家](https://wagaya.oks.bz/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awagaya.oks.bz+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Awagaya.oks.bz+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awagaya.oks.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awagaya.oks.bz+B86" >}} 
 

@@ -14,3 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで藤沢までの経路を検索する！" "https://www.google.com/search?q=現在地から藤沢駅まで" >}}
 
+## [洗体楽園](http://hi-msg.com/sentai/)
+
+
