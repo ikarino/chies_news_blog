@@ -21,6 +21,7 @@ aliases = ["migrate-from-jekyl"]
 ## [我が家](https://wagaya.oks.bz/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awagaya.oks.bz+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Awagaya.oks.bz+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awagaya.oks.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awagaya.oks.bz+B86" >}} 
 
+- **新着情報あり@[2022-05-08](/post/2022-05-08)**
 - **新着情報あり@[2022-04-28](/post/2022-04-28)**
 - **新着情報あり@[2022-04-19](/post/2022-04-19)**
 - **新着情報あり@[2022-04-12](/post/2022-04-12)**
