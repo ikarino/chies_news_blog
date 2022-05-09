@@ -17,4 +17,3 @@ aliases = ["migrate-from-jekyl"]
 ## [蓮](https://hasu.ies.bz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahasu.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahasu.ies.bz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahasu.ies.bz+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Ahasu.ies.bz+B80" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Ahasu.ies.bz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahasu.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahasu.ies.bz+B86" >}} 
 
-- **新着情報あり@[2022-04-08](/post/2022-04-08)**

@@ -25,7 +25,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-04-28](/post/2022-04-28)**
 - **新着情報あり@[2022-04-19](/post/2022-04-19)**
 - **新着情報あり@[2022-04-12](/post/2022-04-12)**
-- **新着情報あり@[2022-04-08](/post/2022-04-08)**
 ## [ふわふわ](https://fuwafuwa.est.cm/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B86" >}} 
 

@@ -23,8 +23,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter lalaspa4 >}}
 
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Afuurin.bex.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Afuurin.bex.jp+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Afuurin.bex.jp+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Afuurin.bex.jp+(G)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuurin.bex.jp+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Afuurin.bex.jp+B90" >}} {{< keyword "B98" "https://www.google.com/search?q=site%3Afuurin.bex.jp+B98" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Afuurin.bex.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Afuurin.bex.jp+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Afuurin.bex.jp+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Afuurin.bex.jp+(G)" >}} {{< keyword "Gカップ" "https://www.google.com/search?q=site%3Afuurin.bex.jp+Gカップ" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuurin.bex.jp+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Afuurin.bex.jp+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Afuurin.bex.jp+B92" >}} {{< keyword "B98" "https://www.google.com/search?q=site%3Afuurin.bex.jp+B98" >}} 
 
+- **新着情報あり@[2022-05-09](/post/2022-05-09)**
 ## [乙女](http://www.otome.esraku.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+B87" >}} 
 
