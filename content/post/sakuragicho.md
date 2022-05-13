@@ -23,7 +23,6 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-04-19](/post/2022-04-19)**
-- **新着情報あり@[2022-04-12](/post/2022-04-12)**
 ## [隠れ家](https://jasmine-mizonokuti.xyz/)
 
 

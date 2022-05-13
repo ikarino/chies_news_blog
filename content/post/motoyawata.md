@@ -23,7 +23,6 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B87" >}} 
 
 - **新着情報あり@[2022-04-22](/post/2022-04-22)**
-- **新着情報あり@[2022-04-12](/post/2022-04-12)**
 ## [アロマカフェ](https://iyashi-room.ies.bz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
 
