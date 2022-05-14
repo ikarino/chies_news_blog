@@ -24,7 +24,6 @@ aliases = ["migrate-from-jekyl"]
 ## [ほほえみ](http://esthe-relax.tokyo/)
 {{< keyword "おっぱい" "https://www.google.com/search?q=site%3Aesthe-relax.tokyo+おっぱい" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aesthe-relax.tokyo+B86" >}} 
 
-- **新着情報あり@[2022-04-13](/post/2022-04-13)**
 ## [Coco](https://coco.tyo.ac/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(F)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B87" >}} 
 
