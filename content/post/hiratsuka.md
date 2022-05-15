@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで平塚までの経路を検索する！" "https://www.google.com/search?q=現在地から平塚駅まで" >}}
 
+## [七彩](http://nanasai.esmens.com/)
+{{< keyword "(E)" "https://www.google.com/search?q=site%3Ananasai.esmens.com+(E)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ananasai.esmens.com+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ananasai.esmens.com+B89" >}} 
+
 ## [KAGAYAKI](https://r.goope.jp/kagayakiriraku)
 
 
