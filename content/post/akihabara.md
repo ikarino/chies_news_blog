@@ -27,7 +27,6 @@ aliases = ["migrate-from-jekyl"]
 ## [Coco](https://coco.tyo.ac/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Acoco.tyo.ac+(F)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acoco.tyo.ac+B87" >}} 
 
-- **新着情報あり@[2022-04-15](/post/2022-04-15)**
 ## [ニャンニャン娘](http://nf.m-es.net/)
 {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Anf.m-es.net+Dカップ" >}} 
 
