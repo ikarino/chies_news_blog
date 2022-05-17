@@ -14,10 +14,10 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで我孫子までの経路を検索する！" "https://www.google.com/search?q=現在地から我孫子駅まで" >}}
 
-## [如意整体院](http://o-jp.com/zyoi/)
-
-
 ## [順順](http://o-jp.com/zyoi/)
+
+
+## [如意整体院](http://o-jp.com/zyoi/)
 
 
 ## [神秘的リラクゼーション](https://relaxhouse.ebb.jp/)
@@ -52,5 +52,5 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter ogikuboesthe >}}
 
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Akin-relax.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Akin-relax.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Akin-relax.tokyo+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Akin-relax.tokyo+セクシー" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Akin-relax.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Akin-relax.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Akin-relax.tokyo+(E)" >}} 
 

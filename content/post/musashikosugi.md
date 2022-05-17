@@ -27,9 +27,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-05-09](/post/2022-05-09)**
 - **新着情報あり@[2022-05-06](/post/2022-05-06)**
 - **新着情報あり@[2022-05-05](/post/2022-05-05)**
-## [ユアタイム](https://yourtime.relaxjp.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+B89" >}} 
-
 ## [パンドラ](http://yland.work/)
 {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ayland.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Ayland.work+Eカップ" >}} 
 
@@ -39,4 +36,7 @@ aliases = ["migrate-from-jekyl"]
 {{< twitter abcdefghijklmnnn >}}
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Am-kosugi.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Am-kosugi.xyz+(D)" >}} 
+
+## [ユアタイム](https://yourtime.relaxjp.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+B89" >}} 
 

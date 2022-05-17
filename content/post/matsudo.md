@@ -20,3 +20,4 @@ aliases = ["migrate-from-jekyl"]
 ## [楽の縁](https://rakunoen.bex.jp/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B87" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Arakunoen.bex.jp+B90" >}} 
 
+- **新着情報あり@[2022-05-17](/post/2022-05-17)**

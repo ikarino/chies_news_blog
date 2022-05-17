@@ -18,7 +18,6 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-04-22](/post/2022-04-22)**
-- **新着情報あり@[2022-04-17](/post/2022-04-17)**
 ## [美人魚](http://www.rakuen.esturl.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.rakuen.esturl.com+B87" >}} 
 
