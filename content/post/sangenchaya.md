@@ -31,8 +31,9 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-05-16](/post/2022-05-16)**
 - **新着情報あり@[2022-05-09](/post/2022-05-09)**
-## [乙女](http://www.otome.esraku.com/)
+## [杏花香](http://www.otome.esraku.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+B86" >}} 
 
-- **新着情報あり@[2022-05-14](/post/2022-05-14)**
-- **新着情報あり@[2022-05-12](/post/2022-05-12)**
+## [美人クラブ](http://www.club.esturl.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.club.esturl.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.club.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.club.esturl.com+B87" >}} 
+
