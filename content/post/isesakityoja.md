@@ -21,6 +21,7 @@ aliases = ["migrate-from-jekyl"]
 ## [マカロン](http://ma-caron.work/)
 
 
+- **新着情報あり@[2022-05-21](/post/2022-05-21)**
 ## [Dear](https://dear.xyz.mn/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Adear.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Adear.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Adear.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Adear.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Adear.xyz.mn+B87" >}} 
 
