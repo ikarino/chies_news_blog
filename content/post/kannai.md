@@ -18,9 +18,6 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-05-09](/post/2022-05-09)**
-## [スマイル](http://smile.esjp.xyz/)
-
-
 ## [アロマラグーン](https://kannai-aroma.xyz/)
 
 
@@ -34,3 +31,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-05-15](/post/2022-05-15)**
 - **新着情報あり@[2022-05-12](/post/2022-05-12)**
 - **新着情報あり@[2022-05-10](/post/2022-05-10)**
+## [スマイル](http://smile.esjp.xyz/)
+
+
