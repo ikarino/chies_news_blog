@@ -23,9 +23,6 @@ aliases = ["migrate-from-jekyl"]
 ## [アロマフラワーサロン](http://flower-esthe.xyz/)
 {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aflower-esthe.xyz+セクシー" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aflower-esthe.xyz+B86" >}} 
 
-## [悠楽](http://yuraku.tokyo/)
-
-
 ## [新横浜メンズエステ](http://hi-msg.com/sinyokohama/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahi-msg.com+(C)" >}} 
 
@@ -36,6 +33,9 @@ aliases = ["migrate-from-jekyl"]
 
 ## [風情](http://fuzei.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Afuzei.xyz+(C)" >}} 
+
+## [悠楽](http://yuraku.tokyo/)
+
 
 ## [Rose Color ローズカラー](https://rosecolor.jp/)
 
