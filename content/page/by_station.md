@@ -39,6 +39,7 @@ weight = 1
 - [新丸子](/post/shinmaruko/)
 - [三軒茶屋](/post/sangenchaya/)
 - [溝の口](/post/mizonoguchi/)
+- [日吉](/post/hiyoshi/)
 - [桜木町](/post/sakuragicho/)
 - [柏](/post/kashiwa/)
 - [津田沼](/post/tsudanuma/)
