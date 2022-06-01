@@ -17,9 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [アロロ](http://aroro-menz.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aaroro-menz.xyz+(C)" >}} 
 
-## [アロマカフェ](https://iyashi-room.ies.bz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
-
 ## [水木花](http://hfmj15.xyz/)
 
 
@@ -31,10 +28,14 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi.esnavi.work+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aiyashi.esnavi.work+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aiyashi.esnavi.work+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi.esnavi.work+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aiyashi.esnavi.work+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aiyashi.esnavi.work+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aiyashi.esnavi.work+B90" >}} 
 
+- **新着情報あり@[2022-06-01](/post/2022-06-01)**
 - **新着情報あり@[2022-05-29](/post/2022-05-29)**
 - **新着情報あり@[2022-05-25](/post/2022-05-25)**
 ## [Lucky](http://www.lucky.esjp.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.lucky.esjp.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.lucky.esjp.info+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.lucky.esjp.info+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.lucky.esjp.info+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.lucky.esjp.info+B88" >}} 
+
+## [アロマカフェ](https://iyashi-room.ies.bz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
 
 ## [咲く](http://est-room.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aest-room.com+(C)" >}} 
