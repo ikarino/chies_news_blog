@@ -20,6 +20,7 @@ aliases = ["migrate-from-jekyl"]
 ## [SIN3 シンスリー](http://hfmk5.xyz/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmk5.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmk5.xyz+(E)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmk5.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfmk5.xyz+B89" >}} 
 
+- **新着情報あり@[2022-06-02](/post/2022-06-02)**
 ## [Lucky](http://hfmo7.xyz/)
 
 

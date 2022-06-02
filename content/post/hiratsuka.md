@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [七彩](http://nanasai.esmens.com/)
 {{< keyword "(E)" "https://www.google.com/search?q=site%3Ananasai.esmens.com+(E)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ananasai.esmens.com+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ananasai.esmens.com+B89" >}} 
 
+- **新着情報あり@[2022-06-02](/post/2022-06-02)**
 - **新着情報あり@[2022-05-16](/post/2022-05-16)**
 ## [KAGAYAKI](https://r.goope.jp/kagayakiriraku)
 

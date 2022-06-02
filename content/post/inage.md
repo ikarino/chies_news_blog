@@ -17,9 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [ミュゲ](http://rosabella.red/)
 
 
-## [夢蝶](http://euphrosyne-est.biz/)
-{{< keyword "胸" "https://www.google.com/search?q=site%3Aeuphrosyne-est.biz+胸" >}} 
-
 ## [桃の恋](https://momo-koi.est.cm/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+B86" >}} 
 
