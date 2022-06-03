@@ -21,9 +21,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ayuraku.relaxnabi.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayuraku.relaxnabi.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ayuraku.relaxnabi.com+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ayuraku.relaxnabi.com+B83" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayuraku.relaxnabi.com+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ayuraku.relaxnabi.com+B90" >}} 
 
-## [キュートガール](https://loman.ies.fun/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aloman.ies.fun+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aloman.ies.fun+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aloman.ies.fun+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Aloman.ies.fun+B89" >}} 
-
 ## [いろいろ](http://hfmo9.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B89" >}} 
 
