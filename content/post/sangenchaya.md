@@ -32,12 +32,9 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-05-26](/post/2022-05-26)**
 - **新着情報あり@[2022-05-16](/post/2022-05-16)**
 - **新着情報あり@[2022-05-09](/post/2022-05-09)**
-## [小魔女](http://www.komajo.esthejp.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+B88" >}} 
-
 ## [美人クラブ](http://www.club.esturl.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.club.esturl.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.club.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.club.esturl.com+B87" >}} 
 
-## [杏花香](http://www.otome.esraku.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.otome.esraku.com+B86" >}} 
+## [小魔女](http://www.komajo.esthejp.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.komajo.esthejp.com+B88" >}} 
 
