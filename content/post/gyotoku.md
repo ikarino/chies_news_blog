@@ -33,3 +33,4 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfma2.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfma2.xyz+(E)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfma2.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfma2.xyz+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ahfma2.xyz+B90" >}} 
 
+- **新着情報あり@[2022-06-05](/post/2022-06-05)**

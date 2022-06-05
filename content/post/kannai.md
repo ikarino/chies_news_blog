@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで関内までの経路を検索する！" "https://www.google.com/search?q=現在地から関内駅まで" >}}
 
+## [スマイル](http://smile.esjp.xyz/)
+
+
 ## [ソレイユ](http://soleil.msa.jp/)
 
 
@@ -40,6 +43,3 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyasilux.com+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aiyasilux.com+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aiyasilux.com+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aiyasilux.com+B92" >}} 
 
 - **新着情報あり@[2022-06-03](/post/2022-06-03)**
-## [スマイル](http://smile.esjp.xyz/)
-
-

@@ -18,7 +18,6 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asakuraa.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asakuraa.xyz.mn+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Asakuraa.xyz.mn+(F)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asakuraa.xyz.mn+B80" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Asakuraa.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asakuraa.xyz.mn+B85" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Asakuraa.xyz.mn+B90" >}} 
 
 - **新着情報あり@[2022-06-03](/post/2022-06-03)**
-- **新着情報あり@[2022-05-06](/post/2022-05-06)**
 ## [セハト](http://melpomene-est.biz/)
 {{< keyword "セクシー" "https://www.google.com/search?q=site%3Amelpomene-est.biz+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Amelpomene-est.biz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amelpomene-est.biz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Amelpomene-est.biz+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Amelpomene-est.biz+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Amelpomene-est.biz+B90" >}} {{< keyword "B95" "https://www.google.com/search?q=site%3Amelpomene-est.biz+B95" >}} 
 

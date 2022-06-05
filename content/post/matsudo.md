@@ -30,5 +30,5 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-05-17](/post/2022-05-17)**
 ## [らくらく](http://rakuraku.jpest.net/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Arakuraku.jpest.net+(C)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Arakuraku.jpest.net+胸" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Arakuraku.jpest.net+(C)" >}} 
 
