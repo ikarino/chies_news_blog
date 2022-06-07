@@ -25,5 +25,5 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-05-10](/post/2022-05-10)**
 ## [ラベンダー](http://lavender01.com/)
-{{< keyword "胸" "https://www.google.com/search?q=site%3Alavender01.com+胸" >}} 
+
 

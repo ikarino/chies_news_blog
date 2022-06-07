@@ -20,3 +20,4 @@ aliases = ["migrate-from-jekyl"]
 ## [シークレットリゾート](http://www.resort.mensnv.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.resort.mensnv.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.resort.mensnv.com+(D)" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Awww.resort.mensnv.com+B82" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.resort.mensnv.com+B87" >}} 
 
+- **新着情報あり@[2022-06-07](/post/2022-06-07)**
