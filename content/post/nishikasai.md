@@ -15,8 +15,9 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "Googleで西葛西までの経路を検索する！" "https://www.google.com/search?q=現在地から西葛西駅まで" >}}
 
 ## [Babyお帰り](http://euphrosyne-est.net/)
+{{< keyword "胸" "https://www.google.com/search?q=site%3Aeuphrosyne-est.net+胸" >}} 
 
-
+- **新着情報あり@[2022-06-08](/post/2022-06-08)**
 - **新着情報あり@[2022-05-11](/post/2022-05-11)**
 ## [クオレア](https://nishikasai-esthe.xyz/)
 
