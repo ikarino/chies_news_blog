@@ -19,6 +19,9 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-05-29](/post/2022-05-29)**
 - **新着情報あり@[2022-05-24](/post/2022-05-24)**
+## [エスバイン](http://esvine.iest.jp/)
+{{< keyword "B85" "https://www.google.com/search?q=site%3Aesvine.iest.jp+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aesvine.iest.jp+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aesvine.iest.jp+B87" >}} 
+
 ## [アロマラグーン](https://kannai-aroma.xyz/)
 
 
@@ -41,4 +44,3 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-05-28](/post/2022-05-28)**
 - **新着情報あり@[2022-05-15](/post/2022-05-15)**
 - **新着情報あり@[2022-05-12](/post/2022-05-12)**
-- **新着情報あり@[2022-05-10](/post/2022-05-10)**

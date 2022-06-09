@@ -18,3 +18,6 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyasigirl.bex.jp+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aiyasigirl.bex.jp+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Aiyasigirl.bex.jp+(G)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyasigirl.bex.jp+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aiyasigirl.bex.jp+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aiyasigirl.bex.jp+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aiyasigirl.bex.jp+B92" >}} 
 
 - **新着情報あり@[2022-05-12](/post/2022-05-12)**
+## [癒しの天使](http://hi-msg.com/iyashitenshi/)
+
+

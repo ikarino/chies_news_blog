@@ -23,7 +23,6 @@ aliases = ["migrate-from-jekyl"]
 ## [ロマンス](http://www.romance.esturl.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.romance.esturl.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.romance.esturl.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.romance.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.romance.esturl.com+B87" >}} 
 
-- **新着情報あり@[2022-05-10](/post/2022-05-10)**
 ## [ラベンダー](http://lavender01.com/)
 {{< keyword "胸" "https://www.google.com/search?q=site%3Alavender01.com+胸" >}} 
 
