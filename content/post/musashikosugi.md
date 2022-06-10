@@ -24,6 +24,9 @@ aliases = ["migrate-from-jekyl"]
 ## [ユアタイム](https://yourtime.relaxjp.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ayourtime.relaxjp.com+B89" >}} 
 
+## [パンドラ](http://yland.work/)
+{{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ayland.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Ayland.work+Eカップ" >}} 
+
 ## [エミニー](http://eminy.relaxnabi.com/)
 
 
@@ -39,7 +42,3 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-05-20](/post/2022-05-20)**
 - **新着情報あり@[2022-05-16](/post/2022-05-16)**
 - **新着情報あり@[2022-05-13](/post/2022-05-13)**
-- **新着情報あり@[2022-05-11](/post/2022-05-11)**
-## [パンドラ](http://yland.work/)
-{{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ayland.work+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Ayland.work+Eカップ" >}} 
-

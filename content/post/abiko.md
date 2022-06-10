@@ -17,19 +17,10 @@ aliases = ["migrate-from-jekyl"]
 ## [アップル](http://www.fantasticc.work/)
 {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Awww.fantasticc.work+Fカップ" >}} 
 
-## [如意整体院](http://o-jp.com/zyoi/)
-
-
-## [神秘的リラクゼーション](https://relaxhouse.ebb.jp/)
-
-
-{{< twitter rirakuzeshon1 >}}
-
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+(D)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+胸" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+B83" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Arelaxhouse.ebb.jp+B92" >}} 
-
-- **新着情報あり@[2022-05-27](/post/2022-05-27)**
-- **新着情報あり@[2022-05-18](/post/2022-05-18)**
 ## [順順](http://o-jp.com/zyoi/)
+
+
+## [如意整体院](http://o-jp.com/zyoi/)
 
 
 ## [フリースタイル](http://esuteabiko.xyz/)

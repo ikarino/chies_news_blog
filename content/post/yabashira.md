@@ -45,8 +45,9 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-05-24](/post/2022-05-24)**
 - **新着情報あり@[2022-05-19](/post/2022-05-19)**
 ## [もも](http://hfmo10.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmo10.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmo10.xyz+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Ahfmo10.xyz+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B89" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmo10.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmo10.xyz+(D)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Ahfmo10.xyz+セクシー" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfmo10.xyz+B89" >}} 
 
+- **新着情報あり@[2022-06-10](/post/2022-06-10)**
 - **新着情報あり@[2022-06-06](/post/2022-06-06)**
 - **新着情報あり@[2022-05-29](/post/2022-05-29)**
 - **新着情報あり@[2022-05-28](/post/2022-05-28)**

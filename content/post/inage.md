@@ -21,10 +21,10 @@ aliases = ["migrate-from-jekyl"]
 ## [ふわふわ](http://boyboy.work/)
 
 
+## [デリシャス](http://euphrosyne-est.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+セクシー" >}} 
+
 ## [桃の恋](https://momo-koi.est.cm/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amomo-koi.est.cm+B86" >}} 
 
 - **新着情報あり@[2022-05-17](/post/2022-05-17)**
-## [デリシャス](http://euphrosyne-est.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+セクシー" >}} 
-
