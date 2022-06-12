@@ -35,5 +35,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ajelly.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ajelly.ies.bz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ajelly.ies.bz+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Ajelly.ies.bz+B80" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ajelly.ies.bz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ajelly.ies.bz+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ajelly.ies.bz+B88" >}} 
 
+- **新着情報あり@[2022-06-12](/post/2022-06-12)**
 - **新着情報あり@[2022-06-10](/post/2022-06-10)**
 - **新着情報あり@[2022-06-02](/post/2022-06-02)**

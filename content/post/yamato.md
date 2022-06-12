@@ -37,9 +37,9 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-05-18](/post/2022-05-18)**
 - **新着情報あり@[2022-05-17](/post/2022-05-17)**
 - **新着情報あり@[2022-05-16](/post/2022-05-16)**
-## [バラの人魚](http://www.ningyo.esturl.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B88" >}} 
-
 ## [アロマモア](https://aroma-more.jpn.cm/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B87" >}} 
+
+## [バラの人魚](http://www.ningyo.esturl.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B88" >}} 
 
