@@ -40,7 +40,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-05-19](/post/2022-05-19)**
 - **新着情報あり@[2022-05-18](/post/2022-05-18)**
 - **新着情報あり@[2022-05-17](/post/2022-05-17)**
-- **新着情報あり@[2022-05-16](/post/2022-05-16)**
 ## [バラの人魚](http://www.ningyo.esturl.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.ningyo.esturl.com+B88" >}} 
 
