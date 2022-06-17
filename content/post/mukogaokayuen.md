@@ -17,6 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [桜](http://hfmk6.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmk6.xyz+(C)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmk6.xyz+B85" >}} 
 
-## [Smile スマイル](http://heart-throbs.net/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aheart-throbs.net+(C)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aheart-throbs.net+B86" >}} 
+## [女学院](http://cinderella-princess.net/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Acinderella-princess.net+(C)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acinderella-princess.net+B86" >}} 
 

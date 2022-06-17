@@ -21,6 +21,9 @@ aliases = ["migrate-from-jekyl"]
 ## [KAGAYAKI](https://r.goope.jp/kagayakiriraku)
 
 
+## [いやし](http://www.iyashi.relaxmens.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.iyashi.relaxmens.com+(C)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.iyashi.relaxmens.com+B84" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.iyashi.relaxmens.com+B86" >}} 
+
 ## [縁](http://en.m-es.net/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aen.m-es.net+(C)" >}} 
 

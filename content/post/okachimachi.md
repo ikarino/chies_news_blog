@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで御徒町までの経路を検索する！" "https://www.google.com/search?q=現在地から御徒町駅まで" >}}
 
+## [百合](http://oyuri.work/)
+{{< keyword "胸" "https://www.google.com/search?q=site%3Aoyuri.work+胸" >}} 
+
 ## [魔女の家](https://okachimachi-esthe.jp/)
 
 
