@@ -23,6 +23,7 @@ aliases = ["migrate-from-jekyl"]
 ## [もみ楽々](http://www.momiraku.esthejp.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+B87" >}} 
 
+- **新着情報あり@[2022-06-18](/post/2022-06-18)**
 ## [ロマンス](http://www.romance.esturl.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.romance.esturl.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.romance.esturl.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.romance.esturl.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.romance.esturl.com+B87" >}} 
 
