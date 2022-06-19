@@ -25,9 +25,6 @@ aliases = ["migrate-from-jekyl"]
 ## [らく楽](https://rakuraku.fan.bz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Arakuraku.fan.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Arakuraku.fan.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Arakuraku.fan.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Arakuraku.fan.bz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Arakuraku.fan.bz+B87" >}} 
 
-## [心 マインド](http://re-maind.tokyo/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Are-maind.tokyo+(C)" >}} {{< keyword "Cカップ" "https://www.google.com/search?q=site%3Are-maind.tokyo+Cカップ" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Are-maind.tokyo+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Are-maind.tokyo+Eカップ" >}} 
-
 ## [いろいろ](http://hfmo9.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B89" >}} 
 
@@ -37,3 +34,6 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-06-11](/post/2022-06-11)**
 - **新着情報あり@[2022-06-10](/post/2022-06-10)**
+## [心 マインド](http://re-maind.tokyo/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Are-maind.tokyo+(C)" >}} {{< keyword "Cカップ" "https://www.google.com/search?q=site%3Are-maind.tokyo+Cカップ" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Are-maind.tokyo+Dカップ" >}} {{< keyword "Eカップ" "https://www.google.com/search?q=site%3Are-maind.tokyo+Eカップ" >}} 
+

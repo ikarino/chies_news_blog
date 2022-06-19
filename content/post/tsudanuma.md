@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで津田沼までの経路を検索する！" "https://www.google.com/search?q=現在地から津田沼駅まで" >}}
 
+## [ココナッツ](http://hi-msg.com/coconut/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahi-msg.com+(C)" >}} 
+
 ## [ダイヤモンド](http://n-rlx.com/)
 
 
@@ -23,9 +26,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-06-15](/post/2022-06-15)**
 - **新着情報あり@[2022-05-31](/post/2022-05-31)**
 - **新着情報あり@[2022-05-21](/post/2022-05-21)**
-## [ココナッツ](http://hi-msg.com/coconut/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahi-msg.com+(C)" >}} 
-
 ## [Mickey](http://olth5.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aolth5.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aolth5.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aolth5.xyz+(E)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Aolth5.xyz+B83" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Aolth5.xyz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aolth5.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aolth5.xyz+B86" >}} 
 
@@ -36,7 +36,6 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-06-01](/post/2022-06-01)**
 - **新着情報あり@[2022-05-20](/post/2022-05-20)**
-- **新着情報あり@[2022-05-19](/post/2022-05-19)**
 ## [ユートピア](http://utopia.relax-good.com/)
 
 
