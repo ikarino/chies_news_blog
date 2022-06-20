@@ -23,9 +23,9 @@ aliases = ["migrate-from-jekyl"]
 ## [茜 あかね](http://akane.me-es.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aakane.me-es.com+(C)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aakane.me-es.com+セクシー" >}} 
 
-## [ふわふわ](http://boyboy.work/)
-
-
 ## [デリシャス](http://euphrosyne-est.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+セクシー" >}} 
+
+## [ふわふわ](http://boyboy.work/)
+
 
