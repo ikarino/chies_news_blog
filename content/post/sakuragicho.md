@@ -20,13 +20,13 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-06-18](/post/2022-06-18)**
 - **新着情報あり@[2022-05-31](/post/2022-05-31)**
 - **新着情報あり@[2022-05-24](/post/2022-05-24)**
-## [癒しの森](http://healing-forest.work/)
-
-
 ## [MINI](http://mini-esthe.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Amini-esthe.xyz+(C)" >}} 
 
 - **新着情報あり@[2022-06-02](/post/2022-06-02)**
+## [癒しの森](http://healing-forest.work/)
+
+
 ## [隠れ家](https://jasmine-mizonokuti.xyz/)
 
 
