@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで新丸子までの経路を検索する！" "https://www.google.com/search?q=現在地から新丸子駅まで" >}}
 
-## [あゆみ](http://massage-est.info/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Amassage-est.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Amassage-est.info+(E)" >}} {{< keyword "おっぱい" "https://www.google.com/search?q=site%3Amassage-est.info+おっぱい" >}} {{< keyword "B82" "https://www.google.com/search?q=site%3Amassage-est.info+B82" >}} 
-
 ## [Alice アリス](http://alice-est.tokyo/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aalice-est.tokyo+(F)" >}} 
 
