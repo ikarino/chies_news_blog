@@ -26,10 +26,3 @@ aliases = ["migrate-from-jekyl"]
 ## [かわいい少女](http://www.shoujo.mensest.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.shoujo.mensest.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.shoujo.mensest.com+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.shoujo.mensest.com+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.shoujo.mensest.com+B89" >}} 
 
-## [快生堂](http://hfml20.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfml20.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfml20.xyz+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Ahfml20.xyz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfml20.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfml20.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfml20.xyz+B88" >}} 
-
-- **新着情報あり@[2022-05-29](/post/2022-05-29)**
-- **新着情報あり@[2022-05-28](/post/2022-05-28)**
-- **新着情報あり@[2022-05-27](/post/2022-05-27)**
-- **新着情報あり@[2022-05-24](/post/2022-05-24)**

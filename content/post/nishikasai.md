@@ -24,15 +24,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(E)" >}} 
 
-## [キラキラネーム](https://kirakiranemu.est.cm/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(C)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(G)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(H)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+セクシー" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B92" >}} {{< keyword "B94" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B94" >}} 
-
-- **新着情報あり@[2022-06-19](/post/2022-06-19)**
-- **新着情報あり@[2022-06-18](/post/2022-06-18)**
-- **新着情報あり@[2022-06-17](/post/2022-06-17)**
-- **新着情報あり@[2022-06-15](/post/2022-06-15)**
-- **新着情報あり@[2022-06-12](/post/2022-06-12)**
-- **新着情報あり@[2022-06-11](/post/2022-06-11)**
 ## [ワンダーランド](https://www.es-mensesthe.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.es-mensesthe.info+(C)" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Awww.es-mensesthe.info+Fカップ" >}} 
 

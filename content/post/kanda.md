@@ -37,4 +37,5 @@ aliases = ["migrate-from-jekyl"]
 ## [いろいろ](http://hfmo9.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmo9.xyz+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfmo9.xyz+B89" >}} 
 
+- **新着情報あり@[2022-06-24](/post/2022-06-24)**
 - **新着情報あり@[2022-06-09](/post/2022-06-09)**
