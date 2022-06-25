@@ -29,9 +29,6 @@ aliases = ["migrate-from-jekyl"]
 ## [コスモス](http://cosmos.msa.jp/)
 
 
-## [リラシア](http://www.relashia.mensest.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+(E)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+セクシー" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+B89" >}} 
-
 ## [グレイスパ](https://grayspa.relaxesute.com/)
 
 
@@ -41,7 +38,9 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-06-22](/post/2022-06-22)**
 - **新着情報あり@[2022-06-08](/post/2022-06-08)**
-- **新着情報あり@[2022-05-25](/post/2022-05-25)**
+## [リラシア](http://www.relashia.mensest.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+(E)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+胸" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+セクシー" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.relashia.mensest.com+B89" >}} 
+
 ## [金の泡](https://kin-relax.tokyo/)
 
 
