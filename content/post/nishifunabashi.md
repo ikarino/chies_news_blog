@@ -23,7 +23,6 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-06-16](/post/2022-06-16)**
 - **新着情報あり@[2022-05-31](/post/2022-05-31)**
-- **新着情報あり@[2022-05-27](/post/2022-05-27)**
 ## [倉空 そら](https://sora.oks.bz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asora.oks.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asora.oks.bz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asora.oks.bz+(E)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Asora.oks.bz+(G)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asora.oks.bz+B80" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Asora.oks.bz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Asora.oks.bz+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Asora.oks.bz+B88" >}} 
 

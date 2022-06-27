@@ -44,6 +44,7 @@ aliases = ["migrate-from-jekyl"]
 ## [雅spa](https://babyheart.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ababyheart.info+(C)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ababyheart.info+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ababyheart.info+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ababyheart.info+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ababyheart.info+B90" >}} {{< keyword "B97" "https://www.google.com/search?q=site%3Ababyheart.info+B97" >}} 
 
+- **新着情報あり@[2022-06-27](/post/2022-06-27)**
 - **新着情報あり@[2022-06-24](/post/2022-06-24)**
 - **新着情報あり@[2022-06-02](/post/2022-06-02)**
 - **新着情報あり@[2022-05-30](/post/2022-05-30)**
