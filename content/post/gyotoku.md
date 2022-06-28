@@ -31,6 +31,9 @@ aliases = ["migrate-from-jekyl"]
 ## [蜜桃](http://massage-est.tokyo/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Amassage-est.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Amassage-est.tokyo+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Amassage-est.tokyo+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amassage-est.tokyo+B86" >}} 
 
+## [やすらぎ](http://www.yasuragi.relaxmens.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+B86" >}} 
+
 ## [Rouge ルージュ](http://hfma2.xyz/)
 
 
@@ -39,6 +42,3 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfma2.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfma2.xyz+(E)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfma2.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfma2.xyz+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ahfma2.xyz+B90" >}} 
 
 - **新着情報あり@[2022-06-05](/post/2022-06-05)**
-## [やすらぎ](http://www.yasuragi.relaxmens.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+B86" >}} 
-

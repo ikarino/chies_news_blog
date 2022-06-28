@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで伊勢佐木長者町までの経路を検索する！" "https://www.google.com/search?q=現在地から伊勢佐木長者町駅まで" >}}
 
-## [スマイル](http://es-baby.xyz/)
-
-
 ## [Dear](https://dear.xyz.mn/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Adear.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Adear.xyz.mn+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Adear.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Adear.xyz.mn+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Adear.xyz.mn+B87" >}} 
 
