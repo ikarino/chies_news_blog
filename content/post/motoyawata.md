@@ -18,9 +18,9 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aaroro-menz.xyz+(C)" >}} 
 
 - **新着情報あり@[2022-06-02](/post/2022-06-02)**
-## [アロマカフェ](https://iyashi-room.ies.bz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
-
 ## [水木花](http://hfmj15.xyz/)
 
+
+## [アロマカフェ](https://iyashi-room.ies.bz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
 

@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで我孫子までの経路を検索する！" "https://www.google.com/search?q=現在地から我孫子駅まで" >}}
 
-## [アップル](http://www.fantasticc.work/)
-{{< keyword "Fカップ" "https://www.google.com/search?q=site%3Awww.fantasticc.work+Fカップ" >}} 
-
 ## [順順](http://o-jp.com/zyoi/)
 
 

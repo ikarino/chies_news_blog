@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで稲毛までの経路を検索する！" "https://www.google.com/search?q=現在地から稲毛駅まで" >}}
 
+## [ふわふわ](http://boyboy.work/)
+
+
 ## [ミュゲ](http://rosabella.red/)
 
 
@@ -22,9 +25,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-06-07](/post/2022-06-07)**
 ## [茜 あかね](http://akane.me-es.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aakane.me-es.com+(C)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aakane.me-es.com+セクシー" >}} 
-
-## [ふわふわ](http://boyboy.work/)
-
 
 ## [デリシャス](http://euphrosyne-est.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+セクシー" >}} 
