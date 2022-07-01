@@ -32,7 +32,7 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter abcdefghijklmnnn >}}
 
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Aya-rose.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aya-rose.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aya-rose.xyz+(E)" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Aya-rose.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aya-rose.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aya-rose.xyz+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Aya-rose.xyz+(F)" >}} 
 
 ## [麗 うらら](http://hi-msg.com/urara777/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahi-msg.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahi-msg.com+(D)" >}} {{< keyword "胸" "https://www.google.com/search?q=site%3Ahi-msg.com+胸" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahi-msg.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahi-msg.com+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahi-msg.com+B89" >}} 

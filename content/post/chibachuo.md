@@ -30,6 +30,9 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.yeraisha.relaxmens.com+(D)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.yeraisha.relaxmens.com+B87" >}} 
 
 - **新着情報あり@[2022-06-16](/post/2022-06-16)**
+## [やすらぎ](https://yasuragi.jps.cm/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+B87" >}} 
+
 ## [シェリー](http://cherie.mensest.work/)
 
 

@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで行徳までの経路を検索する！" "https://www.google.com/search?q=現在地から行徳駅まで" >}}
 
+## [かわいい恋人](http://cutekoibito.hl-web.work/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+(G)" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+B83" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+B86" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+B92" >}} {{< keyword "B98" "https://www.google.com/search?q=site%3Acutekoibito.hl-web.work+B98" >}} 
+
 ## [初の葉](http://gyotokuest.xyz/)
 
 
@@ -22,12 +25,15 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmb2.xyz+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ahfmb2.xyz+B90" >}} 
 
 - **新着情報あり@[2022-06-21](/post/2022-06-21)**
+## [ピンクムーン](http://hfmp0.xyz/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmp0.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmp0.xyz+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmp0.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmp0.xyz+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ahfmp0.xyz+B90" >}} 
+
 ## [シャルム](http://hi-msg.com/charme/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahi-msg.com+(C)" >}} 
 
 - **新着情報あり@[2022-06-21](/post/2022-06-21)**
-## [ピンクムーン](http://hfmp0.xyz/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfmp0.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmp0.xyz+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfmp0.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmp0.xyz+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ahfmp0.xyz+B90" >}} 
+## [花](http://sh-ylm0.tokyo/)
+
 
 ## [蜜桃](http://massage-est.tokyo/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Amassage-est.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Amassage-est.tokyo+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Amassage-est.tokyo+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Amassage-est.tokyo+B86" >}} 
@@ -35,11 +41,3 @@ aliases = ["migrate-from-jekyl"]
 ## [やすらぎ](http://www.yasuragi.relaxmens.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.yasuragi.relaxmens.com+B86" >}} 
 
-## [Rouge ルージュ](http://hfma2.xyz/)
-
-
-{{< twitter  >}}
-
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfma2.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfma2.xyz+(E)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfma2.xyz+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Ahfma2.xyz+B89" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Ahfma2.xyz+B90" >}} 
-
-- **新着情報あり@[2022-06-05](/post/2022-06-05)**

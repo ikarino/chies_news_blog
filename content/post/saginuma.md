@@ -20,3 +20,7 @@ aliases = ["migrate-from-jekyl"]
 ## [光](http://hht6.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahht6.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahht6.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahht6.xyz+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Ahht6.xyz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahht6.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahht6.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahht6.xyz+B88" >}} 
 
+- **新着情報あり@[2022-07-01](/post/2022-07-01)**
+## [ベストラブ](http://www.bestlove.relaxmens.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.bestlove.relaxmens.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.bestlove.relaxmens.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.bestlove.relaxmens.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.bestlove.relaxmens.com+B86" >}} 
+
