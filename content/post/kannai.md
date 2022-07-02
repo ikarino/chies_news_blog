@@ -37,12 +37,12 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-06-27](/post/2022-06-27)**
 - **新着情報あり@[2022-06-24](/post/2022-06-24)**
 - **新着情報あり@[2022-06-02](/post/2022-06-02)**
-## [スマイル](http://smile.esjp.xyz/)
-
-
 ## [癒しラックス](https://iyasilux.com/)
 {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyasilux.com+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aiyasilux.com+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aiyasilux.com+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aiyasilux.com+B92" >}} 
 
 - **新着情報あり@[2022-06-26](/post/2022-06-26)**
 - **新着情報あり@[2022-06-24](/post/2022-06-24)**
 - **新着情報あり@[2022-06-03](/post/2022-06-03)**
+## [スマイル](http://smile.esjp.xyz/)
+
+
