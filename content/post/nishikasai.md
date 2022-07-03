@@ -27,13 +27,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Asora-awa.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asora-awa.xyz+(E)" >}} 
 
-## [クオレア](https://nishikasai-esthe.xyz/)
-
-
-{{< twitter abcdefghijklmnnn >}}
-
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Anishikasai-esthe.xyz+(E)" >}} 
-
 ## [ワンダーランド](https://www.es-mensesthe.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.es-mensesthe.info+(C)" >}} {{< keyword "Fカップ" "https://www.google.com/search?q=site%3Awww.es-mensesthe.info+Fカップ" >}} 
 

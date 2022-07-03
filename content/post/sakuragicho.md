@@ -24,7 +24,6 @@ aliases = ["migrate-from-jekyl"]
 ## [MINI](http://mini-esthe.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Amini-esthe.xyz+(C)" >}} 
 
-- **新着情報あり@[2022-06-02](/post/2022-06-02)**
 ## [隠れ家](https://jasmine-mizonokuti.xyz/)
 
 

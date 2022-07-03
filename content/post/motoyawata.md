@@ -17,7 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [アロロ](http://aroro-menz.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aaroro-menz.xyz+(C)" >}} 
 
-- **新着情報あり@[2022-06-02](/post/2022-06-02)**
 ## [水木花](http://hfmj15.xyz/)
 
 
