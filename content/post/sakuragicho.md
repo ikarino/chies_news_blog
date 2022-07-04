@@ -21,9 +21,9 @@ aliases = ["migrate-from-jekyl"]
 ## [癒しの森](http://healing-forest.work/)
 
 
-## [MINI](http://mini-esthe.xyz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Amini-esthe.xyz+(C)" >}} 
-
 ## [隠れ家](https://jasmine-mizonokuti.xyz/)
 
+
+## [MINI](http://mini-esthe.xyz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Amini-esthe.xyz+(C)" >}} 
 

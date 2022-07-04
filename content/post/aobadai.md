@@ -17,9 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [クリスタル](http://crystal01.rankuens.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Acrystal01.rankuens.com+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Acrystal01.rankuens.com+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Acrystal01.rankuens.com+(F)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Acrystal01.rankuens.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Acrystal01.rankuens.com+B88" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Acrystal01.rankuens.com+B92" >}} 
 
-## [ラブリー](http://www.olth8.xyz/)
-
-
 ## [アンジュ](https://ao-badai.xyz/)
 
 
@@ -32,6 +29,9 @@ aliases = ["migrate-from-jekyl"]
 
 ## [アリエス](http://www.sh-ylm1.tokyo/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.sh-ylm1.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.sh-ylm1.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.sh-ylm1.tokyo+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.sh-ylm1.tokyo+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.sh-ylm1.tokyo+B88" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.sh-ylm1.tokyo+B89" >}} 
+
+## [ラブリー](http://www.olth8.xyz/)
+
 
 ## [Oasis オアシス](http://est-room.com/)
 
