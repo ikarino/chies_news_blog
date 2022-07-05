@@ -24,6 +24,7 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.hfmp19.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.hfmp19.xyz+(E)" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.hfmp19.xyz+B88" >}} 
 
+- **新着情報あり@[2022-07-05](/post/2022-07-05)**
 ## [魔女の家](https://okachimachi-esthe.jp/)
 
 
