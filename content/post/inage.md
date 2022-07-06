@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [ふわふわ](http://boyboy.work/)
 
 
+- **新着情報あり@[2022-07-06](/post/2022-07-06)**
 ## [ミュゲ](http://rosabella.red/)
 
 

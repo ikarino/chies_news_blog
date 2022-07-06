@@ -14,10 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで錦糸町までの経路を検索する！" "https://www.google.com/search?q=現在地から錦糸町駅まで" >}}
 
-## [ゆき](http://yumeie.work/)
-
-
-- **新着情報あり@[2022-06-06](/post/2022-06-06)**
 ## [恋](http://es-neko.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aes-neko.xyz+(C)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aes-neko.xyz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aes-neko.xyz+B86" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Aes-neko.xyz+B89" >}} 
 
@@ -27,7 +23,6 @@ aliases = ["migrate-from-jekyl"]
 ## [やすらぎ](http://www.yashurage.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.yashurage.xyz+(C)" >}} {{< keyword "Gカップ" "https://www.google.com/search?q=site%3Awww.yashurage.xyz+Gカップ" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Awww.yashurage.xyz+セクシー" >}} 
 
-- **新着情報あり@[2022-06-05](/post/2022-06-05)**
 ## [Rose ローズ](http://candy.este88.com/)
 {{< keyword "(E)" "https://www.google.com/search?q=site%3Acandy.este88.com+(E)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Acandy.este88.com+Dカップ" >}} 
 
