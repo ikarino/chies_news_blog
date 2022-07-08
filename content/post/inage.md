@@ -24,7 +24,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-07-05](/post/2022-07-05)**
 - **新着情報あり@[2022-06-13](/post/2022-06-13)**
 - **新着情報あり@[2022-06-12](/post/2022-06-12)**
-- **新着情報あり@[2022-06-07](/post/2022-06-07)**
 ## [デリシャス](http://euphrosyne-est.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+(E)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aeuphrosyne-est.com+セクシー" >}} 
 
