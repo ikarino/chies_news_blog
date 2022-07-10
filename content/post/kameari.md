@@ -20,6 +20,10 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-07-02](/post/2022-07-02)**
 - **新着情報あり@[2022-06-21](/post/2022-06-21)**
 - **新着情報あり@[2022-06-17](/post/2022-06-17)**
+## [となりのアロマ](https://tonari-aroma.est.cm/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(E)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(H)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B88" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B93" >}} 
+
+- **新着情報あり@[2022-07-07](/post/2022-07-07)**
 ## [カラフル](http://romantic-est.xyz/)
 
 
@@ -40,7 +44,3 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-06-12](/post/2022-06-12)**
 - **新着情報あり@[2022-06-10](/post/2022-06-10)**
-## [となりのアロマ](https://tonari-aroma.est.cm/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(E)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(H)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B88" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B93" >}} 
-
-- **新着情報あり@[2022-07-07](/post/2022-07-07)**
