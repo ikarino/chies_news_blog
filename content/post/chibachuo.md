@@ -17,9 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [夢の国](http://hfml8.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfml8.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ahfml8.xyz+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ahfml8.xyz+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfml8.xyz+B88" >}} 
 
-## [やすらぎ](https://yasuragi.jps.cm/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+B87" >}} 
-
 ## [ラブライト](http://love-light.work/)
 
 
@@ -31,6 +28,9 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-07-09](/post/2022-07-09)**
 - **新着情報あり@[2022-06-16](/post/2022-06-16)**
+## [やすらぎ](https://yasuragi.jps.cm/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+(E)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Ayasuragi.jps.cm+B87" >}} 
+
 ## [シェリー](http://cherie.mensest.work/)
 
 

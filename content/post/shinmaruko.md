@@ -14,13 +14,13 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで新丸子までの経路を検索する！" "https://www.google.com/search?q=現在地から新丸子駅まで" >}}
 
-## [スイカ](https://suica.ies.bz/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asuica.ies.bz+B80" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Asuica.ies.bz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asuica.ies.bz+B85" >}} 
-
 ## [夜色](https://yasyoku.xyz.mn/)
 
 
 {{< twitter tokyoJewel1 >}}
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B80" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B83" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Ayasyoku.xyz.mn+B86" >}} 
+
+## [スイカ](https://suica.ies.bz/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asuica.ies.bz+B80" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Asuica.ies.bz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asuica.ies.bz+B85" >}} 
 
