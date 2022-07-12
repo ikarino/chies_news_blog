@@ -17,9 +17,9 @@ aliases = ["migrate-from-jekyl"]
 ## [アロロ](http://aroro-menz.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aaroro-menz.xyz+(C)" >}} 
 
-## [水木花](http://hfmj15.xyz/)
-
-
 ## [アロマカフェ](https://iyashi-room.ies.bz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
+
+## [水木花](http://hfmj15.xyz/)
+
 

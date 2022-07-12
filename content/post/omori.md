@@ -24,12 +24,10 @@ aliases = ["migrate-from-jekyl"]
 ## [スマイル](https://smiles.est.cm/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asmiles.est.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asmiles.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Asmiles.est.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Asmiles.est.cm+B87" >}} 
 
-## [美人魚](http://www.www.bijingyo.mensest.com/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.www.bijingyo.mensest.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.www.bijingyo.mensest.com+(E)" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.www.bijingyo.mensest.com+B87" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Awww.www.bijingyo.mensest.com+B89" >}} 
-
 ## [慕情アムール](http://hfmo5.xyz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Ahfmo5.xyz+(C)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ahfmo5.xyz+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ahfmo5.xyz+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ahfmo5.xyz+B88" >}} 
 
+- **新着情報あり@[2022-07-12](/post/2022-07-12)**
 - **新着情報あり@[2022-07-08](/post/2022-07-08)**
 - **新着情報あり@[2022-07-06](/post/2022-07-06)**
 - **新着情報あり@[2022-07-05](/post/2022-07-05)**
