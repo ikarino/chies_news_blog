@@ -33,6 +33,7 @@ aliases = ["migrate-from-jekyl"]
 ## [桃源](http://www.momogen.esthejp.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.momogen.esthejp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.momogen.esthejp.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.momogen.esthejp.com+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.momogen.esthejp.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.momogen.esthejp.com+B88" >}} 
 
+- **新着情報あり@[2022-07-13](/post/2022-07-13)**
 - **新着情報あり@[2022-07-06](/post/2022-07-06)**
 - **新着情報あり@[2022-07-05](/post/2022-07-05)**
 - **新着情報あり@[2022-07-01](/post/2022-07-01)**
