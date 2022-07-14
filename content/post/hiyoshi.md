@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで日吉までの経路を検索する！" "https://www.google.com/search?q=現在地から日吉駅まで" >}}
 
+## [美鳳](http://biho.est-u.com/)
+
+
 ## [幸福](http://koufuku.hl-web.work/)
 
 
@@ -22,9 +25,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-07-04](/post/2022-07-04)**
 - **新着情報あり@[2022-06-24](/post/2022-06-24)**
 - **新着情報あり@[2022-06-16](/post/2022-06-16)**
-## [美鳳](http://biho.est-u.com/)
-
-
 ## [Love SPA](http://hi-msg.com/lovespa/)
 
 
@@ -35,10 +35,13 @@ aliases = ["migrate-from-jekyl"]
 ## [エリス](http://eris.mssg.jp/)
 
 
-## [泉水](http://hfml9.xyz/)
-
-
 ## [楽元堂](https://rakugendo.com/)
+
+
+## [Baby Doll](http://babydoll-a.tokyo/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Ababydoll-a.tokyo+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Ababydoll-a.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ababydoll-a.tokyo+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Ababydoll-a.tokyo+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Ababydoll-a.tokyo+B88" >}} 
+
+## [泉水](http://hfml9.xyz/)
 
 
 ## [美人郷](http://bijinnkyou.hl-web.work/)

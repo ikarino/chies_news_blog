@@ -23,3 +23,6 @@ aliases = ["migrate-from-jekyl"]
 ## [アロマカフェ](https://iyashi-room.ies.bz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aiyashi-room.ies.bz+B86" >}} 
 
+## [かわいい恋人](http://www.kawaii.mensest.com/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.kawaii.mensest.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.kawaii.mensest.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.kawaii.mensest.com+B88" >}} 
+

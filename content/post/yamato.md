@@ -36,6 +36,9 @@ aliases = ["migrate-from-jekyl"]
 ## [健康サロン](http://aphrodite-est.com/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aaphrodite-est.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aaphrodite-est.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aaphrodite-est.com+B86" >}} 
 
+## [アミナス](http://relaxation.red/)
+
+
 ## [アロマモア](https://aroma-more.jpn.cm/)
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Aaroma-more.jpn.cm+B87" >}} 
 

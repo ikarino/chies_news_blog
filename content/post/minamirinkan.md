@@ -14,3 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで南林間までの経路を検索する！" "https://www.google.com/search?q=現在地から南林間駅まで" >}}
 
+## [はじめしゃちょー](https://kirakiranemu.est.cm/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(D)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(F)" >}} {{< keyword "(G)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(G)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(H)" >}} {{< keyword "(I)" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+(I)" >}} {{< keyword "セクシー" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+セクシー" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B87" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B90" >}} {{< keyword "B91" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B91" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B92" >}} {{< keyword "B94" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B94" >}} {{< keyword "B95" "https://www.google.com/search?q=site%3Akirakiranemu.est.cm+B95" >}} 
+
