@@ -33,4 +33,3 @@ aliases = ["migrate-from-jekyl"]
 
 
 
-- **新着情報あり@[2022-06-15](/post/2022-06-15)**

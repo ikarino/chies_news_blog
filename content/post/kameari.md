@@ -24,10 +24,9 @@ aliases = ["migrate-from-jekyl"]
 ## [カラフル](http://romantic-est.xyz/)
 
 
-## [となりのアロマ](https://tonari-aroma.est.cm/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(E)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(H)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B88" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B93" >}} 
+## [アンジェラ](http://angela.esjp.xyz/)
 
-- **新着情報あり@[2022-07-07](/post/2022-07-07)**
+
 ## [Hi!Hello!](http://www.hihello.esthejp.com/)
 
 
@@ -37,9 +36,10 @@ aliases = ["migrate-from-jekyl"]
 
 - **新着情報あり@[2022-07-13](/post/2022-07-13)**
 - **新着情報あり@[2022-07-08](/post/2022-07-08)**
-## [アンジェラ](http://angela.esjp.xyz/)
+## [となりのアロマ](https://tonari-aroma.est.cm/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(E)" >}} {{< keyword "(H)" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+(H)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B88" >}} {{< keyword "B93" "https://www.google.com/search?q=site%3Atonari-aroma.est.cm+B93" >}} 
 
-
+- **新着情報あり@[2022-07-07](/post/2022-07-07)**
 ## [パンスト天国](https://jelly.ies.bz/)
 
 
