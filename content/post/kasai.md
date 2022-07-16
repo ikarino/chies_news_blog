@@ -20,11 +20,12 @@ aliases = ["migrate-from-jekyl"]
 ## [もみ楽々](http://www.momiraku.esthejp.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+(E)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+B85" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.momiraku.esthejp.com+B88" >}} 
 
+- **新着情報あり@[2022-07-16](/post/2022-07-16)**
 - **新着情報あり@[2022-07-09](/post/2022-07-09)**
 - **新着情報あり@[2022-06-30](/post/2022-06-30)**
 - **新着情報あり@[2022-06-22](/post/2022-06-22)**
 - **新着情報あり@[2022-06-21](/post/2022-06-21)**
 - **新着情報あり@[2022-06-18](/post/2022-06-18)**
 ## [ラベンダー](http://lavender01.com/)
-{{< keyword "胸" "https://www.google.com/search?q=site%3Alavender01.com+胸" >}} 
+
 
