@@ -14,6 +14,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで関内までの経路を検索する！" "https://www.google.com/search?q=現在地から関内駅まで" >}}
 
+## [スマイル](http://smile.esjp.xyz/)
+
+
 ## [ソレイユ](http://soleil.msa.jp/)
 
 
@@ -28,9 +31,6 @@ aliases = ["migrate-from-jekyl"]
 {{< twitter Hngthm43635242 >}}
 
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Akannai-aroma.xyz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Akannai-aroma.xyz+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Akannai-aroma.xyz+(E)" >}} {{< keyword "(F)" "https://www.google.com/search?q=site%3Akannai-aroma.xyz+(F)" >}} 
-
-## [スマイル](http://smile.esjp.xyz/)
-
 
 ## [癒しラックス](https://iyasilux.com/)
 {{< keyword "B85" "https://www.google.com/search?q=site%3Aiyasilux.com+B85" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Aiyasilux.com+B88" >}} {{< keyword "B90" "https://www.google.com/search?q=site%3Aiyasilux.com+B90" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Aiyasilux.com+B92" >}} 
