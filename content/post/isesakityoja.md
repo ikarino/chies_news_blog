@@ -24,7 +24,6 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-06-29](/post/2022-06-29)**
-- **新着情報あり@[2022-06-18](/post/2022-06-18)**
 ## [Love Spa](http://lovespa.est1.net/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Alovespa.est1.net+(C)" >}} 
 
