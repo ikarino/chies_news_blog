@@ -14,9 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで新丸子までの経路を検索する！" "https://www.google.com/search?q=現在地から新丸子駅まで" >}}
 
-## [きらきら](http://pretty-girl.link/kira/)
-
-
 ## [スイカ](https://suica.ies.bz/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asuica.ies.bz+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asuica.ies.bz+B80" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Asuica.ies.bz+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asuica.ies.bz+B85" >}} 
 

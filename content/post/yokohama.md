@@ -14,10 +14,11 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "Googleで横浜までの経路を検索する！" "https://www.google.com/search?q=現在地から横浜駅まで" >}}
 
-## [桜](http://salon-msg.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
-
-- **新着情報あり@[2022-07-15](/post/2022-07-15)**
 ## [スマイル](https://smile.estjp.info/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Asmile.estjp.info+(E)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Asmile.estjp.info+B85" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Asmile.estjp.info+B89" >}} {{< keyword "B91" "https://www.google.com/search?q=site%3Asmile.estjp.info+B91" >}} {{< keyword "B92" "https://www.google.com/search?q=site%3Asmile.estjp.info+B92" >}} 
 
+## [桜](http://salon-msg.com/)
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Asalon-msg.com+(C)" >}} 
+
+- **新着情報あり@[2022-07-20](/post/2022-07-20)**
+- **新着情報あり@[2022-07-15](/post/2022-07-15)**
