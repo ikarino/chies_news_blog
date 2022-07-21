@@ -27,7 +27,7 @@ aliases = ["migrate-from-jekyl"]
 {{< keyword "(E)" "https://www.google.com/search?q=site%3Acandy.este88.com+(E)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Acandy.este88.com+Dカップ" >}} 
 
 ## [Fairy Girl](http://www.fairygirl.mensest.com/)
-{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+(D)" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B88" >}} 
+{{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+(D)" >}} {{< keyword "B84" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B84" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B86" >}} {{< keyword "B87" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B87" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.fairygirl.mensest.com+B88" >}} 
 
 ## [癒しの泉](https://iyashinoizumi.com/)
 {{< keyword "セクシー" "https://www.google.com/search?q=site%3Aiyashinoizumi.com+セクシー" >}} {{< keyword "B89" "https://www.google.com/search?q=site%3Aiyashinoizumi.com+B89" >}} 

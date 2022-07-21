@@ -24,7 +24,6 @@ aliases = ["migrate-from-jekyl"]
 - **新着情報あり@[2022-07-09](/post/2022-07-09)**
 - **新着情報あり@[2022-06-30](/post/2022-06-30)**
 - **新着情報あり@[2022-06-22](/post/2022-06-22)**
-- **新着情報あり@[2022-06-21](/post/2022-06-21)**
 ## [ラベンダー](http://lavender01.com/)
 {{< keyword "胸" "https://www.google.com/search?q=site%3Alavender01.com+胸" >}} 
 

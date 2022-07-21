@@ -23,8 +23,9 @@ aliases = ["migrate-from-jekyl"]
 
 {{< twitter RoumiJiang >}}
 
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+(E)" >}} {{< keyword "Dカップ" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+Dカップ" >}} 
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+(E)" >}} 
 
+- **新着情報あり@[2022-07-21](/post/2022-07-21)**
 ## [百合](http://www.yuri.relaxmens.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.yuri.relaxmens.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.yuri.relaxmens.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.yuri.relaxmens.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.yuri.relaxmens.com+B88" >}} 
 
