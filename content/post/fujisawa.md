@@ -17,7 +17,6 @@ aliases = ["migrate-from-jekyl"]
 ## [洗体楽園](http://hi-msg.com/sentai/)
 
 
-- **新着情報あり@[2022-06-22](/post/2022-06-22)**
 ## [LIGHT](http://sh-ylm9.tokyo/)
 
 
@@ -25,6 +24,7 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+(E)" >}} 
 
+- **新着情報あり@[2022-07-22](/post/2022-07-22)**
 - **新着情報あり@[2022-07-21](/post/2022-07-21)**
 ## [百合](http://www.yuri.relaxmens.com/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Awww.yuri.relaxmens.com+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Awww.yuri.relaxmens.com+(D)" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Awww.yuri.relaxmens.com+B86" >}} {{< keyword "B88" "https://www.google.com/search?q=site%3Awww.yuri.relaxmens.com+B88" >}} 
