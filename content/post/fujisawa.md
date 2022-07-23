@@ -17,6 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## [洗体楽園](http://hi-msg.com/sentai/)
 
 
+- **新着情報あり@[2022-07-23](/post/2022-07-23)**
 ## [LIGHT](http://sh-ylm9.tokyo/)
 
 
