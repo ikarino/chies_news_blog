@@ -25,6 +25,7 @@ aliases = ["migrate-from-jekyl"]
 
 {{< keyword "(D)" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Ash-ylm9.tokyo+(E)" >}} 
 
+- **新着情報あり@[2022-07-24](/post/2022-07-24)**
 - **新着情報あり@[2022-07-22](/post/2022-07-22)**
 - **新着情報あり@[2022-07-21](/post/2022-07-21)**
 ## [百合](http://www.yuri.relaxmens.com/)

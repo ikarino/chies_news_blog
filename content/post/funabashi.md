@@ -22,10 +22,10 @@ aliases = ["migrate-from-jekyl"]
 
 
 - **新着情報あり@[2022-07-09](/post/2022-07-09)**
-## [ふわふわ](https://fuwafuwa.est.cm/)
-{{< keyword "(D)" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B86" >}} 
-
 ## [Sweety](https://sweety.est.cm/)
 {{< keyword "(C)" "https://www.google.com/search?q=site%3Asweety.est.cm+(C)" >}} {{< keyword "(D)" "https://www.google.com/search?q=site%3Asweety.est.cm+(D)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Asweety.est.cm+B80" >}} {{< keyword "B83" "https://www.google.com/search?q=site%3Asweety.est.cm+B83" >}} 
 
 - **新着情報あり@[2022-07-16](/post/2022-07-16)**
+## [ふわふわ](https://fuwafuwa.est.cm/)
+{{< keyword "(D)" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+(D)" >}} {{< keyword "(E)" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+(E)" >}} {{< keyword "B80" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B80" >}} {{< keyword "B85" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B85" >}} {{< keyword "B86" "https://www.google.com/search?q=site%3Afuwafuwa.est.cm+B86" >}} 
+
